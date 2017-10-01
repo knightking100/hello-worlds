@@ -1,1 +1,0 @@
-display alert "Hello, world!"
