@@ -3,6 +3,6 @@ program Delphi;
 uses sysutils;
 
 begin
-  Writeln('Hello World!');
+  Writeln('Hello World');
   ReadLn;
 end.
