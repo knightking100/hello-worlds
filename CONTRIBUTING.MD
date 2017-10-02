@@ -7,6 +7,6 @@
 - The program output can be `Hello World`, `Hello World!`, `hello world`, `Hello, world`, `hello, world`, etc... 
 - Remember to reference issue [#1](https://github.com/knightking100/hello-worlds/issues/1)
 - Only one new Hello World per pull request
-- Don't add existing Hello World programs in the repo. You can see them in [#1](https://github.com/knightking100/hello-worlds/issues/1)
+- Don't add existing Hello World programs to the repo. You can see them in [#1](https://github.com/knightking100/hello-worlds/issues/1)
 
-## I will merge your pull request on condition that it's valid.
+## I will merge your pull request on condition that it's valid. It might take about 1-24 hours
