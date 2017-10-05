@@ -1,3 +1,0 @@
-DECLARE @hello nvarchar(12);
-SELECT  @hello = 'Hello World!';
-PRINT @hello;
