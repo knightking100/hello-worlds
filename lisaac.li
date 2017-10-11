@@ -1,0 +1,8 @@
+Section Header
+  + name := LISAAC;
+
+Section Public
+  - main <-
+  (
+    "Hello world!".println;
+  );
