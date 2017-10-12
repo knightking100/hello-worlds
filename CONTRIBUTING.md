@@ -2,8 +2,10 @@
 - Create a pull request that adds a new `Hello World` program.
 - The new file must be named `<language_name>.<extension>`
   - Language name can be its aliases. For example `c#` can be `cs` or `csharp`, `c++` can be `cpp`
+  - Please don't use characters that are invalid on Windows or Linux
+  - Please, first letter of the file name in uppercase.
 - The program output can be `Hello World`, `Hello World!`, `hello world`, `Hello, world`, `hello, world`, etc... 
-  - It can print to console, output text to screen or to a file, or use whatever form of output your language supports (e.g a function returning a string/array of char/array of bytes that represent hello world)
+  - It can print to console, output text to screen or to a file, or use whatever form of output your language supports (e.g a function returning a string/array of char/array of bytes/seeded random number generator/Huffman encoded integer that represents hello world)
 - Remember to reference issue [#1](https://github.com/knightking100/hello-worlds/issues/1)
 - Only one new language per pull request, please.
 - Don't add existing Hello World programs to the repo. You can see them in [#1](https://github.com/knightking100/hello-worlds/issues/1)
