@@ -1,0 +1,499 @@
+Hey, you've found the list of languages.
+
+Hopefully versioning this should make it a little more mantainable.
+
+You might be looking for [#1](https://github.com/knightking100/hello-worlds/issues/1)
+
+- [ ] 4th Dimension/4D
+- [ ] 8th
+- [ ] 0815
+- [ ] (Visual) FoxPro
+- [ ] ABAP
+- [x] ABC
+- [ ] ACL2
+- [x] ActionScript
+- [x] Ada
+- [ ] Agena
+- [ ] Agilent VEE
+- [ ] Aime
+- [ ] Algae
+- [x] Algol
+- [ ] Alice
+- [ ] Alore
+- [ ] AmbientTalk
+- [ ] AmigaE
+- [ ] Angelscript
+- [ ] AntLang
+- [ ] Anyways
+- [ ] Apex
+- [ ] APL
+- [x] AppleScript
+- [ ] Applesoft BASIC
+- [ ] Apricot
+- [ ] Arc
+- [x] Arduino
+- [ ] Arendelle
+- [ ] Argile
+- [x] ASP
+- [ ] AspectJ
+- [x] Assembly
+- [ ] Astro
+- [ ] Asymptote
+- [ ] ATLAS
+- [ ] ATS
+- [ ] Augeas
+- [x] AutoHotkey
+- [x] AutoIt
+- [x] AutoLISP
+- [ ] Automator
+- [ ] Avenue
+- [x] AWK
+- [ ] Axe
+- [ ] Babel
+- [x] Bash
+- [ ] BASIC
+- [ ] BASIC256
+- [ ] Battlestar
+- [ ] BBC BASIC
+- [ ] bc
+- [x] BCPL
+- [ ] beeswax
+- [ ] Befunge
+- [ ] BETA
+- [ ] Blast
+- [ ] BlitzBasic
+- [ ] BlitzMax
+- [ ] BML
+- [x] Boo
+- [x] Bourne Shell
+- [ ] Brace
+- [ ] Bracmat
+- [x] Brainfuck
+- [ ] Brat
+- [ ] Brlcad
+- [ ] Bro
+- [ ] Burlesque
+- [x] C
+- [ ] C1R
+- [x] C Shell
+- [ ] C-Omega
+- [x] C#
+- [x] C++
+- [x] C++/CLI
+- [x] Caml
+- [ ] Cat
+- [ ] Cduce
+- [ ] Ceylon
+- [ ] CFML
+- [ ] cg
+- [ ] Ch
+- [ ] Chef
+- [ ] CHILL
+- [ ] ChucK
+- [ ] CIL
+- [ ] CL (OS/400)
+- [ ] Clarion
+- [ ] Clay
+- [ ] Clean
+- [x] Clipper
+- [ ] CLIPS
+- [x] Clojure
+- [ ] CLU
+- [ ] CMake
+- [x] COBOL
+- [x] Cobra
+- [x] CoffeeScript
+- [x] ColdFusion
+- [ ] Comal
+- [ ] Comefrom0x10
+- [x] Common Lisp
+- [ ] Component Pascal
+- [ ] Coq
+- [x] Cow
+- [ ] Crack
+- [ ] Creative Basic
+- [x] Crystal
+- [x] CSS
+- [ ] cT
+- [ ] Curl
+- [x] D
+- [ ] Dafny
+- [ ] Dao
+- [x] Dart
+- [ ] dc
+- [ ] DCL
+- [ ] DCPU-16 ASM
+- [ ] DDNC
+- [ ] Déjà Vu
+- [x] Delphi/Object Pascal
+- [ ] DeviousYarn
+- [ ] DiBOL
+- [ ] DIV Games Studio
+- [ ] DM
+- [ ] DWScript
+- [ ] Dylan
+- [ ] Dylan.NET
+- [ ] E
+- [ ] eC
+- [ ] EchoLisp
+- [ ] ECL
+- [x] ECMAScript
+- [ ] EDSAC order code
+- [ ] Efene
+- [ ] Egison
+- [ ] EGL
+- [ ] Eiffel
+- [ ] Ela
+- [ ] elastiC
+- [ ] Elena
+- [ ] Elisa
+- [x] Elixir
+- [ ] Elm
+- [x] Emacs Lisp
+- [x] Erlang
+- [ ] ERRE
+- [ ] Etoys
+- [ ] Euler Math Toolbox
+- [x] Euphoria
+- [ ] EXEC
+- [ ] Extended Brainfuck
+- [ ] Ezhil
+- [x] F#
+- [x] Factor
+- [ ] Falcon
+- [ ] FALSE
+- [ ] Fancy
+- [ ] Fantom
+- [x] Felix
+- [ ] ferite
+- [ ] Fexl
+- [ ] Fish (Not the Fish Shell)
+- [x] Fish Shell
+- [ ] FOCAL
+- [ ] Forth
+- [x] Fortran
+- [x] Fortress
+- [ ] FreeBASIC
+- [ ] Frege
+- [ ] friendly interactive shell
+- [ ] Frink
+- [ ] FunL
+- [ ] FUZE BASIC
+- [ ] Gambas
+- [ ] GAP
+- [ ] gecho
+- [ ] Gema
+- [ ] Gentee
+- [ ] GFA Basic
+- [ ] GLBasic
+- [ ] Glee
+- [ ] GML
+- [x] GNU Octave
+- [x] Go
+- [ ] Golfscript
+- [x] Google AppsScript
+- [ ] Gosu
+- [x] Groovy
+- [x] GTA3Script
+- [ ] GW-BASIC
+- [ ] Hack
+- [ ] Halon
+- [ ] Harbour
+- [x] Haskell
+- [x] Haxe
+- [ ] Heron
+- [ ] HicEst
+- [ ] HLA
+- [ ] HolyC
+- [ ] Hoon
+- [ ] HPL
+- [ ] HPPPL
+- [ ] HQ9+
+- [x] HTML
+- [ ] Hy
+- [ ] HyperTalk
+- [ ] I
+- [x] Icon / Unicon
+- [ ] IDL
+- [x] Idris
+- [ ] Inform
+- [ ] Informix-4GL
+- [ ] Integer BASIC
+- [ ] INTERCAL
+- [x] Io
+- [ ] Ioke
+- [ ] IWBASIC
+- [ ] J
+- [x] J#
+- [ ] Jack
+- [ ] Jacquard Loom
+- [ ] JADE
+- [x] Java
+- [x] Java FX Script
+- [x] JavaFX
+- [x] JavaScript
+- [ ] JCL
+- [ ] Joy
+- [ ] jq
+- [x] JScript
+- [x] JScript.NET
+- [x] Julia
+- [ ] Kaya
+- [ ] Kdf9 Usercode
+- [ ] Kitanai
+- [ ] Kite
+- [ ] Kitten
+- [ ] KonsolScript
+- [x] Korn Shell (Ksh)
+- [x] Kotlin
+- [ ] LabVIEW
+- [ ] Ladder Logic
+- [ ] Lang5
+- [x] Lasso
+- [ ] LC3 Assembly
+- [ ] LFE
+- [ ] Liberty BASIC
+- [ ] Lily
+- [ ] LilyPond
+- [x] Limbo
+- [ ] Lingo
+- [x] Lisaac
+- [x] Lisp
+- [ ] Little
+- [ ] LiveCode
+- [ ] LLVM
+- [ ] Lobster
+- [ ] Logo
+- [ ] Logtalk
+- [x] LOLCODE
+- [ ] LotusScript
+- [ ] LPC
+- [ ] LSE64
+- [x] Lua
+- [ ] Lustre
+- [x] M4
+- [ ] Maclisp
+- [ ] MAD
+- [ ] Magic
+- [ ] Magik
+- [ ] make
+- [ ] Malbolge
+- [ ] MANTIS
+- [ ] Maple
+- [ ] Mathematica / Wolfram Language
+- [x] MATLAB
+- [ ] Maude
+- [ ] Max/MSP
+- [ ] Maxima
+- [ ] MAXScript
+- [ ] MEL
+- [ ] Mercury
+- [ ] Metafont
+- [ ] Mirah
+- [ ] mIRC Scripting Language
+- [ ] Miva
+- [ ] ML
+- [ ] ML/I
+- [ ] Modula-2
+- [ ] Modula-3
+- [ ] Monkey
+- [ ] MOO
+- [x] MoonScript
+- [ ] Morfa
+- [ ] Moto
+- [x] MS-DOS Batch
+- [ ] MUF
+- [ ] MUMPS
+- [ ] MyDef
+- [ ] MyrtleScript
+- [ ] MySQL
+- [ ] Mythryl
+- [ ] NATURAL
+- [ ] Neat
+- [ ] Neko
+- [ ] Nemerle
+- [ ] NetRexx
+- [ ] newLISP
+- [x] Nim / Nimrod
+- [ ] Nit
+- [ ] NQC
+- [ ] NSIS
+- [x] Nu
+- [ ] NXT-G
+- [ ] Oberon / Oberon-2
+- [ ] Objeck
+- [ ] Object Rexx
+- [x] Objective-C
+- [x] Objective-J
+- [x] OCaml
+- [ ] Occam
+- [ ] Octave
+- [ ] Oforth
+- [ ] Onyx
+- [ ] OOC
+- [ ] ooRexx
+- [ ] Opa
+- [ ] OpenCL
+- [ ] OpenEdge ABL
+- [ ] OpenLisp
+- [ ] Openscad
+- [ ] OPL
+- [ ] Oxygene
+- [ ] Oz
+- [ ] Paradox
+- [ ] PARI/GP
+- [x] Parrot
+- [x] Pascal
+- [ ] PASM
+- [x] Perl
+- [ ] Phix
+- [x] PHP
+- [ ] PicoLisp
+- [ ] Pict
+- [ ] Pike
+- [ ] PILOT
+- [ ] PIR
+- [ ] PL/I
+- [ ] PL/M
+- [x] PL/SQL
+- [ ] Pliant
+- [ ] Pony
+- [ ] Pop11
+- [ ] PostScript
+- [ ] Potion
+- [ ] POV-Ray
+- [ ] PowerBasic
+- [ ] PowerScript
+- [x] PowerShell
+- [x] Processing
+- [ ] ProDOS
+- [x] Prolog
+- [ ] PSQL
+- [ ] Puppet
+- [ ] Pure
+- [ ] Pure Data
+- [ ] PureBasic
+- [x] Python
+- [ ] Q
+- [ ] Quill
+- [x] R
+- [ ] Ra
+- [x] Racket
+- [ ] Raven
+- [ ] REALBasic
+- [x] REBOL
+- [ ] RED
+- [ ] Retro
+- [ ] Revolution
+- [ ] REXX
+- [ ] Ring
+- [ ] RPG (OS/400)
+- [ ] RTL/2
+- [x] Ruby
+- [ ] Run BASIC
+- [x] Rust
+- [ ] S
+- [ ] S-PLUS
+- [ ] Salmon
+- [x] SAS
+- [ ] Sather
+- [x] Scala
+- [x] Scheme
+- [ ] Scilab
+- [ ] Scratch
+- [ ] sed
+- [ ] Seed7
+- [ ] Self
+- [ ] Set lang
+- [ ] SETL
+- [ ] SETL4
+- [x] Shell
+- [ ] Shen
+- [ ] Shiny
+- [ ] Sidef
+- [ ] SIGNAL
+- [ ] SIMPOL
+- [ ] Simula
+- [ ] Simulink
+- [ ] Sisal
+- [ ] SkookumScript
+- [ ] Slate
+- [x] Smalltalk
+- [ ] smart BASIC
+- [ ] Smarty
+- [ ] SmileBASIC
+- [ ] SNOBOL4
+- [ ] SNUSP
+- [ ] SPARK
+- [ ] Sparkling
+- [ ] SPL
+- [ ] SPSS
+- [ ] SQL
+- [ ] SQR
+- [ ] Squeak
+- [ ] Squirrel
+- [x] Standard ML (SML)
+- [ ] Stata
+- [ ] Suneido
+- [ ] Suneido
+- [ ] SuperCollider
+- [x] Swift
+- [x] Swift (Playground)
+- [ ] Symsyn
+- [ ] TACL
+- [x] Tcl
+- [ ] Teco
+- [ ] Terra
+- [ ] TestML
+- [x] TeX / LaTeX
+- [ ] thinBasic
+- [ ] TI-39 BASIC
+- [ ] TI-83 BASIC
+- [x] TI-Z80 BASIC
+- [ ] TOM
+- [ ] TorqueScript
+- [ ] TPP
+- [x] Transact-SQL
+- [ ] TransFORTH
+- [ ] Trith
+- [ ] True BASIC
+- [x] Turing
+- [ ] TUSCRIPT
+- [x] TypeScript
+- [ ] Uniface
+- [ ] Unlambda
+- [ ] Ursa
+- [ ] Ursala
+- [ ] Uyir (உயிர்)
+- [ ] V
+- [ ] Vala/Genie
+- [x] VBScript
+- [ ] Vedit macro language
+- [x] Verilog
+- [ ] VHDL
+- [ ] Vim Script
+- [ ] VimL
+- [x] Visual Basic
+- [x] Visual Basic .NET (VB.NET)
+- [ ] Viua VM assembly
+- [ ] Wart
+- [ ] WebDNA
+- [ ] Whenever
+- [ ] Whiley
+- [x] Whitespace
+- [ ] Wren
+- [ ] X10
+- [ ] xBase
+- [ ] XBase++
+- [ ] xEec
+- [ ] Xen
+- [ ] XL
+- [ ] XLISP
+- [ ] XPL
+- [ ] XPL0
+- [ ] XQuery
+- [ ] XSLT
+- [ ] yacc
+- [ ] Yorick
+- [x] Z shell (Zsh)
+- [ ] zkl
