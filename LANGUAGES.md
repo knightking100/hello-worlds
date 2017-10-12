@@ -49,6 +49,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] AWK
 - [ ] Axe
 - [ ] Babel
+- [x] Ballerina
 - [x] Bash
 - [ ] BASIC
 - [ ] BASIC256
@@ -224,11 +225,12 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] IWBASIC
 - [ ] J
 - [x] J#
-- [ ] Jack
+- [x] Jack
 - [ ] Jacquard Loom
 - [ ] JADE
 - [x] Java
 - [x] Java FX Script
+- [x] JavaServer Pages / JSP
 - [x] JavaFX
 - [x] JavaScript
 - [ ] JCL
@@ -326,7 +328,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Objective-J
 - [x] OCaml
 - [ ] Occam
-- [ ] Octave
+- [x] Octave
 - [ ] Oforth
 - [ ] Onyx
 - [ ] OOC
@@ -471,7 +473,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Vedit macro language
 - [x] Verilog
 - [x] VHDL
-- [ ] Vim Script
+- [x] Vim Script
 - [ ] VimL
 - [x] Visual Basic
 - [x] Visual Basic .NET (VB.NET)
