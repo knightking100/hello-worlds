@@ -1,8 +1,6 @@
-Hey, you've found the list of languages.
+List of languages. Pick one you like and open a PR. Make sure you've read [CONTRIBUTING.md](https://github.com/knightking100/hello-worlds/blob/master/CONTRIBUTING.md#how-to-contribute)
 
-Hopefully versioning this should make it a little more mantainable.
-
-You might be looking for [#1](https://github.com/knightking100/hello-worlds/issues/1)
+You can also request a new language to be added to the list, just leave a comment here.
 
 - [ ] 4th Dimension/4D
 - [ ] 8th
@@ -407,6 +405,7 @@ You might be looking for [#1](https://github.com/knightking100/hello-worlds/issu
 - [ ] Set lang
 - [ ] SETL
 - [ ] SETL4
+- [x] Shakespeare
 - [x] Shell
 - [ ] Shen
 - [ ] Shiny
@@ -497,3 +496,5 @@ You might be looking for [#1](https://github.com/knightking100/hello-worlds/issu
 - [ ] Yorick
 - [x] Z shell (Zsh)
 - [ ] zkl
+
+`copy(a.split('\n').sort((a, b) => naturalCompare(a.substring(5), b.substring(5))).join('\n'))`
