@@ -81,7 +81,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] C++
 - [x] C++/CLI
 - [x] Caml
-- [ ] Cat
+- [x] Cat
 - [ ] Cduce
 - [ ] Ceylon
 - [ ] CFML
