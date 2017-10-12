@@ -307,7 +307,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] MUMPS
 - [ ] MyDef
 - [ ] MyrtleScript
-- [ ] MySQL
+- [x] MySQL
 - [ ] Mythryl
 - [ ] NATURAL
 - [ ] Neat
