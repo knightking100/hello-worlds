@@ -1,1 +1,0 @@
-execute "echom 'Hello, world!'"
