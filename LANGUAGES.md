@@ -55,7 +55,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] BASIC256
 - [ ] Battlestar
 - [ ] BBC BASIC
-- [ ] bc
+- [x] bc
 - [x] BCPL
 - [ ] beeswax
 - [ ] Befunge
