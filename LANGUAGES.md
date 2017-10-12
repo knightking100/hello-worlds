@@ -195,7 +195,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Groovy
 - [x] GTA3Script
 - [ ] GW-BASIC
-- [ ] Hack
+- [x] Hack
 - [ ] Halon
 - [ ] Harbour
 - [x] Haskell
@@ -470,7 +470,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] VBScript
 - [ ] Vedit macro language
 - [x] Verilog
-- [ ] VHDL
+- [x] VHDL
 - [ ] Vim Script
 - [ ] VimL
 - [x] Visual Basic
