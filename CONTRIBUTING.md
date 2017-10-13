@@ -1,7 +1,7 @@
 # How to contribute
 - Create a pull request that adds a new `Hello World` program.
 - The new file must be named `<language_name>.<extension>`
-  - `language_name` can be its aliases. For example `c#` can be `Cs` or `Csharp`, `c++` can be `Cpp`
+  - `language_name` can be its aliases. For example `C#` can be `CS` or `CSharp`, `C++` can be `CPP`
   - Please don't use characters that are invalid on Windows or Linux
   - Please, use **first letter** of the file name in uppercase.
 - The program output can be `Hello World`, `Hello World!`, `hello world`, `Hello, world`, `hello, world`, etc... 
