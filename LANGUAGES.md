@@ -194,7 +194,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Go
 - [ ] Golfscript
 - [x] Google AppsScript
-- [ ] Gosu
+- [x] Gosu
 - [x] Groovy
 - [x] GTA3Script
 - [x] GW-BASIC
@@ -216,7 +216,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] HyperTalk
 - [ ] I
 - [x] Icon / Unicon
-- [ ] IDL
+- [x] IDL
 - [x] Idris
 - [ ] Inform
 - [ ] Informix-4GL
