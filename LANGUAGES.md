@@ -52,7 +52,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Babel
 - [x] Ballerina
 - [x] Bash
-- [ ] BASIC
+- [x] BASIC
 - [ ] BASIC256
 - [ ] Battlestar
 - [ ] BBC BASIC
