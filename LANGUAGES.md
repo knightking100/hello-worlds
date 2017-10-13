@@ -334,7 +334,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] OOC
 - [ ] ooRexx
 - [ ] Opa
-- [ ] OpenCL
+- [x] OpenCL
 - [ ] OpenEdge ABL
 - [ ] OpenLisp
 - [ ] Openscad
@@ -402,7 +402,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Scheme
 - [ ] Scilab
 - [ ] Scratch
-- [ ] sed
+- [x] sed
 - [ ] Seed7
 - [ ] Self
 - [ ] Set lang
@@ -496,7 +496,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] XPL0
 - [ ] XQuery
 - [ ] XSLT
-- [ ] yacc
+- [x] yacc
 - [ ] Yorick
 - [x] Z shell (Zsh)
 - [ ] zkl
