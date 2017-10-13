@@ -1,4 +1,4 @@
-#prints hello world word by word on windows system
+#prints hello world letter by letter on windows system
 import os,time
 
 def slowhello():
