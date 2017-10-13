@@ -58,7 +58,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] BBC BASIC
 - [x] bc
 - [x] BCPL
-- [ ] beeswax
+- [x] beeswax
 - [x] Befunge
 - [ ] BETA
 - [ ] Blast
@@ -88,14 +88,14 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] CFML
 - [ ] cg
 - [ ] Ch
-- [ ] Chef
+- [x] Chef
 - [ ] CHILL
 - [ ] ChucK
 - [ ] CIL
 - [ ] CL (OS/400)
 - [ ] Clarion
 - [ ] Clay
-- [ ] Clean
+- [x] Clean
 - [x] Clipper
 - [ ] CLIPS
 - [x] Clojure
@@ -151,6 +151,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Elixir
 - [ ] Elm
 - [x] Emacs Lisp
+- [x] Emojicode
 - [x] Erlang
 - [ ] ERRE
 - [ ] Etoys
@@ -244,7 +245,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Kdf9 Usercode
 - [ ] Kitanai
 - [ ] Kite
-- [ ] Kitten
+- [x] Kitten
 - [ ] KonsolScript
 - [x] Korn Shell (Ksh)
 - [x] Kotlin
@@ -255,7 +256,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] LC3 Assembly
 - [ ] LFE
 - [ ] Liberty BASIC
-- [ ] Lily
+- [x] Lily
 - [ ] LilyPond
 - [x] Limbo
 - [ ] Lingo
@@ -279,7 +280,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Magic
 - [ ] Magik
 - [x] make
-- [ ] Malbolge
+- [x] Malbolge
 - [ ] MANTIS
 - [ ] Maple
 - [x] Markdown
