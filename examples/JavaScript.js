@@ -1,5 +1,5 @@
 console.log('Hello World');
-function Hello_World(){
-return "Hello World";
+function helloWorld(){
+  return 'Hello World';
 }
-Hello_World();
+helloWorld();
