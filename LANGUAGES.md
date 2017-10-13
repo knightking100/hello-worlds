@@ -99,7 +99,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] CLIPS
 - [x] Clojure
 - [ ] CLU
-- [ ] CMake
+- [x] CMake
 - [x] COBOL
 - [x] Cobra
 - [x] CoffeeScript
@@ -277,7 +277,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] MAD
 - [ ] Magic
 - [ ] Magik
-- [ ] make
+- [x] make
 - [ ] Malbolge
 - [ ] MANTIS
 - [ ] Maple
@@ -448,6 +448,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Terra
 - [ ] TestML
 - [x] TeX / LaTeX
+- [x] Thai
 - [ ] thinBasic
 - [ ] TI-39 BASIC
 - [ ] TI-83 BASIC
