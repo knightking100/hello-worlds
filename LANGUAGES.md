@@ -59,7 +59,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] bc
 - [x] BCPL
 - [ ] beeswax
-- [ ] Befunge
+- [x] Befunge
 - [ ] BETA
 - [ ] Blast
 - [ ] BlitzBasic
@@ -196,7 +196,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Gosu
 - [x] Groovy
 - [x] GTA3Script
-- [ ] GW-BASIC
+- [x] GW-BASIC
 - [x] Hack
 - [ ] Halon
 - [ ] Harbour
@@ -228,7 +228,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] J#
 - [x] Jack
 - [ ] Jacquard Loom
-- [ ] JADE
+- [x] JADE
 - [x] Java
 - [x] Java FX Script
 - [x] JavaServer Pages / JSP
@@ -268,7 +268,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Logo
 - [ ] Logtalk
 - [x] LOLCODE
-- [ ] LotusScript
+- [x] LotusScript
 - [ ] LPC
 - [ ] LSE64
 - [x] Lua
