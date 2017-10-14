@@ -353,6 +353,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] PASM
 - [x] Perl
 - [ ] Phix
+- [x] Piet
 - [x] PHP
 - [ ] PicoLisp
 - [ ] Pict
