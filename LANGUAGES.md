@@ -433,7 +433,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Sparkling
 - [ ] SPL
 - [ ] SPSS
-- [ ] SQL
+- [x] SQL
 - [ ] SQR
 - [ ] Squeak
 - [ ] Squirrel
