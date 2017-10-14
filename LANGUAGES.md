@@ -4,7 +4,7 @@ You can also request a new language to be added to the list, just leave a commen
 
 - [ ] 4th Dimension/4D
 - [ ] 8th
-- [ ] 0815
+- [x] 0815
 - [ ] (Visual) FoxPro
 - [ ] ABAP
 - [x] ABC
@@ -484,7 +484,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Viua VM assembly
 - [ ] Wart
 - [ ] WebDNA
-- [ ] Whenever
+- [x] Whenever
 - [ ] Whiley
 - [x] Whitespace
 - [ ] Wren
