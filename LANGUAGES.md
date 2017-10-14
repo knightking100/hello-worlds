@@ -20,7 +20,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Alice
 - [ ] Alore
 - [ ] AmbientTalk
-- [ ] AmigaE
+- [x] AmigaE
 - [ ] Angelscript
 - [x] Ansible
 - [ ] AntLang
@@ -499,7 +499,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] XPL
 - [ ] XPL0
 - [ ] XQuery
-- [ ] XSLT
+- [x] XSLT
 - [x] yacc
 - [ ] Yorick
 - [x] Z shell (Zsh)
