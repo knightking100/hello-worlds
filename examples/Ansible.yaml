@@ -1,0 +1,7 @@
+---
+- name: Hello World
+  hosts: localhost
+
+  tasks:
+  - name: Echo 'Hello World'
+    debug: # Default msg parameter is 'Hello World!'
