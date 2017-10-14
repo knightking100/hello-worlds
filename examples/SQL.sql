@@ -1,0 +1,8 @@
+DELIMITER $$
+CREATE PROCEDURE HelloWorld()
+BEGIN
+  SELECT 'Hello World' as MESSAGE;
+END $$
+DELIMITER ;
+
+CALL HelloWorld();
