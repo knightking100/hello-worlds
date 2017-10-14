@@ -22,6 +22,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] AmbientTalk
 - [ ] AmigaE
 - [ ] Angelscript
+- [x] Ansible
 - [ ] AntLang
 - [ ] Anyways
 - [ ] Apex
@@ -149,7 +150,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Elena
 - [ ] Elisa
 - [x] Elixir
-- [ ] Elm
+- [x] Elm
 - [x] Emacs Lisp
 - [x] Emojicode
 - [x] Erlang
@@ -193,6 +194,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] GNU Octave
 - [x] Go
 - [ ] Golfscript
+- [x] Gonda
 - [x] Google AppsScript
 - [x] Gosu
 - [x] Groovy
@@ -246,7 +248,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Kitanai
 - [ ] Kite
 - [x] Kitten
-- [ ] KonsolScript
+- [x] KonsolScript
 - [x] Korn Shell (Ksh)
 - [x] Kotlin
 - [ ] LabVIEW
