@@ -120,7 +120,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Curl
 - [x] D
 - [ ] Dafny
-- [ ] Dao
+- [x] Dao
 - [x] Dart
 - [ ] dc
 - [ ] DCL
