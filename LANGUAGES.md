@@ -6,6 +6,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] 8th
 - [x] 0815
 - [ ] (Visual) FoxPro
+- [x] A+
 - [ ] ABAP
 - [x] ABC
 - [x] AC3 Assembly
