@@ -1,0 +1,2 @@
+<?php
+die("Hello World");
