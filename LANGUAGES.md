@@ -1,3 +1,7 @@
+List of languages. Pick one you like and open a PR. Make sure you've read [CONTRIBUTING.md](https://github.com/knightking100/hello-worlds/blob/master/CONTRIBUTING.md#how-to-contribute)
+
+You can also request a new language to be added to the list, just leave a comment here.
+
 - [ ] [0(nop^)](http://esolangs.org/wiki/0(nop%5E))
 - [ ] [0x29A](http://esolangs.org/wiki/0x29A)
 - [ ] [0x29C](http://esolangs.org/wiki/0x29C)
@@ -1700,3 +1704,27 @@
 - [ ] [ZZZ](http://esolangs.org/wiki/ZZZ)
 - [ ] [µCurse](http://esolangs.org/wiki/%CE%9CCurse)
 - [ ] [Юᓂ곧⎔](http://esolangs.org/wiki/%D0%AE%E1%93%82%EA%B3%A7%E2%8E%94)
+
+```js
+copy(a.split('\n').filter((v, i, s) => s.findIndex(e => e.slice(5) == v.slice(5)) === i).sort((a, b) => naturalCompare(a.slice(5), b.slice(5))).join('\n'))
+
+copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLowerCase() == v.slice(5).toLowerCase())).sort((a, b) => {
+  const re = /(\d+)|(\D+)/g;
+  a = a.slice(5);
+  b = b.slice(5);
+  
+  const ax = [], bx = [];
+  let an, bn, nn;
+
+  a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
+  b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
+  
+  while (ax.length && bx.length) {
+    an = ax.shift();
+    bn = bx.shift();
+    nn = (an[0] - bn[0]) || an[1].localeCompare(bn[1]);
+    if(nn) return nn;
+  }
+
+  return ax.length - bx.length;
+}).join('\n'));```
