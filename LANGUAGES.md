@@ -652,7 +652,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Gibberish](http://esolangs.org/wiki/Gibberish_(programming_language))
 - [ ] Gibberish/JavaScript, another kind of Gibberish
 - [ ] [Glass](http://esolangs.org/wiki/Glass)
-- [ ] [Glava](http://esolangs.org/wiki/Glava)
+- [x] [Glava](http://esolangs.org/wiki/Glava)
 - [ ] [GLBasic](https://rosettacode.org/wiki/Hello_world/Text#GLBasic)
 - [ ] [Glee](https://rosettacode.org/wiki/Hello_world/Text#Glee)
 - [ ] [Glypho](http://esolangs.org/wiki/Glypho)
