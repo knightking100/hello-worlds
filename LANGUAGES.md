@@ -652,7 +652,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Gibberish](http://esolangs.org/wiki/Gibberish_(programming_language))
 - [ ] Gibberish/JavaScript, another kind of Gibberish
 - [ ] [Glass](http://esolangs.org/wiki/Glass)
-- [ ] [Glava](http://esolangs.org/wiki/Glava)
+- [x] [Glava](http://esolangs.org/wiki/Glava)
 - [ ] [GLBasic](https://rosettacode.org/wiki/Hello_world/Text#GLBasic)
 - [ ] [Glee](https://rosettacode.org/wiki/Hello_world/Text#Glee)
 - [ ] [Glypho](http://esolangs.org/wiki/Glypho)
@@ -1601,7 +1601,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [VBScript](https://rosettacode.org/wiki/Hello_world/Text#VBScript)
 - [ ] [VD3](http://esolangs.org/wiki/VD3)
 - [ ] [Vedit macro language](https://rosettacode.org/wiki/Hello_world/Text#Vedit_macro_language)
-- [ ] [Velato](http://esolangs.org/wiki/Velato)
+- [x] [Velato](http://esolangs.org/wiki/Velato)
 - [ ] [Verbose](http://esolangs.org/wiki/Verbose)
 - [x] Verilog
 - [ ] [Versert](http://esolangs.org/wiki/Versert)
@@ -1712,13 +1712,13 @@ copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLower
   const re = /(\d+)|(\D+)/g;
   a = a.slice(5);
   b = b.slice(5);
-  
+
   const ax = [], bx = [];
   let an, bn, nn;
 
   a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
   b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
-  
+
   while (ax.length && bx.length) {
     an = ax.shift();
     bn = bx.shift();
