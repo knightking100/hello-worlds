@@ -1,34 +1,33 @@
-package helloworld;
- 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.control.Button;
-import javafx.scene.layout.StackPane;
+import javafx.stage.Modality;
 import javafx.stage.Stage;
- 
-public class HelloWorld extends Application {
+import javafx.stage.Window;
+
+import java.io.IOException;
+
+import static javafx.application.Application.launch;
+
+
+public class JavaFX extends Application {
+
     public static void main(String[] args) {
         launch(args);
     }
-    
+
     @Override
-    public void start(Stage primaryStage) {
-        primaryStage.setTitle("Hello World!");
-        Button btn = new Button();
-        btn.setText("Say 'Hello World'");
-        btn.setOnAction(new EventHandler<ActionEvent>() {
- 
-            @Override
-            public void handle(ActionEvent event) {
-                System.out.println("Hello World!");
-            }
-        });
-        
-        StackPane root = new StackPane();
-        root.getChildren().add(btn);
-        primaryStage.setScene(new Scene(root, 300, 250));
+    public void start(Stage primaryStage) throws IOException {
+        Parent panel = FXMLLoader.load(getClass().getResource("JavaFX.fxml"));
+        Scene scene = new Scene(panel, 300, 300);
+        primaryStage.setTitle("Hello World!!");
+        primaryStage.setScene(scene);
+
+
+        primaryStage.setResizable(false);
         primaryStage.show();
     }
+
 }
