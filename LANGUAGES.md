@@ -7,7 +7,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] 0815
 - [ ] (Visual) FoxPro
 - [x] A+
-- [ ] ABAP
+- [x] ABAP
 - [x] ABC
 - [x] AC3 Assembly
 - [ ] ACL2
@@ -27,7 +27,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] AntLang
 - [x] Ant Script
 - [ ] Anyways
-- [ ] Apex
+- [x] Apex
 - [x] APL
 - [x] AppleScript
 - [ ] Applesoft BASIC
@@ -57,7 +57,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Bash
 - [x] BASIC
 - [ ] BASIC256
-- [ ] Battlestar
+- [x] Battlestar
 - [ ] BBC BASIC
 - [x] bc
 - [x] BCPL
@@ -126,7 +126,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Dao
 - [x] Dart
 - [ ] dc
-- [ ] DCL
+- [x] DCL
 - [ ] DCPU-16 ASM
 - [ ] DDNC
 - [ ] Déjà Vu
@@ -178,6 +178,8 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] FOCAL
 - [ ] Forth
 - [x] Fortran
+- [ ] Fortran 77
+- [x] Fortran 90
 - [x] Fortress
 - [ ] FreeBASIC
 - [ ] Frege
@@ -196,7 +198,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] GML
 - [x] GNU Octave
 - [x] Go
-- [ ] Golfscript
+- [x] Golfscript
 - [x] Gonda
 - [x] Google AppsScript
 - [x] Gosu
@@ -211,7 +213,8 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Heron
 - [ ] HicEst
 - [ ] HLA
-- [ ] HolyC
+- [x] Hodor
+- [x] HolyC
 - [ ] Hoon
 - [ ] HPL
 - [ ] HPPPL
@@ -240,7 +243,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] JavaServer Pages / JSP
 - [x] JavaFX
 - [x] JavaScript
-- [ ] JCL
+- [x] JCL
 - [ ] Joy
 - [ ] jq
 - [x] JScript
@@ -271,7 +274,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] LiveCode
 - [ ] LLVM
 - [ ] Lobster
-- [ ] Logo
+- [x] Logo
 - [ ] Logtalk
 - [x] LOLCODE
 - [x] LotusScript
@@ -283,7 +286,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Maclisp
 - [ ] MAD
 - [ ] Magic
-- [ ] Magik
+- [x] Magik
 - [x] make
 - [x] Malbolge
 - [ ] MANTIS
@@ -298,8 +301,9 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] MEL
 - [ ] Mercury
 - [ ] Metafont
+- [x] MIPS
 - [ ] Mirah
-- [ ] mIRC Scripting Language
+- [x] mIRC Scripting Language
 - [ ] Miva
 - [ ] ML
 - [ ] ML/I
@@ -377,7 +381,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] PowerScript
 - [x] PowerShell
 - [x] Processing
-- [ ] ProDOS
+- [x] ProDOS
 - [x] Prolog
 - [ ] PSQL
 - [x] Puppet
@@ -412,6 +416,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Scheme
 - [ ] Scilab
 - [ ] Scratch
+- [x] SDLBasic
 - [x] sed
 - [ ] Seed7
 - [ ] Self
@@ -446,6 +451,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Squirrel
 - [x] Standard ML (SML)
 - [ ] Stata
+- [x] Stuck
 - [ ] Suneido
 - [ ] SuperCollider
 - [x] Swift
@@ -469,6 +475,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] TransFORTH
 - [ ] Trith
 - [ ] True BASIC
+- [x] TrumpScript
 - [x] Turing
 - [ ] TUSCRIPT
 - [x] TypeScript
@@ -478,7 +485,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Ursala
 - [ ] Uyir (உயிர்)
 - [ ] V
-- [ ] Vala/Genie
+- [x] Vala/Genie
 - [x] VBScript
 - [ ] Vedit macro language
 - [x] Verilog
@@ -493,7 +500,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Whenever
 - [ ] Whiley
 - [x] Whitespace
-- [ ] Wren
+- [x] Wren
 - [ ] X10
 - [ ] xBase
 - [ ] XBase++
