@@ -2,519 +2,1729 @@ List of languages. Pick one you like and open a PR. Make sure you've read [CONTR
 
 You can also request a new language to be added to the list, just leave a comment here.
 
+- [ ] 0(nop^)
+- [ ] 0x29A
+- [ ] 0x29C
+- [ ] 01_
+- [ ] 1+
+- [ ] 1cnis
+- [ ] 1L
+- [ ] 1mpr0mp2
+- [ ] 2-ill
+- [ ] 2B
+- [ ] 2D-Reverse
+- [ ] 2DP
+- [ ] 2iota
+- [ ] 2L
+- [ ] 3code
+- [ ] 3D
+- [ ] 3switchBF
+- [ ] 4
+- [ ] 4DL
 - [ ] 4th Dimension/4D
+- [ ] 5-logic
+- [ ] 5command
+- [ ] 6ix
+- [ ] 7
+- [ ] 7Basic
 - [ ] 8th
+- [ ] 23
+- [ ] 90
+- [ ] 96
+- [ ] 123
 - [x] 0815
+- [ ] 1337
+- [ ] 2014
+- [ ] 2017
+- [ ] 2050706
+- [ ] --C-=C-C--
+- [ ] :≠
+- [ ] !!!
+- [ ] !!!Batch
+- [ ] ???
+- [ ] .box
+- [ ] .Gertrude
+- [ ] .m@dpr'a'prozessor
+- [ ] .mOdMoDwOrM
+- [ ] .yacuabll
+- [ ] (0)
+- [ ] ( ͡° ͜ʖ ͡°)fuck
+- [ ] (())
+- [ ] ()
+- [ ] ():;+-#?!
 - [ ] (Visual) FoxPro
+- [ ] []
+- [ ] ]
+- [ ] @tention!
+- [ ] @text
+- [ ] *><>
+- [ ] *brainfuck
+- [ ] *W
+- [ ] ///
+- [ ] /ˈæmbiːɛf/
+- [ ] #hell
+- [ ] ++brainfuck++
+- [ ] ><>
+- [ ] ~
+- [ ] ~-~!
+- [ ] ~#
+- [ ] ~ATH
+- [ ] ~English
+- [ ] $tonePits
+- [ ] A0A0
+- [ ] A Pear Tree
+- [ ] A programming language is a formal language that specifies a set of instructions that can be used to produce various kinds of output.
+- [ ] a-gram
+- [ ] A:;
 - [x] A+
+- [ ] AAAAAAAAAAAAAA!!!!
+- [ ] Aargh!
 - [x] ABAP
 - [x] ABC
+- [ ] ABCDXYZ
+- [ ] ABCR
+- [ ] ABCs
 - [x] AC3 Assembly
+- [ ] ACIDIC
 - [ ] ACL2
+- [ ] ACRONYM
 - [x] ActionScript
 - [x] Ada
+- [ ] Addleq
+- [ ] ADJUST
+- [ ] Aeolbonn
+- [ ] Aeon
+- [ ] AFTL
 - [ ] Agena
 - [ ] Agilent VEE
+- [ ] Agony
+- [ ] Aheui
 - [ ] Aime
+- [ ] AIV
+- [ ] Ajsone
+- [ ] Alacrity
+- [ ] ALAGUF
+- [ ] Alchemy
+- [ ] Ale
+- [ ] Alex
 - [ ] Algae
 - [x] Algol
 - [ ] Alice
+- [ ] Alight
 - [ ] Alore
+- [ ] ALPACA
+- [ ] AlPhAbEt
+- [ ] AlphaBeta
+- [ ] Alphabetti spaghetti
+- [ ] ALPL
 - [ ] AmbientTalk
+- [ ] Amelia
 - [x] AmigaE
+- [ ] Amycus
+- [ ] Amycus Severus
+- [ ] And
+- [ ] Andrei Machine 9000
+- [ ] Anemone
 - [x] Angelscript
+- [ ] ANItka
+- [ ] AnnieFlow
+- [ ] Another Pi Language
 - [x] Ansible
-- [ ] AntLang
 - [x] Ant Script
+- [ ] Ante
+- [ ] AntLang
+- [ ] AnyPL
 - [ ] Anyways
 - [x] Apex
 - [x] APL
 - [x] AppleScript
 - [ ] Applesoft BASIC
 - [ ] Apricot
+- [ ] Arbol
 - [ ] Arc
+- [ ] ARCAL
+- [ ] Archway
 - [x] Arduino
 - [ ] Arendelle
+- [ ] Argh!
 - [ ] Argile
+- [ ] Armok
 - [x] ArnoldC
+- [ ] Arrow
+- [ ] AsciiDots
+- [ ] asdf
+- [ ] Ashtol
 - [x] ASP
 - [ ] AspectJ
+- [ ] AssemblerFuck
 - [x] Assembly
 - [ ] Astro
 - [ ] Asymptote
 - [ ] ATLAS
+- [ ] Atom
 - [x] ATS
+- [ ] AttoASM
+- [ ] ATZ
+- [ ] Aubergine
 - [ ] Augeas
+- [ ] Auo
+- [ ] Aura
 - [x] AutoHotkey
 - [x] AutoIt
 - [x] AutoLISP
 - [ ] Automator
+- [ ] AutoMouse
 - [ ] Avenue
 - [x] AWK
+- [ ] Ax
 - [ ] Axe
+- [ ] axo
+- [ ] Aya
+- [ ] az
+- [ ] B1nary
+- [ ] B-tapemark
 - [ ] Babel
+- [ ] BackFlip
+- [ ] Backtracking INTERCAL
+- [ ] Bag
+- [ ] BAK
 - [x] Ballerina
+- [ ] BAM128
+- [ ] BANCStar
+- [ ] Bantas
+- [ ] Barely
 - [x] Bash
 - [x] BASIC
 - [ ] BASIC256
+- [ ] Basic Input/Output Commands
 - [x] Battlestar
 - [ ] BBC BASIC
 - [x] bc
+- [ ] BCDFuck
 - [x] BCPL
+- [ ] BDAMD
+- [ ] Beam
 - [x] BeanShell
+- [ ] Bear Food
+- [ ] Beatnik
 - [x] beeswax
+- [ ] Befalse
+- [ ] Befreak
 - [x] Befunge
+- [ ] Befunge/index.php
+- [ ] Befunk
+- [ ] Benul
+- [ ] BestFriends.js
 - [ ] BETA
+- [ ] beta-Juliet
+- [ ] Betterave
+- [ ] Beturing
+- [ ] BF Joust
+- [ ] BF-PDA
+- [ ] BF-RLE
+- [ ] BF-SC
+- [ ] BF+BF
+- [ ] BFEnet
+- [ ] BFI
+- [ ] BFM
+- [ ] Billiard ball machine
+- [ ] Binary combinatory logic
+- [ ] Binary lambda calculus
+- [ ] Binaryfuck
+- [ ] Binodu
+- [ ] BIO
+- [ ] Biota
+- [ ] Bipoint
+- [ ] BIT
+- [ ] BitBitJump
+- [ ] BitChanger
+- [ ] BitChip
+- [ ] BitCycle
+- [ ] BitFlip
+- [ ] Bitfuck
+- [ ] Bitoven
+- [ ] BiTrax
+- [ ] Bitwise Cyclic Tag
+- [ ] Blablafuck
+- [ ] Black
+- [ ] Blank
 - [ ] Blast
+- [ ] Blind
 - [ ] BlitzBasic
 - [ ] BlitzMax
+- [ ] blo
+- [ ] Bloop
+- [ ] Bloux
 - [ ] BML
+- [ ] Boat
+- [ ] BogusForth
 - [x] Boo
+- [ ] Boolfuck
 - [x] Bourne Shell
+- [ ] Boxy
 - [ ] Brace
+- [ ] Bracket Hax
+- [ ] Brackit
 - [ ] Bracmat
+- [ ] Brain
+- [ ] Brain-Flak
+- [ ] brainbool
+- [ ] BrainClub
+- [ ] Braincopter
+- [ ] BrainCurses
+- [ ] Brainfact
+- [ ] Brainfork
 - [x] Brainfuck
+- [ ] Brainfuck Substitutor
+- [ ] Brainfuck--
+- [ ] Brainfuck/w/index.php?title=Talk:Brainfuck/index.php
+- [ ] Brainfuck+3
+- [ ] Brainfuck++
+- [ ] BrainfuckXT
+- [ ] brainfunct
+- [ ] BrainFunge2
+- [ ] Braingolf
+- [ ] Brainhype
+- [ ] BrainInt
+- [ ] Brainloller
+- [ ] Brainlove
+- [ ] Brains
+- [ ] Brainscrambler
+- [ ] BrainSpace 1.0
+- [ ] Brainstack
+- [ ] Brainstuck
+- [ ] Braintrust
+- [ ] Braintwist
+- [ ] Braktif
+- [ ] Branch
 - [ ] Brat
+- [ ] BRB
+- [ ] Brian & Chuck
 - [ ] Brlcad
 - [x] Bro
+- [ ] Brook
+- [ ] Bruijndejx
+- [ ] BRZRK
+- [ ] BSM
+- [ ] Bub
+- [ ] Bubble
+- [ ] Bug Computer
+- [ ] Bullfrog
 - [ ] Burlesque
+- [ ] Burro
+- [ ] But Is It Art?
+- [ ] BV
+- [ ] Byte Syze
+- [ ] ByteByteJump
+- [ ] Bytemap
+- [ ] BytePusher
+- [ ] Byter
 - [x] C
 - [ ] C1R
 - [x] C Shell
+- [ ] C-LONG
 - [ ] C-Omega
 - [x] C#
+- [ ] C+
 - [x] C++
 - [x] C++/CLI
+- [ ] Cabra
+- [ ] Calculator
+- [ ] Calculon
+- [ ] Calcutape
+- [ ] CalScript
 - [x] Caml
+- [ ] Camouflage
+- [ ] Campfire
+- [ ] CaneCode
+- [ ] Capuirequiem
+- [ ] Cardinal
+- [ ] Carriage
+- [ ] CASTLE
 - [x] Cat
+- [ ] Catch
+- [ ] cbrain
 - [ ] Cduce
+- [ ] Cellbrain
+- [ ] Celum
 - [x] Ceylon
+- [ ] Cfluviurrh
 - [ ] CFML
 - [ ] cg
 - [ ] Ch
+- [ ] Chaincode
+- [ ] Chaingate
+- [ ] Challenger
+- [ ] Chance
+- [ ] Charcoal
+- [ ] Checkout
 - [x] Chef
+- [ ] Chicken
+- [ ] Child
 - [ ] CHILL
+- [ ] Choon
 - [ ] ChucK
+- [ ] ChuckScript
+- [ ] Churro
 - [ ] CIL
+- [ ] Circuit Diagram
+- [ ] Circute
+- [ ] CJam
 - [ ] CL (OS/400)
 - [ ] Clarion
 - [ ] Clay
+- [ ] CLC-INTERCAL
 - [x] Clean
+- [ ] ClearBF
+- [ ] Clem
+- [ ] Clip
 - [x] Clipper
 - [ ] CLIPS
 - [x] Clojure
+- [ ] CLooP
 - [ ] CLU
+- [ ] Clue (Keymaker)
+- [ ] Clue (oklopol)
+- [ ] Clunk
 - [x] CMake
 - [x] COBOL
 - [x] Cobra
+- [ ] Cod
+- [ ] Codan
+- [ ] CodeFuck
 - [x] CoffeeScript
+- [ ] Colambda
 - [x] ColdFusion
 - [ ] Comal
+- [ ] Come Here
 - [ ] Comefrom0x10
+- [ ] ComeFrom
+- [ ] Commercial
 - [x] Common Lisp
+- [ ] COMPLEX
+- [ ] Complode
 - [ ] Component Pascal
+- [ ] CompressedFuck
+- [ ] Con-Text
+- [ ] Condit
+- [ ] Conedy
+- [ ] Confusion
+- [ ] Constantinople
+- [ ] ContinuousEquation
+- [ ] Conveyor
+- [ ] Cood
 - [ ] Coq
+- [ ] Cork
+- [ ] Countdown
 - [x] Cow
+- [ ] cQuents
+- [ ] Crab
 - [ ] Crack
+- [ ] Crainfuck
 - [ ] Creative Basic
+- [ ] CRTL
 - [x] Crystal
+- [ ] CSL
 - [x] CSS
 - [ ] cT
+- [ ] Ctonia
+- [ ] Cubix
+- [ ] Cufrab
+- [ ] Cupid
 - [ ] Curl
+- [ ] CUTLASS
+- [ ] Cvlemar
+- [ ] Cyclic ACIDIC
+- [ ] ↄ
+- [ ] d1ffe7e45e
 - [x] D
 - [x] Dafny
+- [ ] Daft
+- [ ] DALIS
 - [x] Dao
+- [ ] Daoyu
+- [ ] Dark
+- [ ] Darmok
 - [x] Dart
+- [ ] DateFuck
+- [ ] DBFV!
+- [ ] DBR
 - [ ] dc
 - [x] DCL
 - [ ] DCPU-16 ASM
+- [ ] DcScript
+- [ ] dd/dd
 - [ ] DDNC
+- [ ] Deadfish
 - [ ] Déjà Vu
 - [x] Delphi/Object Pascal
+- [ ] Deltaplex
+- [ ] Dependently Typed Binary Lambda Calculus
+- [ ] Derpcode
+- [ ] Derplang
+- [ ] Deviating Percolator
 - [ ] DeviousYarn
 - [ ] DiBOL
+- [ ] DigFill
+- [ ] Dimensifuck
+- [ ] Dimensions
+- [ ] Dirst
+- [ ] Dis
 - [ ] DIV Games Studio
+- [ ] Divzeros
+- [ ] DL
 - [ ] DM
+- [ ] DNA#
+- [ ] DOBELA
+- [ ] DOG
+- [ ] Dogescript
+- [ ] Doorspace
+- [ ] Dot
+- [ ] DoubleFuck
+- [ ] Drainfuck
+- [ ] Drift
+- [ ] Drive-In Window
+- [ ] DROL
+- [ ] DStack
+- [ ] Duck Duck Goose
+- [ ] Dumbf*ck
+- [ ] DumbScript
+- [ ] DUP
+- [ ] Dupdog
 - [ ] DWScript
 - [ ] Dylan
 - [ ] Dylan.NET
+- [ ] DZZZZ
 - [ ] E
+- [ ] Easy
 - [ ] eC
 - [ ] EchoLisp
 - [ ] ECL
 - [x] ECMAScript
+- [ ] Edge
 - [ ] EDSAC order code
 - [ ] Efene
 - [ ] Egison
 - [ ] EGL
 - [x] Eiffel
 - [ ] Ela
+- [ ] ELANG
 - [ ] elastiC
+- [ ] Electric BitFunk
+- [ ] Element
 - [ ] Elena
 - [ ] Elisa
 - [x] Elixir
 - [x] Elm
+- [ ] Elog
 - [x] Emacs Lisp
+- [ ] Emmental
+- [ ] Emo
+- [ ] Emoji-gramming
 - [x] Emojicode
+- [ ] Emotebatch
+- [ ] Emoticon
+- [ ] EmuBug
+- [ ] EncryptFuck
+- [ ] Enema
+- [ ] Enigma-2D
+- [ ] Eniuq
+- [ ] Entropy
+- [ ] EntropyAssembler
+- [ ] Eodermdrome
+- [ ] EOOOL
+- [ ] EPL
+- [ ] EPOAQ
 - [x] Erlang
 - [ ] ERRE
+- [ ] Espro
+- [ ] ETA
+- [ ] eTalk
+- [ ] ETAS
+- [ ] Etcha
 - [ ] Etoys
 - [ ] Euler Math Toolbox
 - [x] Euphoria
+- [ ] Everett
+- [ ] evil
+- [ ] eWagon
+- [ ] excela
+- [ ] EXCON
 - [ ] EXEC
+- [ ] Expload
+- [ ] Explode
 - [ ] Extended Brainfuck
+- [ ] Extended Foo
 - [ ] Ezhil
+- [ ] F
 - [x] F#
+- [ ] Fackward
+- [ ] Fact
 - [x] Factor
+- [ ] Factory
+- [ ] FakeASM
 - [ ] Falcon
 - [ ] FALSE
 - [ ] Fancy
+- [ ] FANJIX
 - [ ] Fantom
 - [x] Felix
 - [ ] ferite
+- [ ] ferNANDo
+- [ ] Fetlang
 - [ ] Fexl
+- [ ] FFM/FFB
+- [ ] Figurehead
+- [ ] FileCode
+- [ ] FiM++
+- [ ] Finite Groups
 - [ ] Fish (Not the Fish Shell)
 - [x] Fish Shell
+- [ ] Fishing
+- [ ] FISHQ9+
+- [ ] Fission
+- [ ] Fit
+- [ ] Flatline
+- [ ] Flip
+- [ ] FlogScript
+- [ ] flow_chart
+- [ ] Fluffle Puff
+- [ ] Flump
+- [ ] Fm
+- [ ] Fob
 - [ ] FOCAL
+- [ ] Focus
+- [ ] Folder not to be confused with
+- [ ] Folders
+- [ ] Foo
+- [ ] Foobar and Foobaz and Barbaz, oh my!
+- [ ] Footsteps
+- [ ] Formula
+- [ ] Forobj
+- [ ] Forte
 - [ ] Forth
+- [ ] Fortob
 - [x] Fortran
 - [ ] Fortran 77
 - [x] Fortran 90
 - [x] Fortress
+- [ ] Fortuna
+- [ ] FOSCode (Abbreviated FOSC)
+- [ ] Fourfuck
+- [ ] Fourier
+- [ ] Fpulse
+- [ ] Fractran
+- [ ] Fractran++
+- [ ] FRAK
 - [ ] FreeBASIC
 - [ ] Frege
 - [ ] friendly interactive shell
+- [ ] Fringespeak
 - [ ] Frink
+- [ ] Fromage
+- [ ] Fuck4
+- [ ] Fueue
+- [ ] Fugue
+- [ ] Full 0
+- [ ] Fumble
+- [ ] Funciton
+- [ ] Fünke
 - [ ] FunL
+- [ ] FURscript
+- [ ] Fuun DNA
+- [ ] Fuun RNA
 - [ ] FUZE BASIC
+- [ ] G*
 - [ ] Gambas
+- [ ] Gammaplex
+- [ ] Gaot++
 - [ ] GAP
+- [ ] GASOIL
+- [ ] Gbagbo
 - [ ] gecho
 - [ ] Gema
+- [ ] Gemooy
+- [ ] Genome
 - [x] Gentee
+- [ ] Geom
+- [ ] Geom++
 - [ ] GFA Basic
+- [ ] Gibberish
+- [ ] Gibberish/JavaScript, another kind of Gibberish
+- [ ] Glass
+- [ ] Glava
 - [ ] GLBasic
 - [ ] Glee
+- [ ] Glypho
 - [x] GML
 - [x] GNU Octave
 - [x] Go
+- [ ] GodScript
+- [ ] Goldfish
 - [x] Golfscript
+- [ ] Golunar
 - [x] Gonda
 - [x] Google AppsScript
+- [ ] Gopher
+- [ ] Gorispace
+- [ ] Goruby
 - [x] Gosu
+- [ ] Goto
+- [ ] GOTO 10
+- [ ] GOTO++
+- [ ] GPRX 3000
+- [ ] GrainFimple
+- [ ] GraNoLa/M
+- [ ] Graphical Brainfuck
+- [ ] Grass
+- [ ] Gravity
+- [ ] Gray Snail
+- [ ] GridScript
+- [ ] Grin
+- [ ] Grits
+- [ ] Grocery List
 - [x] Groovy
+- [ ] Grusom Skjebne
 - [x] GTA3Script
 - [x] GW-BASIC
 - [x] Hack
+- [ ] Hack VM
+- [ ] Haifu
+- [ ] Half-Broken Car in Heavy Traffic
 - [ ] Halon
+- [ ] HALT
+- [ ] Hannah
+- [ ] Hanoi Love
+- [ ] Hanoiing
+- [ ] HaPyLi
 - [ ] Harbour
+- [ ] Hardfuck
+- [ ] Hargfak
+- [ ] Harp
 - [x] Haskell
+- [ ] Hatter
 - [x] Haxe
+- [ ] hcbf
+- [ ] Headsecks
+- [ ] HeartForth
+- [ ] Hebe Script
+- [ ] Hello++
+- [ ] HELP
 - [ ] Heron
+- [ ] Hev
+- [ ] HEX
+- [ ] Hexagony
+- [ ] hexish
 - [ ] HicEst
+- [ ] Higher Subleq
+- [ ] HighFive
 - [ ] HLA
 - [x] Hodor
+- [ ] Hollow
 - [x] HolyC
+- [ ] Home Row
+- [ ] Homespring
 - [ ] Hoon
+- [ ] Hopscotch
 - [ ] HPL
 - [ ] HPPPL
 - [ ] HQ9+
+- [ ] HSPAL
+- [ ] HSQ
 - [x] HTML
+- [ ] Humo
+- [ ] Hunter
 - [ ] Hy
+- [ ] hydra
+- [ ] Hyper Set Language
+- [ ] Hyperamycus
 - [ ] HyperTalk
 - [ ] I
+- [ ] iag
 - [x] Icon / Unicon
 - [x] IDL
 - [x] Idris
+- [ ] IDTM
+- [ ] Iexp
+- [ ] Ignition
+- [ ] IINC
+- [ ] ILLGOL
+- [ ] ImageFuck
+- [ ] Immi
+- [ ] Impera
+- [ ] Implieses
+- [ ] INCAL
+- [ ] Incident
+- [ ] Indirect
+- [ ] InfChessPro
+- [ ] Infinite Vector
+- [ ] InfiniTick
+- [ ] InfiniTUM
 - [ ] Inform
 - [ ] Informix-4GL
+- [ ] Inline
+- [ ] Insomnia
+- [ ] InSpace
+- [ ] Integ
 - [ ] Integer BASIC
+- [ ] Integral
 - [ ] INTERCAL
+- [ ] InterWater
+- [ ] Intolerant
 - [x] Io
 - [ ] Ioke
+- [ ] Iota
+- [ ] IRC
+- [ ] Iris
+- [ ] ISCOM
+- [ ] itflabtijtslwi
 - [ ] IWBASIC
 - [ ] J
+- [ ] J--
 - [x] J#
 - [x] Jack
 - [ ] Jacquard Loom
 - [x] JADE
+- [ ] Japt
+- [ ] Jasp
 - [x] Java
+- [ ] Java2K
 - [x] Java FX Script
-- [x] JavaServer Pages / JSP
 - [x] JavaFX
+- [ ] Javagrid
 - [x] JavaScript
+- [x] JavaServer Pages / JSP
 - [x] JCL
+- [ ] Jolverine
+- [ ] Jot
 - [ ] Joy
 - [ ] jq
 - [x] JScript
 - [x] JScript.NET
+- [ ] JSFuck
+- [ ] Jug
 - [x] Julia
+- [ ] JUMP
+- [ ] JumpFuck
+- [ ] JUSTIF
+- [ ] K-on Fuck
+- [ ] Kangaroo
+- [ ] KanjiCode
+- [ ] Karma
 - [ ] Kaya
+- [ ] Kayak
 - [ ] Kdf9 Usercode
+- [ ] Kelxquoia
+- [ ] KEMURI
+- [ ] Keya
+- [ ] KimL
+- [ ] Kinetosis
+- [ ] Kipple
 - [ ] Kitanai
+- [ ] Kitanai Tiny and dirty language
 - [ ] Kite
 - [x] Kitten
+- [ ] Kkipple
+- [ ] Klein
+- [ ] KlingonCode
+- [ ] Klon
+- [ ] Knight Shuffling Tower
+- [ ] Kolmogorov
 - [x] KonsolScript
 - [x] Korn Shell (Ksh)
 - [x] Kotlin
+- [ ] kvikkalkul
+- [ ] l33t
+- [ ] L00P
 - [ ] LabVIEW
+- [ ] Labyrinth
+- [ ] Laconic
 - [ ] Ladder Logic
+- [ ] Lamb
+- [ ] Lambda
+- [ ] Lambda: the Gathering
+- [ ] Lambdastack
+- [ ] LAMPA
 - [ ] Lang5
+- [ ] Langar.io
 - [x] Lasso
+- [ ] Last ReSort
+- [ ] Lazy
+- [ ] Lazy Bird
+- [ ] Lazy K
 - [ ] LC3 Assembly
+- [ ] Lenta
+- [ ] Leszek
 - [ ] LFE
+- [ ] Lhooq
+- [ ] Libertas
 - [ ] Liberty BASIC
+- [ ] Libra
+- [ ] LICE
+- [ ] Ligature Machine
+- [ ] Light Pattern
+- [ ] Lii
 - [x] Lily
 - [ ] LilyPond
 - [x] Limbo
+- [ ] Limp
 - [ ] Lingo
+- [ ] Linguine
+- [ ] LINR
+- [ ] Liquid
 - [x] Lisaac
 - [x] Lisp
+- [ ] ListLang
 - [ ] Little
 - [ ] LiveCode
+- [ ] LLL
 - [ ] LLVM
+- [ ] LNUSP
+- [ ] Lo'reran
 - [ ] Lobster
+- [ ] LOCK
+- [ ] Logical
+- [ ] Logicode
 - [x] Logo
 - [ ] Logtalk
+- [ ] LOLA
 - [x] LOLCODE
+- [ ] Loose Circular Brainfuck (LCBF)
 - [x] LotusScript
 - [ ] LPC
 - [ ] LSE64
 - [x] Lua
+- [ ] Luigi
 - [ ] Lustre
+- [ ] Ly
 - [x] M4
+- [ ] M-code
+- [ ] M×N-Dimensional Brainfuck
 - [ ] Maclisp
+- [ ] Macmac
 - [ ] MAD
+- [ ] Madbrain
+- [ ] Madness
+- [ ] Magenta
 - [ ] Magic
+- [ ] Magic-1
+- [ ] Magicard!
 - [x] Magik
+- [ ] MagiStack
+- [ ] MailBox
 - [x] make
 - [x] Malbolge
+- [ ] Malbolge Unshackled
+- [ ] Mang
 - [ ] MANTIS
+- [ ] Manufactoria
 - [ ] Maple
+- [ ] Marbelous
+- [ ] MarioLANG
 - [x] Markdown
+- [ ] Mascarpone
+- [ ] MashedPotatoes
 - [ ] Mathematica / Wolfram Language
+- [ ] MATL
 - [x] MATLAB
 - [ ] Maude
 - [ ] Max/MSP
 - [ ] Maxima
 - [ ] MAXScript
+- [ ] Maybe Later
+- [ ] Maze
+- [ ] McCulloch's second machine
+- [ ] McCulloch's third machine
+- [ ] MDPN
+- [ ] MechaniQue
 - [ ] MEL
+- [ ] Memfractal
+- [ ] Memfuck
+- [ ] memPanic
+- [ ] Meq
 - [ ] Mercury
 - [ ] Metafont
+- [ ] Metropolis
+- [ ] MIBBLLII
+- [ ] Mice in a maze
+- [ ] Micro
+- [ ] Microscript
+- [ ] Migol
+- [ ] MiLambda
+- [ ] Mimsy
+- [ ] mindfunc
+- [ ] mindscrew
+- [ ] Mineso
+- [ ] MiniBitMove
+- [ ] Miniflak
+- [ ] Minifuck
+- [ ] Minifuck-2D
+- [ ] Minimal
+- [ ] Minimal-2D
+- [ ] MiniMAX
+- [ ] MiniPig
+- [ ] MinISCule
+- [ ] MiniStringFuck
+- [ ] miniUSPL
+- [ ] Minks
+- [ ] Minus
 - [x] MIPS
 - [ ] Mirah
 - [x] mIRC Scripting Language
+- [ ] MISC
+- [ ] MISC-x86
 - [ ] Miva
+- [ ] MIX
+- [ ] MIX (Knuth)
+- [ ] MKBL-LN
 - [ ] ML
 - [ ] ML/I
+- [ ] MMIX
+- [ ] Mmmm()
+- [ ] MNNBFSL
+- [ ] Mobius
+- [ ] ModanShogi
 - [ ] Modula-2
 - [ ] Modula-3
 - [ ] Monkey
+- [ ] MonkeyCode
+- [ ] Monkeys
+- [ ] MONOD
 - [ ] MOO
 - [x] MoonScript
 - [ ] Morfa
+- [ ] Mornington Crescent
+- [ ] Mostawesomeprogramminglanguage
 - [ ] Moto
+- [ ] Mouse
 - [x] MS-DOS Batch
+- [ ] MSG
+- [ ] MSM
 - [ ] MUF
+- [ ] MuFuck
+- [ ] MUMON
 - [ ] MUMPS
+- [ ] Muriel
+- [ ] Musical notes
+- [ ] Musical-X
+- [ ] Muxcomp
+- [ ] My Unreliable Past
+- [ ] Mycelium
 - [ ] MyDef
 - [ ] MyrtleScript
 - [x] MySQL
+- [ ] Myth
 - [ ] Mythryl
+- [ ] Nairb
+- [ ] Nandarin
+- [ ] Nandypants
 - [ ] NATURAL
 - [ ] Neat
+- [ ] NegaPosi
 - [ ] Neko
 - [ ] Nemerle
+- [ ] Nest
+- [ ] NetFuck
 - [ ] NetRexx
+- [ ] Network Headache
+- [ ] Neurosis
+- [ ] Nevermore
 - [ ] newLISP
+- [ ] Nhohnhehr
+- [ ] Niblet
+- [ ] NICE
+- [ ] Nietzsche
 - [x] Nim / Nimrod
 - [ ] Nit
+- [ ] Nock
+- [ ] Noisett
+- [ ] noit o' mnain worb
+- [ ] Nonsense Query Lists
+- [ ] Noobinary
+- [ ] Noodle Soup
+- [ ] NOR
+- [ ] Norfuck
+- [ ] Nors
+- [ ] Not The Main Worb
+- [ ] Nothing
+- [ ] nouse
+- [ ] Novice
 - [ ] NQC
+- [ ] Nqubl
+- [ ] NRSRSSOMN
+- [ ] NSFW
 - [ ] NSIS
+- [ ] NTCM
 - [x] Nu
+- [ ] NucleotideBF (nBF)
+- [ ] NULL
+- [ ] Number Factory
+- [ ] Numberix
+- [ ] Numberwang
+- [ ] Numeric Batch
+- [ ] Numeric Topline
+- [ ] Numobin
+- [ ] NUMPAD
 - [ ] NXT-G
+- [ ] Nyarlathotep
+- [ ] Nybbleist
+- [ ] O
+- [ ] ObCode
 - [ ] Oberon / Oberon-2
+- [ ] Obfuna
+- [ ] Obfuscated Tiny C‎‎
 - [ ] Objeck
+- [ ] Object
+- [ ] Object disoriented
+- [ ] Object oriented thue
 - [ ] Object Rexx
 - [x] Objective-C
 - [x] Objective-J
+- [ ] ObjectPar
 - [x] OCaml
 - [ ] Occam
 - [x] Octave
+- [ ] ODDBALL
+- [ ] Odtizuda
 - [ ] Oforth
+- [ ] OGEL
+- [ ] OIL
+- [ ] OISC
+- [ ] Omam
+- [ ] Omegaplex
+- [ ] Omgrofl
+- [ ] OneFuck
+- [ ] onoz
 - [ ] Onyx
 - [ ] OOC
+- [ ] Oof!
+- [ ] OOLANG
 - [ ] ooRexx
+- [ ] Oozlybub and Murphy
 - [ ] Opa
 - [x] OpenCL
 - [ ] OpenEdge ABL
 - [ ] OpenLisp
 - [ ] Openscad
 - [ ] OPL
+- [ ] Optimism
+- [ ] Ora
+- [ ] Oracle
+- [ ] ORK
+- [ ] Oroogu
+- [ ] Orthagonal
+- [ ] OrthINTERCAL
+- [ ] Orthogonal
+- [ ] Ouroboros
+- [ ] Owhelgossip
+- [ ] Owk
+- [ ] Owl
 - [ ] Oxygene
 - [ ] Oz
+- [ ] Ozone
+- [ ] P
+- [ ] P1eq
+- [ ] P′′
+- [ ] Paintfuck
+- [ ] Paintfuck+
+- [ ] Pancake Stack
 - [ ] Paradox
+- [ ] Parenthesis Hell
+- [ ] Parenthetic
 - [ ] PARI/GP
+- [ ] Parnassus
 - [x] Parrot
 - [x] Pascal
 - [ ] PASM
+- [ ] PATH
+- [ ] Pavia
+- [ ] pax
+- [ ] pb
+- [ ] pbrain
 - [x] Perl
+- [ ] Perligata
+- [ ] Petrovich
+- [ ] PHAWN
+- [ ] Philosophy Script
 - [ ] Phix
-- [x] Piet
+- [ ] PHL 1.0
 - [x] PHP
+- [ ] Pi
 - [ ] PicoLisp
 - [ ] Pict
+- [ ] Pieces
+- [x] Piet
+- [ ] Piet-Q
 - [ ] Pike
 - [ ] PILOT
+- [ ] PingPong
+- [ ] Pinocchio
 - [ ] PIR
+- [ ] Pirandello
+- [ ] Pit
 - [ ] PL/I
 - [ ] PL/M
-- [x] PureScript
 - [x] PL/SQL
+- [ ] Platts
+- [ ] Please Porige Hot
 - [ ] Pliant
+- [ ] Pluso
+- [ ] PNID
+- [ ] POGA-INTERCAL
+- [ ] PoGo
+- [ ] PointerB
+- [ ] PointerTape
+- [ ] Pointy
+- [ ] Poison
+- [ ] PokéBattle
+- [ ] Polynomial
 - [ ] Pony
+- [ ] Poochiewuddledumpling-Boobledarling
+- [ ] Poohbear
 - [ ] Pop11
+- [ ] Portable Minsky Machine Notation
+- [ ] Portia
 - [x] PostScript
 - [ ] Potion
 - [ ] POV-Ray
 - [ ] PowerBasic
+- [ ] Powerlist
 - [ ] PowerScript
 - [x] PowerShell
+- [ ] PPAP++
+- [ ] PREFIX
+- [ ] Prelude
 - [x] Processing
 - [x] ProDOS
+- [ ] ProgFk
+- [ ] PROLAN/M
 - [x] Prolog
+- [ ] Proof
 - [ ] PSQL
 - [x] Puppet
 - [ ] Pure
 - [ ] Pure Data
 - [ ] PureBasic
+- [x] PureScript
+- [ ] PureStack
+- [ ] Purple
+- [ ] Puzzlang
+- [ ] Pyth
 - [x] Python
+- [ ] PZAB
 - [ ] Q
+- [ ] Q-Bal
+- [ ] Q-Ref
+- [ ] QaSaC
+- [ ] Qdeql
+- [ ] QFL
+- [ ] Quantum brainfuck
+- [ ] Quantum Dimensions
+- [ ] QUATRE-CALC
+- [ ] Qugord
 - [ ] Quill
+- [ ] Quiney
+- [ ] Quipu
+- [ ] QUOTE
+- [ ] Quylthulg
+- [ ] Qwerty Reverse Polish Notation
+- [ ] Qwertycode
+- [ ] QWOP
 - [x] R
 - [ ] Ra
 - [x] Racket
+- [ ] Radixal!!!!
+- [ ] Ragaraja
+- [ ] RAGE!!!
+- [ ] Rail
+- [ ] Rain
+- [ ] RAND
+- [ ] Rand.Next()
+- [ ] Random
+- [ ] rao
+- [ ] Rasen
 - [ ] Raven
+- [ ] RCEM
+- [ ] ReactionCan
+- [ ] Real Fast Nora's Hair Salon 3: Shear Disaster Download
 - [ ] REALBasic
+- [ ] Reaper
+- [ ] REBEL
 - [x] REBOL
+- [ ] Recurse
+- [ ] RecurseMe
 - [ ] RED
+- [ ] Redcode
+- [ ] REDGREEN
+- [ ] Refract
+- [ ] Refunge
+- [ ] RegexPL
+- [ ] REGXY
+- [ ] reMorse
+- [ ] rename
+- [ ] Replace
+- [ ] Replacefuck
+- [ ] REsKrIb!lo
+- [ ] RESOL
+- [ ] ResPlicate
+- [ ] ReThue
+- [ ] Retina
 - [ ] Retro
+- [ ] RETURN
+- [ ] Rev
+- [ ] Revaver
+- [ ] Revaver2pi
+- [ ] REVER
+- [ ] REverge
+- [ ] REVERSE
+- [ ] Reversible Brainfuck
+- [ ] Reversible-2D
 - [ ] Revolution
+- [ ] Revomer
 - [ ] REXX
+- [ ] rflct
+- [ ] RFOL
+- [ ] Rhotor
 - [ ] Ring
+- [ ] RingCode
+- [ ] RinGy
+- [ ] Ririsu
+- [ ] RISBF
+- [ ] rLS
+- [ ] RNA
+- [ ] Roadrunner
+- [ ] Roco
+- [ ] ROOP
+- [ ] Rotary
 - [ ] RPG (OS/400)
+- [ ] RPOS
+- [ ] RSSB
 - [ ] RTL/2
+- [ ] RU
+- [ ] RUBE
+- [ ] RubE On Conveyor Belts
 - [x] Ruby
+- [ ] RUM
 - [ ] Run BASIC
+- [ ] RunR
 - [x] Rust
+- [ ] RWLR
 - [ ] S
 - [ ] S-PLUS
+- [ ] S.I.L.O.S
+- [ ] SADOL
+- [ ] Sally
 - [ ] Salmon
+- [ ] Sansism
 - [x] SAS
 - [ ] Sather
+- [ ] Sbeezg
+- [ ] SBN
+- [ ] SCAB computer
 - [x] Scala
+- [ ] Sceql
 - [x] Scheme
 - [ ] Scilab
+- [ ] Sclipting
+- [ ] Scotty
 - [ ] Scratch
+- [ ] Scrip7
+- [ ] ScripTur
+- [ ] SCRUBS4U
 - [x] SDLBasic
 - [x] sed
 - [ ] Seed7
+- [ ] Selector
 - [ ] Self
+- [ ] Self-modifying Brainfuck
+- [ ] Self-modifying Puzzlang
+- [ ] Semi-quantum
+- [ ] SendStuff
+- [ ] Ser2
+- [ ] Seriously
+- [ ] Set
 - [x] Set lang
 - [ ] SETL
 - [ ] SETL4
+- [ ] SGMJQFuck
+- [ ] Shakell
 - [x] Shakespeare
 - [x] Shell
+- [ ] Shelta
 - [ ] Shen
 - [ ] Shiny
+- [ ] Shoopuf
+- [ ] Shove
+- [ ] Shuffle
 - [ ] Sidef
 - [ ] SIGNAL
+- [ ] Silberjoder
+- [ ] Sillycon
+- [ ] Simplefunge
 - [ ] SIMPOL
 - [ ] Simula
 - [ ] Simulink
+- [ ] Single Four
 - [ ] Sisal
+- [ ] Skastic
 - [ ] SkookumScript
+- [ ] Skull
+- [ ] Skull+
+- [ ] Slash-01
 - [ ] Slate
+- [ ] Slim
+- [ ] small s.c.r.i.p.t.
+- [ ] Smallfuck
 - [x] Smalltalk
 - [ ] smart BASIC
 - [ ] Smarty
+- [ ] SMATIMU
+- [ ] SMATINY
+- [ ] SMETANA
+- [ ] SMIL
 - [ ] SmileBASIC
+- [ ] Smilefuck
+- [ ] SMITH
+- [ ] SMITH#
+- [ ] SMITHb
+- [ ] Smu
+- [ ] Smurf
+- [ ] Snack
 - [ ] SNOBOL4
+- [ ] Snowflake
+- [ ] Snowman
 - [ ] SNUSP
+- [ ] SockZ
+- [ ] Somnypna
+- [ ] SON-OF-UNBABTIZED
+- [ ] Sonata
+- [ ] SORTA
+- [ ] Sorted!
+- [ ] Sortle
+- [ ] SoT
+- [ ] Spaghetti
+- [ ] SPAM/1
 - [ ] SPARK
 - [ ] Sparkling
+- [ ] Spaz
+- [ ] Spiral
 - [ ] SPL
+- [ ] Splinter
+- [ ] Spoon
 - [ ] SPSS
+- [ ] Spyrodecimal
+- [ ] Sqirrel - Peter
 - [x] SQL
 - [ ] SQR
+- [ ] SQRT
 - [ ] Squeak
 - [ ] Squirrel
+- [ ] Squishy2K
+- [ ] SSBPL
+- [ ] Stack Cats
+- [ ] Stack Up
+- [ ] StackBeat
+- [ ] Stacker
+- [ ] StackFlow
+- [ ] Stacking
+- [ ] Stackish
+- [ ] Stackmill
+- [ ] Stackstack
+- [ ] StackStacks
 - [x] Standard ML (SML)
+- [ ] StaPLe
+- [ ] Staq
+- [ ] Stasis
 - [ ] Stata
+- [ ] StateFlip
+- [ ] Stlang
+- [ ] Stlisp
+- [ ] STOD
+- [ ] stones
+- [ ] Strato
+- [ ] Strelnokoff
 - [x] Stuck
+- [ ] Stue
+- [ ] STXTRM
+- [ ] Subleq
+- [ ] Subskin
+- [ ] Subterra
+- [ ] Subtle cough
+- [ ] Subtractpocalypse
+- [ ] Suffolk
+- [ ] suicide
+- [ ] SUL
+- [ ] Sultan's daughter
+- [ ] SumaMoito
 - [ ] Suneido
+- [ ] Super Stack!
 - [ ] SuperCollider
+- [ ] SuperPar
+- [ ] Surface
+- [ ] Suxesol
+- [ ] Suzy
+- [ ] SVM
 - [x] Swift
 - [x] Swift (Playground)
+- [ ] Switchy
+- [ ] SYCPOL
+- [ ] SyL
+- [ ] Symball
+- [ ] Symbolic Brainfuck
+- [ ] Symesol
+- [ ] Symple-X
 - [ ] Symsyn
+- [ ] SynDev
+- [ ] Table
 - [ ] TACL
+- [ ] Tag
+- [ ] Takeover
+- [ ] Taktentus
+- [ ] Tamerlane
+- [ ] TAPASM
+- [ ] TapeBagel
+- [ ] Taxi
+- [ ] tbf
 - [x] Tcl
 - [ ] Teco
+- [ ] Tedius
+- [ ] Tellurium
+- [ ] TempoVar
 - [ ] Terra
+- [ ] Terse
 - [ ] TestML
+- [ ] TEWELSWAC
+- [ ] TEWNLSWAC
 - [x] TeX / LaTeX
+- [ ] Tg
+- [ ] Th
 - [x] Thai
+- [ ] thaM
+- [ ] The Amnesiac From Minsk
+- [ ] The Great Spell
+- [ ] Theoretica
+- [ ] TheSingularity
+- [ ] TheSquare
+- [ ] thETA
 - [ ] thinBasic
+- [ ] This=That
+- [ ] This=That 2.0
+- [ ] thotpatrol
+- [ ] THRAT
+- [ ] Threaded INTERCAL
+- [ ] Three Star Programmer
+- [ ] Thubi
+- [ ] Thue
+- [ ] Thutu
 - [ ] TI-39 BASIC
 - [ ] TI-83 BASIC
 - [x] TI-Z80 BASIC
+- [ ] Tick
+- [ ] Time Out
+- [ ] timefuck
+- [ ] Tiny
+- [ ] tinyBF
+- [ ] TLWNN
+- [ ] TMCB
+- [ ] TMMLPTEALPAITAFNFAL
+- [ ] Toadskin
+- [ ] TOD
+- [ ] Toi
 - [ ] TOM
+- [ ] Tome
+- [ ] Tonoco
+- [ ] Topaz
+- [ ] Topline
 - [ ] TorqueScript
+- [ ] Tory
 - [ ] TPP
+- [ ] Track
+- [ ] Trajedy
 - [x] Transact-SQL
+- [ ] TRANSCRIPT
 - [ ] TransFORTH
+- [ ] Tree
+- [ ] Tri
+- [ ] Triforce
+- [ ] Trigger
+- [ ] TriINTERCAL
+- [ ] Triple Threat
+- [ ] Triskaidekalogophilia
+- [ ] Trite
 - [ ] Trith
+- [ ] Troupe
+- [ ] True
 - [ ] True BASIC
 - [x] TrumpScript
+- [ ] TScript
+- [ ] tuplary
 - [x] Turing
+- [ ] Turing Script
+- [ ] Turing Tumble
 - [ ] TUSCRIPT
+- [ ] Tweak
+- [ ] Twimp
+- [ ] TWiRQ
+- [ ] Two Fifty Six
+- [ ] Twocode
+- [ ] TwoDucks
+- [ ] TwoFiftyFive
+- [ ] TwoStep
 - [x] TypeScript
+- [ ] Typespam
+- [ ] UberGenes
+- [ ] Udage
+- [ ] Ultimate Programming Language to Take Over a Prison, Then He World
+- [ ] UM-32
+- [ ] UNBABTIZED
+- [ ] Unc
+- [ ] Uncomment
+- [ ] Underload
+- [ ] Unfuck
+- [ ] Unicat
 - [ ] Uniface
+- [ ] Unispace
+- [ ] Univar
 - [ ] Unlambda
+- [ ] Unreadable
 - [ ] Ursa
 - [ ] Ursala
+- [ ] URSL
 - [ ] Uyir (உயிர்)
 - [ ] V
+- [ ] V (DJMcMayhem)
+- [ ] V (FMota)
+- [ ] V--
 - [x] Vala/Genie
+- [ ] var'aq
+- [ ] Varsig
 - [x] VBScript
+- [ ] VD3
 - [ ] Vedit macro language
+- [ ] Velato
+- [ ] Verbose
 - [x] Verilog
+- [ ] Versert
+- [ ] Version
+- [ ] Version2
+- [ ] Vertica Smile
 - [x] VHDL
+- [ ] Vigil
+- [ ] Viktor's amazing 4-bit processor
+- [ ] Villmark
 - [x] Vim Script
 - [ ] VimL
+- [ ] VIOLET
+- [ ] Virgo
 - [x] Visual Basic
 - [x] Visual Basic .NET (VB.NET)
+- [ ] Vitsy
 - [ ] Viua VM assembly
+- [ ] VL
+- [ ] Voclex
+- [ ] vowels
+- [ ] Vowels (2017)
+- [ ] Vrejvax
+- [ ] VTFF
+- [ ] VTL
+- [ ] W-INTERCAL
+- [ ] Waduzitdo
+- [ ] Wait
+- [ ] Wake
+- [ ] WARP
 - [ ] Wart
+- [ ] WASD
+- [ ] WCDA
+- [ ] Wct
+- [ ] Weave
 - [ ] WebDNA
+- [ ] Wheat
+- [ ] When
 - [x] Whenever
 - [ ] Whiley
+- [ ] Whirl
 - [x] Whitespace
+- [ ] Who
+- [ ] Wierd
+- [ ] Wigner's Fuckbuddy Is A (|Top> + |Bottom>)/√2
+- [ ] Wiki
+- [ ] Wiki Cyclic Tag
+- [ ] Wikiplia
+- [ ] WILSON
+- [ ] Wittgen
+- [ ] Word!CPU
+- [ ] Wordfuck
+- [ ] Wordy
 - [x] Wren
+- [ ] WTFZOMFG
+- [ ] Wunnel
+- [ ] WUUI
+- [ ] WysiScript
 - [ ] X10
+- [ ] x-D
+- [ ] X.so
+- [ ] X++
 - [ ] xBase
 - [ ] XBase++
+- [ ] XBF
 - [ ] xEec
 - [ ] Xen
+- [ ] Xigxag
 - [ ] XL
 - [ ] XLISP
 - [ ] XPL
 - [ ] XPL0
 - [ ] XQuery
+- [ ] XRF
+- [ ] XS
 - [x] XSLT
+- [ ] XSM
+- [ ] XTW
+- [ ] Y
+- [ ] Y86
+- [ ] YABALL
 - [x] yacc
+- [ ] Ybc
+- [ ] Yboy
+- [ ] Yellow Four Code
 - [ ] Yorick
+- [ ] You are Reading the Name of this Esolang
+- [ ] Your Minsky May Vary
+- [ ] Ypsilax
+- [ ] Z
 - [x] Z shell (Zsh)
+- [ ] Zetaplex
+- [ ] Ziim
 - [ ] zkl
+- [ ] ZOMBIE
+- [ ] Zot
+- [ ] ZOWIE
+- [ ] ZT
+- [ ] Zucchini
+- [ ] ZZZ
+- [ ] µCurse
+- [ ] Юᓂ곧⎔
 
-`copy(a.split('\n').sort((a, b) => naturalCompare(a.substring(5), b.substring(5))).join('\n'))`
+```js
+copy(a.split('\n').filter((v, i, s) => s.findIndex(e => e.slice(5) == v.slice(5)) === i).sort((a, b) => naturalCompare(a.slice(5), b.slice(5))).join('\n'))
+
+copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLowerCase() == v.slice(5).toLowerCase())).sort((a, b) => {
+  const re = /(\d+)|(\D+)/g;
+  a = a.slice(5);
+  b = b.slice(5);
+  
+  const ax = [], bx = [];
+  let an, bn, nn;
+
+  a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
+  b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
+  
+  while (ax.length && bx.length) {
+    an = ax.shift();
+    bn = bx.shift();
+    nn = (an[0] - bn[0]) || an[1].localeCompare(bn[1]);
+    if(nn) return nn;
+  }
+
+  return ax.length - bx.length;
+}).join('\n'));```
