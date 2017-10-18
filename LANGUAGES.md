@@ -641,7 +641,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [GAP](https://rosettacode.org/wiki/Hello_world/Text#GAP)
 - [ ] [GASOIL](http://esolangs.org/wiki/GASOIL)
 - [ ] [Gbagbo](http://esolangs.org/wiki/Gbagbo)
-- [ ] GDScript
+- [x] [GDScript](http://docs.godotengine.org/en/stable/learning/scripting/gdscript/gdscript_basics.html)
 - [ ] [gecho](http://esolangs.org/wiki/Gecho)
 - [ ] [Gema](https://rosettacode.org/wiki/Hello_world/Text#Gema)
 - [ ] [Gemooy](http://esolangs.org/wiki/Gemooy)
