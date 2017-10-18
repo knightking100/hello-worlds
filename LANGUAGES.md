@@ -60,6 +60,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] BBC BASIC
 - [x] bc
 - [x] BCPL
+- [x] BeanShell
 - [x] beeswax
 - [x] Befunge
 - [ ] BETA
