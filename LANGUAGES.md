@@ -477,7 +477,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [DNA#](http://esolangs.org/wiki/DNA-Sharp)
 - [ ] [DOBELA](http://esolangs.org/wiki/DOBELA)
 - [ ] [DOG](http://esolangs.org/wiki/DOG)
-- [ ] [Dogescript](http://esolangs.org/wiki/Dogescript)
+- [x] [Dogescript](http://esolangs.org/wiki/Dogescript)
 - [ ] [Doorspace](http://esolangs.org/wiki/Doorspace)
 - [ ] [Dot](http://esolangs.org/wiki/Dot)
 - [ ] [DoubleFuck](http://esolangs.org/wiki/DoubleFuck)
@@ -641,6 +641,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [GAP](https://rosettacode.org/wiki/Hello_world/Text#GAP)
 - [ ] [GASOIL](http://esolangs.org/wiki/GASOIL)
 - [ ] [Gbagbo](http://esolangs.org/wiki/Gbagbo)
+- [ ] GDScript
 - [ ] [gecho](http://esolangs.org/wiki/Gecho)
 - [ ] [Gema](https://rosettacode.org/wiki/Hello_world/Text#Gema)
 - [ ] [Gemooy](http://esolangs.org/wiki/Gemooy)
@@ -651,7 +652,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [GFA Basic](https://rosettacode.org/wiki/Hello_world/Text#GFA_Basic)
 - [ ] [Gibberish](http://esolangs.org/wiki/Gibberish_(programming_language))
 - [ ] Gibberish/JavaScript, another kind of Gibberish
-- [ ] [Glass](http://esolangs.org/wiki/Glass)
+- [x] [Glass](http://esolangs.org/wiki/Glass)
 - [x] [Glava](http://esolangs.org/wiki/Glava)
 - [ ] [GLBasic](https://rosettacode.org/wiki/Hello_world/Text#GLBasic)
 - [ ] [Glee](https://rosettacode.org/wiki/Hello_world/Text#Glee)
@@ -734,7 +735,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] HTML
 - [ ] [Humo](http://esolangs.org/wiki/Humo)
 - [ ] [Hunter](http://esolangs.org/wiki/Hunter)
-- [ ] [Hy](https://rosettacode.org/wiki/Hello_world/Text#Hy)
+- [x] [Hy](https://rosettacode.org/wiki/Hello_world/Text#Hy)
 - [ ] [hydra](http://esolangs.org/wiki/Hydra)
 - [ ] [Hyper Set Language](http://esolangs.org/wiki/Hyper_Set_Language)
 - [ ] [Hyperamycus](http://esolangs.org/wiki/Hyperamycus)
@@ -1671,7 +1672,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] Xen
 - [ ] [Xigxag](http://esolangs.org/wiki/Xigxag)
 - [ ] [XL](https://rosettacode.org/wiki/Hello_world/Text#XL)
-- [ ] [XLISP](https://rosettacode.org/wiki/Hello_world/Text#XLISP)
+- [x] [XLISP](https://rosettacode.org/wiki/Hello_world/Text#XLISP)
 - [ ] XPL
 - [ ] [XPL0](https://rosettacode.org/wiki/Hello_world/Text#XPL0)
 - [ ] XQuery
@@ -1712,13 +1713,13 @@ copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLower
   const re = /(\d+)|(\D+)/g;
   a = a.slice(5);
   b = b.slice(5);
-
+  
   const ax = [], bx = [];
   let an, bn, nn;
 
   a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
   b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
-
+  
   while (ax.length && bx.length) {
     an = ax.shift();
     bn = bx.shift();
