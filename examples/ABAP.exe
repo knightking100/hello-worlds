@@ -1,0 +1,4 @@
+* Make sure your porject file name also should be changed as zdemo_helloworld to run this file*
+REPORT  zdemo_helloworld.
+ 
+WRITE 'Hello World'.
