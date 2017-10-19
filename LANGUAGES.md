@@ -21,7 +21,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [3switchBF](http://esolangs.org/wiki/3switchBF)
 - [ ] [4](http://esolangs.org/wiki/4)
 - [ ] [4DL](http://esolangs.org/wiki/4DL)
-- [ ] 4th Dimension/4D
+- [ ] [4th Dimension/4D](http://web.archive.org/web/20010305173824/http://www.latech.edu:80/~acm/helloworld/4d.html)
 - [ ] [5-logic](http://esolangs.org/wiki/5-logic)
 - [ ] [5command](http://esolangs.org/wiki/5command)
 - [ ] [6ix](http://esolangs.org/wiki/6ix)
@@ -34,8 +34,8 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [123](http://esolangs.org/wiki/123)
 - [x] [0815](http://esolangs.org/wiki/0815)
 - [ ] [1337](http://esolangs.org/wiki/1337)
-- [ ] 2014
-- [ ] 2017
+- [ ] [2014](https://esolangs.org/wiki/2014)
+- [ ] [2017](https://esolangs.org/wiki/2017)
 - [ ] [2050706](http://esolangs.org/wiki/2050706)
 - [ ] [--C-=C-C--](http://esolangs.org/wiki/--C-%3DC-C--)
 - [ ] [:≠](http://esolangs.org/wiki/Unassignable)
@@ -76,7 +76,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [A programming language is a formal language that specifies a set of instructions that can be used to produce various kinds of output.](http://esolangs.org/wiki/A_programming_language_is_a_formal_language_that_specifies_a_set_of_instructions_that_can_be_used_to_produce_various_kinds_of_output.)
 - [ ] [a-gram](http://esolangs.org/wiki/A-gram)
 - [ ] [A:;](http://esolangs.org/wiki/A_colon_semicolon)
-- [x] A+
+- [x] [A+](https://en.wikipedia.org/wiki/A%2B_(programming_language))
 - [ ] [AAAAAAAAAAAAAA!!!!](http://esolangs.org/wiki/AAAAAAAAAAAAAA!!!!)
 - [ ] [Aargh!](http://esolangs.org/wiki/Argh!)
 - [x] [ABAP](https://rosettacode.org/wiki/Hello_world/Text#ABAP)
@@ -605,11 +605,11 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Forth](https://rosettacode.org/wiki/Hello_world/Text#Forth)
 - [ ] [Fortob](http://esolangs.org/wiki/Fortob)
 - [x] [Fortran](https://rosettacode.org/wiki/Hello_world/Text#Fortran)
-- [ ] Fortran 77
-- [x] Fortran 90
+- [ ] [Fortran 77](https://en.wikipedia.org/wiki/Fortran#FORTRAN_77)
+- [x] [Fortran 90](https://en.wikipedia.org/wiki/Fortran#Fortran_90)
 - [x] [Fortress](https://rosettacode.org/wiki/Hello_world/Text#Fortress)
 - [ ] [Fortuna](http://esolangs.org/wiki/Fortuna)
-- [ ] FOSCode (Abbreviated FOSC)
+- [ ] [FOSCode / FOSC](https://esolangs.org/wiki/FOSCode)
 - [ ] [Fourfuck](http://esolangs.org/wiki/Fourfuck)
 - [ ] [Fourier](http://esolangs.org/wiki/Fourier)
 - [ ] [Fpulse](http://esolangs.org/wiki/Fpulse)
@@ -658,14 +658,14 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Glee](https://rosettacode.org/wiki/Hello_world/Text#Glee)
 - [ ] [Glypho](http://esolangs.org/wiki/Glypho)
 - [x] [GML](http://esolangs.org/wiki/GML)
-- [x] GNU Octave
+- [x] [GNU Octave](https://www.gnu.org/software/octave/doc/v4.0.3/Executable-Octave-Programs.html)
 - [x] [Go](https://rosettacode.org/wiki/Hello_world/Text#Go)
 - [ ] [GodScript](http://esolangs.org/wiki/GodScript)
 - [ ] [Goldfish](http://esolangs.org/wiki/Goldfish)
 - [x] [Golfscript](https://rosettacode.org/wiki/Hello_world/Text#Golfscript)
 - [ ] [Golunar](http://esolangs.org/wiki/Golunar)
 - [x] Gonda
-- [x] Google AppsScript
+- [x] [Google AppsScript](https://developers.google.com/apps-script/)
 - [ ] [Gopher](http://esolangs.org/wiki/Gopher)
 - [ ] [Gorispace](http://esolangs.org/wiki/Gorispace)
 - [ ] [Goruby](http://esolangs.org/wiki/Goruby)
@@ -686,7 +686,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Grocery List](http://esolangs.org/wiki/Grocery_List)
 - [x] [Groovy](https://rosettacode.org/wiki/Hello_world/Text#Groovy)
 - [ ] [Grusom Skjebne](http://esolangs.org/wiki/Grusom_Skjebne)
-- [x] GTA3Script
+- [x] [GTA3Script](http://gtaforums.com/topic/876530-gta3script-toolchain/)
 - [x] [GW-BASIC](https://rosettacode.org/wiki/Hello_world/Text#GW-BASIC)
 - [x] [Hack](https://rosettacode.org/wiki/Hello_world/Text#Hack)
 - [ ] [Hack VM](http://esolangs.org/wiki/Hack_VM)
@@ -711,7 +711,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Hebe Script](http://esolangs.org/wiki/Hebe_Script)
 - [ ] [Hello++](http://esolangs.org/wiki/Hello%2B%2B)
 - [ ] [HELP](http://esolangs.org/wiki/HELP)
-- [ ] Heron
+- [ ] [Heron](https://github.com/cdiggins/heron-language)
 - [ ] [Hev](http://esolangs.org/wiki/Hev)
 - [ ] [HEX](http://esolangs.org/wiki/HEX)
 - [ ] [Hexagony](http://esolangs.org/wiki/Hexagony)
@@ -720,29 +720,29 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Higher Subleq](http://esolangs.org/wiki/Higher_Subleq)
 - [ ] [HighFive](http://esolangs.org/wiki/HighFive)
 - [ ] [HLA](https://rosettacode.org/wiki/Hello_world/Text#HLA)
-- [x] Hodor
+- [x] [Hodor](http://www.hodor-lang.org/)
 - [ ] [Hollow](http://esolangs.org/wiki/Hollow)
 - [x] [HolyC](https://rosettacode.org/wiki/Hello_world/Text#HolyC)
 - [ ] [Home Row](http://esolangs.org/wiki/Home_Row)
 - [ ] [Homespring](http://esolangs.org/wiki/Homespring)
 - [ ] [Hoon](http://esolangs.org/wiki/Hoon)
 - [ ] [Hopscotch](http://esolangs.org/wiki/Hopscotch)
-- [ ] HPL
+- [ ] [HPL](http://hpl.sourceforge.net/)
 - [ ] [HPPPL](https://rosettacode.org/wiki/Hello_world/Text#HPPPL)
 - [x] [HQ9+](https://rosettacode.org/wiki/Hello_world/Text#HQ9.2B)
 - [ ] [HSPAL](http://esolangs.org/wiki/HSPAL)
 - [ ] [HSQ](http://esolangs.org/wiki/HSQ)
-- [x] HTML
+- [x] [HTML](https://en.wikipedia.org/wiki/HTML)
 - [ ] [Humo](http://esolangs.org/wiki/Humo)
 - [ ] [Hunter](http://esolangs.org/wiki/Hunter)
 - [x] [Hy](https://rosettacode.org/wiki/Hello_world/Text#Hy)
 - [ ] [hydra](http://esolangs.org/wiki/Hydra)
 - [ ] [Hyper Set Language](http://esolangs.org/wiki/Hyper_Set_Language)
 - [ ] [Hyperamycus](http://esolangs.org/wiki/Hyperamycus)
-- [ ] HyperTalk
+- [ ] [HyperTalk](https://en.wikipedia.org/wiki/HyperTalk)
 - [ ] [I](https://rosettacode.org/wiki/Hello_world/Text#I)
 - [ ] [iag](http://esolangs.org/wiki/Iag)
-- [x] Icon / Unicon
+- [x] [Icon / Unicon](https://en.wikipedia.org/wiki/Unicon_(programming_language))
 - [x] [IDL](https://rosettacode.org/wiki/Hello_world/Text#IDL)
 - [x] Idris
 - [ ] [IDTM](http://esolangs.org/wiki/IDTM)
