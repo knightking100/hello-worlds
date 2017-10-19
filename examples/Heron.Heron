@@ -1,0 +1,7 @@
+program HelloWorld;
+functions {
+  _main() {
+    print_string("Hello, world!");
+  }
+}
+end
