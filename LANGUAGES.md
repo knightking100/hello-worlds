@@ -711,7 +711,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Hebe Script](http://esolangs.org/wiki/Hebe_Script)
 - [ ] [Hello++](http://esolangs.org/wiki/Hello%2B%2B)
 - [ ] [HELP](http://esolangs.org/wiki/HELP)
-- [ ] [Heron](https://github.com/cdiggins/heron-language)
+- [x] [Heron](https://github.com/cdiggins/heron-language)
 - [ ] [Hev](http://esolangs.org/wiki/Hev)
 - [ ] [HEX](http://esolangs.org/wiki/HEX)
 - [ ] [Hexagony](http://esolangs.org/wiki/Hexagony)
