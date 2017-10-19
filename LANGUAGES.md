@@ -230,7 +230,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Billiard ball machine](http://esolangs.org/wiki/Billiard_ball_machine)
 - [ ] [Binary combinatory logic](http://esolangs.org/wiki/Binary_combinatory_logic)
 - [ ] [Binary lambda calculus](http://esolangs.org/wiki/Binary_lambda_calculus)
-- [ ] [Binaryfuck](http://esolangs.org/wiki/Binaryfuck)
+- [x] [Binaryfuck](http://esolangs.org/wiki/Binaryfuck)
 - [ ] [Binodu](http://esolangs.org/wiki/Binodu)
 - [ ] [BIO](http://esolangs.org/wiki/BIO)
 - [ ] [Biota](http://esolangs.org/wiki/Biota)
@@ -325,7 +325,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [C-LONG](http://esolangs.org/wiki/C-LONG)
 - [ ] C-Omega
 - [x] [C#](https://rosettacode.org/wiki/Hello_world/Text#C.23)
-- [ ] [C+](http://esolangs.org/wiki/C%2B)
+- [x] [C+](http://esolangs.org/wiki/C%2B)
 - [x] [C++](https://rosettacode.org/wiki/Hello_world/Text#C.2B.2B)
 - [x] [C++/CLI](https://rosettacode.org/wiki/Hello_world/Text#C.2B.2B.2FCLI)
 - [ ] [Cabra](http://esolangs.org/wiki/Cabra)
@@ -461,7 +461,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Deltaplex](http://esolangs.org/wiki/Deltaplex)
 - [ ] [Dependently Typed Binary Lambda Calculus](http://esolangs.org/wiki/Dependently_Typed_Binary_Lambda_Calculus)
 - [ ] [Derpcode](http://esolangs.org/wiki/Derpcode)
-- [ ] [Derplang](http://esolangs.org/wiki/Derplang)
+- [x] [Derplang](http://esolangs.org/wiki/Derplang)
 - [ ] [Deviating Percolator](http://esolangs.org/wiki/Deviating_Percolator)
 - [ ] [DeviousYarn](https://rosettacode.org/wiki/Hello_world/Text#DeviousYarn)
 - [ ] DiBOL
@@ -620,7 +620,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Frege](https://rosettacode.org/wiki/Hello_world/Text#Frege)
 - [ ] [friendly interactive shell](https://rosettacode.org/wiki/Hello_world/Text#friendly_interactive_shell)
 - [ ] [Fringespeak](http://esolangs.org/wiki/Fringespeak)
-- [ ] [Frink](https://rosettacode.org/wiki/Hello_world/Text#Frink)
+- [x] [Frink](https://rosettacode.org/wiki/Hello_world/Text#Frink)
 - [ ] [Fromage](http://esolangs.org/wiki/Fromage)
 - [ ] [Fuck4](http://esolangs.org/wiki/Fuck4)
 - [ ] [Fueue](http://esolangs.org/wiki/Fueue)
@@ -1254,7 +1254,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [REBOL](https://rosettacode.org/wiki/Hello_world/Text#REBOL)
 - [ ] [Recurse](http://esolangs.org/wiki/Recurse)
 - [ ] [RecurseMe](http://esolangs.org/wiki/RecurseMe)
-- [ ] [RED](https://rosettacode.org/wiki/Hello_world/Text#RED)
+- [x] [RED](https://rosettacode.org/wiki/Hello_world/Text#RED)
 - [ ] [Redcode](http://esolangs.org/wiki/Redcode)
 - [ ] [REDGREEN](http://esolangs.org/wiki/REDGREEN)
 - [ ] [Refract](http://esolangs.org/wiki/Refract)
@@ -1676,7 +1676,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] XPL
 - [ ] [XPL0](https://rosettacode.org/wiki/Hello_world/Text#XPL0)
 - [ ] XQuery
-- [ ] [XRF](http://esolangs.org/wiki/XRF)
+- [x] [XRF](http://esolangs.org/wiki/XRF)
 - [ ] [XS](http://esolangs.org/wiki/XS)
 - [x] [XSLT](https://rosettacode.org/wiki/Hello_world/Text#XSLT)
 - [ ] [XSM](http://esolangs.org/wiki/XSM)
