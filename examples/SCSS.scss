@@ -1,0 +1,8 @@
+body {
+    background: red;
+    &::before {
+        color: blue;
+        font-size: 100px;
+        content: 'Hello world!';
+    }
+}
