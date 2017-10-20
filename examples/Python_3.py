@@ -2,39 +2,9 @@
 import os,time
 
 def slowhello():
-	os.system('cls')
-	print 'H'
-	time.sleep(1)
-	os.system('cls')
-	print 'He'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hel'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hell'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello '
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello W'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello Wo'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello Wor'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello Worl'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello World'
-	time.sleep(1)
-	os.system('cls')
-	print 'Hello World!'
+	s = 'Hello World!'
+	for i in range(len(s)):
+		os.system('cls')
+		print (s[:i+1])
+		time.sleep(0.5)
 slowhello()
