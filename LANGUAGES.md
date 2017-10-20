@@ -1619,6 +1619,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Virgo](http://esolangs.org/wiki/Virgo)
 - [x] Visual Basic
 - [x] Visual Basic .NET (VB.NET)
+- [x] [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 - [ ] [Vitsy](http://esolangs.org/wiki/Vitsy)
 - [ ] [Viua VM assembly](https://rosettacode.org/wiki/Hello_world/Text#Viua_VM_assembly)
 - [ ] [VL](http://esolangs.org/wiki/VL)
