@@ -1692,6 +1692,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Ybc](http://esolangs.org/wiki/Ybc)
 - [ ] [Yboy](http://esolangs.org/wiki/Yboy)
 - [ ] [Yellow Four Code](http://esolangs.org/wiki/Yellow_Four_Code)
+- [ ] [YoptaScript](https://yopta.space)
 - [ ] [Yorick](https://rosettacode.org/wiki/Hello_world/Text#Yorick)
 - [ ] [You are Reading the Name of this Esolang](http://esolangs.org/wiki/You_are_Reading_the_Name_of_this_Esolang)
 - [ ] [Your Minsky May Vary](http://esolangs.org/wiki/Your_Minsky_May_Vary)
