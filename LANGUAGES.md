@@ -1252,6 +1252,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Real Fast Nora's Hair Salon 3: Shear Disaster Download](http://esolangs.org/wiki/Real_Fast_Nora%27s_Hair_Salon_3:_Shear_Disaster_Download)
 - [ ] REALBasic
 - [ ] [Reaper](http://esolangs.org/wiki/Reaper)
+- [X] [Reason](https://reasonml.github.io/)
 - [ ] [REBEL](http://esolangs.org/wiki/REBEL)
 - [x] [REBOL](https://rosettacode.org/wiki/Hello_world/Text#REBOL)
 - [ ] [Recurse](http://esolangs.org/wiki/Recurse)
