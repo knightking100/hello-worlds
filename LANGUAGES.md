@@ -1360,7 +1360,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Shoopuf](http://esolangs.org/wiki/Shoopuf)
 - [ ] [Shove](http://esolangs.org/wiki/Shove)
 - [ ] [Shuffle](http://esolangs.org/wiki/Shuffle)
-- [ ] [Sidef](https://rosettacode.org/wiki/Hello_world/Text#Sidef)
+- [x] [Sidef](https://rosettacode.org/wiki/Hello_world/Text#Sidef)
 - [ ] SIGNAL
 - [ ] [Silberjoder](http://esolangs.org/wiki/Silberjoder)
 - [ ] [Sillycon](http://esolangs.org/wiki/Sillycon)
@@ -1717,13 +1717,13 @@ copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLower
   const re = /(\d+)|(\D+)/g;
   a = a.slice(5);
   b = b.slice(5);
-  
+
   const ax = [], bx = [];
   let an, bn, nn;
 
   a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
   b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
-  
+
   while (ax.length && bx.length) {
     an = ax.shift();
     bn = bx.shift();
