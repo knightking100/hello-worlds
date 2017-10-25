@@ -596,7 +596,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Fob](http://esolangs.org/wiki/Fob)
 - [ ] [FOCAL](https://rosettacode.org/wiki/Hello_world/Text#FOCAL)
 - [ ] [Focus](http://esolangs.org/wiki/Focus)
-- [ ] [Folder](https://esolangs.org/wiki/Folders)
+- [ ] [Folder](https://esolangs.org/wiki/Folder)
 - [ ] [Folders](http://esolangs.org/wiki/Folders)
 - [x] [Foo](http://esolangs.org/wiki/Foo)
 - [ ] [Foobar and Foobaz and Barbaz, oh my!](http://esolangs.org/wiki/Foobar_and_Foobaz_and_Barbaz,_oh_my!)
