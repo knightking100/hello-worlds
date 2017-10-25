@@ -1584,6 +1584,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [TwoStep](http://esolangs.org/wiki/TwoStep)
 - [x] TypeScript
 - [ ] [Typespam](http://esolangs.org/wiki/Typespam)
+- [x] PugJS
 - [ ] [UberGenes](http://esolangs.org/wiki/UberGenes)
 - [ ] [Udage](http://esolangs.org/wiki/Udage)
 - [ ] [Ultimate Programming Language to Take Over a Prison, Then He World](http://esolangs.org/wiki/Ultimate_Programming_Language_to_Take_Over_a_Prison,_Then_He_World)
@@ -1726,13 +1727,13 @@ function comparer(a, b) {
   b = b.slice(5).trim();
   if (a[0] == '[') a = a.substring(1);
   if (b[0] == '[') b = b.substring(1);
-  
+
   const ax = [], bx = [];
   let an, bn, nn;
 
   a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
   b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
-  
+
   while (ax.length && bx.length) {
     an = ax.shift();
     bn = bx.shift();
