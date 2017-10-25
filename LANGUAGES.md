@@ -71,7 +71,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [~English](http://esolangs.org/wiki/~English)
 - [ ] [$tonePits](http://esolangs.org/wiki/$tonePits)
 - [ ] [A0A0](http://esolangs.org/wiki/A0A0)
-- [ ] [A Pear Tree](http://esolangs.org/wiki/A_Pear_Tree)
+- [x] [A Pear Tree](http://esolangs.org/wiki/A_Pear_Tree)
 - [ ] [A programming language is a formal language that specifies a set of instructions that can be used to produce various kinds of output.](http://esolangs.org/wiki/A_programming_language_is_a_formal_language_that_specifies_a_set_of_instructions_that_can_be_used_to_produce_various_kinds_of_output.)
 - [ ] [a-gram](http://esolangs.org/wiki/A-gram)
 - [ ] [A:;](http://esolangs.org/wiki/A_colon_semicolon)
