@@ -1,0 +1,2 @@
+ use XL.TEXT_IO
+ WriteLn "Hello World"
