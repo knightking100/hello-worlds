@@ -453,20 +453,20 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [DBR](http://esolangs.org/wiki/DBR)
 - [ ] [dc](https://rosettacode.org/wiki/Hello_world/Text#dc)
 - [x] [DCL](https://rosettacode.org/wiki/Hello_world/Text#DCL)
-- [ ] DCPU-16 ASM
+- [ ] [DCPU-16 ASM](https://github.com/lucaspiller/dcpu-specifications)
 - [ ] [DcScript](http://esolangs.org/wiki/DcScript)
 - [ ] [dd/dd](http://esolangs.org/wiki/Dd/dd)
 - [ ] [DDNC](https://rosettacode.org/wiki/Hello_world/Text#DDNC)
 - [x] [Deadfish](http://esolangs.org/wiki/Deadfish)
 - [ ] [Déjà Vu](https://rosettacode.org/wiki/Hello_world/Text#D.C3.A9j.C3.A0_Vu)
-- [x] Delphi/Object Pascal
+- [x] [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language))/[Object Pascal](https://en.wikipedia.org/wiki/Object_Pascal)
 - [ ] [Deltaplex](http://esolangs.org/wiki/Deltaplex)
 - [ ] [Dependently Typed Binary Lambda Calculus](http://esolangs.org/wiki/Dependently_Typed_Binary_Lambda_Calculus)
 - [ ] [Derpcode](http://esolangs.org/wiki/Derpcode)
 - [x] [Derplang](http://esolangs.org/wiki/Derplang)
 - [ ] [Deviating Percolator](http://esolangs.org/wiki/Deviating_Percolator)
 - [ ] [DeviousYarn](https://rosettacode.org/wiki/Hello_world/Text#DeviousYarn)
-- [ ] DiBOL
+- [ ] [DiBOL](https://en.wikipedia.org/wiki/DIBOL)
 - [ ] [DigFill](http://esolangs.org/wiki/DigFill)
 - [ ] [Dimensifuck](http://esolangs.org/wiki/Dimensifuck)
 - [ ] [Dimensions](http://esolangs.org/wiki/Dimensions)
@@ -502,7 +502,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [eC](https://rosettacode.org/wiki/Hello_world/Text#eC)
 - [ ] [EchoLisp](https://rosettacode.org/wiki/Hello_world/Text#EchoLisp)
 - [ ] [ECL](https://rosettacode.org/wiki/Hello_world/Text#ECL)
-- [x] ECMAScript
+- [x] [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 - [ ] [Edge](http://esolangs.org/wiki/Edge)
 - [ ] [EDSAC order code](https://rosettacode.org/wiki/Hello_world/Text#EDSAC_order_code)
 - [x] [Efene](https://rosettacode.org/wiki/Hello_world/Text#Efene)
@@ -523,7 +523,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Emmental](http://esolangs.org/wiki/Emmental)
 - [ ] [Emo](http://esolangs.org/wiki/Emo)
 - [ ] [Emoji-gramming](http://esolangs.org/wiki/Emoji-gramming)
-- [x] Emojicode
+- [x] [Emojicode](http://www.emojicode.org/)
 - [ ] [Emotebatch](http://esolangs.org/wiki/Emotebatch)
 - [ ] [Emoticon](http://esolangs.org/wiki/Emoticon)
 - [ ] [EmuBug](http://esolangs.org/wiki/EmuBug)
@@ -544,9 +544,9 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [eTalk](http://esolangs.org/wiki/ETalk)
 - [ ] [ETAS](http://esolangs.org/wiki/ETAS)
 - [ ] [Etcha](http://esolangs.org/wiki/Etcha)
-- [ ] Etoys
+- [ ] [Etoys](https://en.wikipedia.org/wiki/Etoys_(programming_language))
 - [ ] [Euler Math Toolbox](https://rosettacode.org/wiki/Hello_world/Text#Euler_Math_Toolbox)
-- [x] Euphoria
+- [x] [Euphoria](www.rapideuphoria.com/)
 - [ ] [Everett](http://esolangs.org/wiki/Everett)
 - [ ] [evil](http://esolangs.org/wiki/Evil)
 - [ ] [eWagon](http://esolangs.org/wiki/EWagon)
@@ -555,7 +555,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] EXEC
 - [ ] [Expload](http://esolangs.org/wiki/Expload)
 - [ ] [Explode](http://esolangs.org/wiki/Explode)
-- [ ] Extended Brainfuck
+- [ ] [Extended Brainfuck](https://esolangs.org/wiki/Extended_Brainfuck)
 - [ ] [Extended Foo](http://esolangs.org/wiki/Extended_Foo)
 - [ ] [Ezhil](https://rosettacode.org/wiki/Hello_world/Text#Ezhil)
 - [ ] [F](http://esolangs.org/wiki/F)
@@ -580,8 +580,8 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [FileCode](http://esolangs.org/wiki/FileCode)
 - [ ] [FiM++](http://esolangs.org/wiki/FiM%2B%2B)
 - [ ] [Finite Groups](http://esolangs.org/wiki/Finite_Groups)
-- [ ] Fish (Not the Fish Shell)
-- [x] Fish Shell
+- [ ] [Fish](https://esolangs.org/wiki/Fish) (Not the Fish Shell)
+- [x] [Fish Shell](https://fishshell.com/)
 - [ ] [Fishing](http://esolangs.org/wiki/Fishing)
 - [ ] [FISHQ9+](http://esolangs.org/wiki/FISHQ9%2B)
 - [ ] [Fission](http://esolangs.org/wiki/Fission)
@@ -596,7 +596,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Fob](http://esolangs.org/wiki/Fob)
 - [ ] [FOCAL](https://rosettacode.org/wiki/Hello_world/Text#FOCAL)
 - [ ] [Focus](http://esolangs.org/wiki/Focus)
-- [ ] Folder not to be confused with
+- [ ] [Folder](https://esolangs.org/wiki/Folders)
 - [ ] [Folders](http://esolangs.org/wiki/Folders)
 - [x] [Foo](http://esolangs.org/wiki/Foo)
 - [ ] [Foobar and Foobaz and Barbaz, oh my!](http://esolangs.org/wiki/Foobar_and_Foobaz_and_Barbaz,_oh_my!)
