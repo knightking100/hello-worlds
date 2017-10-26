@@ -1,0 +1,6 @@
+import UIKit
+
+// hello world in swift playground
+
+let str = "Hello, world!"
+print(str)
