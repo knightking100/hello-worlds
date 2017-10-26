@@ -1,0 +1,2 @@
+word = "Hello World!";
+word
