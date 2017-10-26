@@ -215,7 +215,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Befunge/index.php](http://esolangs.org/wiki/Befunge/index.php)
 - [ ] [Befunk](http://esolangs.org/wiki/Befunk)
 - [ ] [Benul](http://esolangs.org/wiki/Benul)
-- [ ] [BestFriends.js](http://esolangs.org/wiki/BestFriends.js)
+- [x] [BestFriends.js](http://esolangs.org/wiki/BestFriends.js)
 - [ ] BETA
 - [ ] [beta-Juliet](http://esolangs.org/wiki/Beta-Juliet_and_Portia)
 - [ ] [Betterave](http://esolangs.org/wiki/Betterave)
@@ -476,7 +476,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Divzeros](http://esolangs.org/wiki/Divzeros)
 - [ ] [DL](http://esolangs.org/wiki/DL)
 - [ ] [DM](https://rosettacode.org/wiki/Hello_world/Text#DM)
-- [ ] [DNA#](http://esolangs.org/wiki/DNA-Sharp)
+- [x] [DNA#](http://esolangs.org/wiki/DNA-Sharp)
 - [ ] [DOBELA](http://esolangs.org/wiki/DOBELA)
 - [ ] [DOG](http://esolangs.org/wiki/DOG)
 - [x] [Dogescript](http://esolangs.org/wiki/Dogescript)
