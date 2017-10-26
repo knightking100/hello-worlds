@@ -1,0 +1,10 @@
+get "streams.d"
+external
+[
+Ws
+]
+
+let Main() be
+[
+Ws("Hello World!*N")
+]

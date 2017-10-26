@@ -1,0 +1,2 @@
+main:-write('Hello world!').
+

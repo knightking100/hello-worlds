@@ -1,0 +1,15 @@
+%REM
+	Hacktoberfest 2017
+  Created in IBM Domino Designer
+%END REM
+
+Option Public
+Option Declare
+
+Dim doc as NotesDocument 
+Dim fieldName as String 
+Dim fieldValue as String 
+
+fieldName = "Response" 
+fieldValue = "Hello World" 
+Call doc.ReplaceItemValue(fieldName, fieldValue) 
