@@ -1718,7 +1718,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [ZZZ](http://esolangs.org/wiki/ZZZ)
 - [ ] [µCurse](http://esolangs.org/wiki/%CE%9CCurse)
 - [ ] [Юᓂ곧⎔](http://esolangs.org/wiki/%D0%AE%E1%93%82%EA%B3%A7%E2%8E%94)
-
+- [ ] [Ghani] (http://esolangs.org/wiki/lokuew)
 ```js
 function comparer(a, b) {
   const re = /(\d+)|(\D+)/g;
