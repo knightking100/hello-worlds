@@ -1,7 +1,7 @@
 <?php
 
-$b = "hello world";
+$string = "hello world";
 
-printf('%s', $b);
+printf('%s', $string);
 
 ?>
