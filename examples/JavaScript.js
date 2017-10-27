@@ -1,1 +1,4 @@
-console.log('Hello world!');
+function howToPrintOnConsole(){
+  console.log('Hello world!');
+}
+howtoPrintOnconsole();
