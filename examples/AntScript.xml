@@ -1,5 +1,5 @@
 <project default="main">
     <target name="main">
-        <echo>Hello World</echo>
+        <echo>Hello World @ Github</echo>
     </target>
 </project>
