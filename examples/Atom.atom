@@ -1,0 +1,20 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>EXAMPLE FEED</title>
+<link href="https://example.com/atom.xml" rel="self"/>
+<link href="https://example.com"/>
+<updated>2017-10-18T18:27:09+00:00</updated>
+<id>https://example.com</id>
+<author>
+<name>YOUR NAME</name>
+<email>user@domain.tld</email>
+</author>
+<entry>
+<title>Node Gmail API</title>
+<link href="https://example.com/post"/>
+<updated>2017-10-10T00:00:00+00:00</updated>
+<id>
+https://example.com/atom
+</id>
+<content type="text">Hello World</content>
+</entry>
+</feed>
