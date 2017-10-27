@@ -1368,6 +1368,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Shoopuf](http://esolangs.org/wiki/Shoopuf)
 - [ ] [Shove](http://esolangs.org/wiki/Shove)
 - [ ] [Shuffle](http://esolangs.org/wiki/Shuffle)
+- [X] [Siddhi](https://github.com/wso2/siddhi)
 - [x] [Sidef](https://rosettacode.org/wiki/Hello_world/Text#Sidef)
 - [ ] SIGNAL
 - [ ] [Silberjoder](http://esolangs.org/wiki/Silberjoder)
