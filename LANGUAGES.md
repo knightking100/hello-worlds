@@ -842,7 +842,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [l33t](http://esolangs.org/wiki/L33t)
 - [ ] [L00P](http://esolangs.org/wiki/L00P)
 - [ ] LabVIEW
-- [ ] [Labyrinth](http://esolangs.org/wiki/Labyrinth)
+- [x] [Labyrinth](http://esolangs.org/wiki/Labyrinth)
 - [ ] [Laconic](http://esolangs.org/wiki/Laconic)
 - [ ] Ladder Logic
 - [ ] [Lamb](http://esolangs.org/wiki/Lamb)
