@@ -715,7 +715,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [HELP](http://esolangs.org/wiki/HELP)
 - [x] [Heron](https://github.com/cdiggins/heron-language)
 - [ ] [Hev](http://esolangs.org/wiki/Hev)
-- [ ] [HEX](http://esolangs.org/wiki/HEX)
+- [x] [HEX](http://esolangs.org/wiki/HEX)
 - [ ] [Hexagony](http://esolangs.org/wiki/Hexagony)
 - [ ] [hexish](http://esolangs.org/wiki/Hexish)
 - [ ] [HicEst](https://rosettacode.org/wiki/Hello_world/Text#HicEst)
