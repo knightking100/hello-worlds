@@ -373,7 +373,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Circute](http://esolangs.org/wiki/Circute)
 - [ ] [CJam](http://esolangs.org/wiki/CJam)
 - [ ] CL (OS/400)
-- [ ] Clarion
+- [x] Clarion
 - [ ] [Clay](https://rosettacode.org/wiki/Hello_world/Text#Clay)
 - [ ] [CLC-INTERCAL](http://esolangs.org/wiki/CLC-INTERCAL)
 - [x] [Clean](https://rosettacode.org/wiki/Hello_world/Text#Clean)
