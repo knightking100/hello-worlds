@@ -1307,6 +1307,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [ROOP](http://esolangs.org/wiki/ROOP)
 - [ ] [Rotary](http://esolangs.org/wiki/Rotary)
 - [ ] RPG (OS/400)
+- [x] [RPL](https://en.wikipedia.org/wiki/RPL_(programming_language))
 - [ ] [RPOS](http://esolangs.org/wiki/RPOS)
 - [ ] [RSSB](http://esolangs.org/wiki/RSSB)
 - [ ] [RTL/2](https://rosettacode.org/wiki/Hello_world/Text#RTL.2F2)
