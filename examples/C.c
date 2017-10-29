@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main(){
-
-	printf("\tHello World\n");
-
+	printf("Olá mundo\n");//Now on PT-BR
 	return 0;
 }
