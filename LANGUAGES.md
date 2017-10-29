@@ -94,7 +94,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Aeolbonn](http://esolangs.org/wiki/Aeolbonn)
 - [ ] [Aeon](http://esolangs.org/wiki/Aeon)
 - [ ] [AFTL](http://esolangs.org/wiki/AFTL)
-- [ ] [Agena](https://rosettacode.org/wiki/Hello_world/Text#Agena)
+- [x] [Agena](https://rosettacode.org/wiki/Hello_world/Text#Agena)
 - [ ] Agilent VEE
 - [ ] [Agony](http://esolangs.org/wiki/Agony)
 - [ ] [Aheui](http://esolangs.org/wiki/Aheui)
