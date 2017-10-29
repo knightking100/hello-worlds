@@ -210,7 +210,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Beatnik](http://esolangs.org/wiki/Beatnik)
 - [x] [beeswax](https://rosettacode.org/wiki/Hello_world/Text#beeswax)
 - [ ] [Befalse](http://esolangs.org/wiki/Befalse)
-- [ ] [Befreak](http://esolangs.org/wiki/Befreak)
+- [x] [Befreak](http://esolangs.org/wiki/Befreak)
 - [x] [Befunge](http://esolangs.org/wiki/Befunge)
 - [ ] [Befunge/index.php](http://esolangs.org/wiki/Befunge/index.php)
 - [ ] [Befunk](http://esolangs.org/wiki/Befunk)
