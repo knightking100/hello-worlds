@@ -361,7 +361,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [ChaScript](http://sjishan.github.io/chascript/code.html)
 - [ ] [Checkout](http://esolangs.org/wiki/Checkout)
 - [x] [Chef](http://esolangs.org/wiki/Chef)
-- [ ] [Chicken](http://esolangs.org/wiki/Chicken)
+- [x] [Chicken](http://esolangs.org/wiki/Chicken)
 - [ ] [Child](http://esolangs.org/wiki/Child)
 - [ ] CHILL
 - [ ] [Choon](http://esolangs.org/wiki/Choon)
