@@ -381,7 +381,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Clem](http://esolangs.org/wiki/Clem)
 - [ ] [Clip](http://esolangs.org/wiki/Clip)
 - [x] [Clipper](https://rosettacode.org/wiki/Hello_world/Text#Clipper)
-- [ ] [CLIPS](https://rosettacode.org/wiki/Hello_world/Text#CLIPS)
+- [x] [CLIPS](https://rosettacode.org/wiki/Hello_world/Text#CLIPS)
 - [x] [Clojure](https://rosettacode.org/wiki/Hello_world/Text#Clojure)
 - [ ] [CLooP](http://esolangs.org/wiki/CLooP)
 - [ ] CLU
