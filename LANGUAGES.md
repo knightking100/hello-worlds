@@ -806,7 +806,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [jq](https://rosettacode.org/wiki/Hello_world/Text#jq)
 - [x] JScript
 - [x] JScript.NET
-- [ ] [JSFuck](http://esolangs.org/wiki/JSFuck)
+- [x] [JSFuck](http://esolangs.org/wiki/JSFuck)
 - [ ] [Jug](http://esolangs.org/wiki/Jug)
 - [x] [Julia](https://rosettacode.org/wiki/Hello_world/Text#Julia)
 - [ ] [JUMP](http://esolangs.org/wiki/JUMP)
