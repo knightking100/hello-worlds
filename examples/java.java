@@ -1,11 +1,7 @@
-
-public class Java {
+class Java {
 
     public static void main(String[] args) {
-        display();
+        System.out.println("Hello World");
     }
 
-    public static void display() {
-        System.out.println("Hello World!");
-    }
 }
