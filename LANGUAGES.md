@@ -40,7 +40,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [--C-=C-C--](http://esolangs.org/wiki/--C-%3DC-C--)
 - [ ] [:≠](http://esolangs.org/wiki/Unassignable)
 - [ ] [!!!](http://esolangs.org/wiki/!!!)
-- [ ] [!!!Batch](http://esolangs.org/wiki/!!!Batch)
+- [x] [!!!Batch](http://esolangs.org/wiki/!!!Batch)
 - [ ] [???](http://esolangs.org/wiki/%3F%3F%3F)
 - [ ] [.box](http://esolangs.org/wiki/.box)
 - [ ] [.Gertrude](http://esolangs.org/wiki/.Gertrude)
