@@ -1,5 +1,5 @@
 <?php
-// added deepanshu singh
+// added by deepanshu singh
 echo "hello world in pHp" ;
 
 ?>
