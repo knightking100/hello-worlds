@@ -301,6 +301,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Brat](https://rosettacode.org/wiki/Hello_world/Text#Brat)
 - [ ] [BRB](http://esolangs.org/wiki/BRB)
 - [ ] [Brian & Chuck](http://esolangs.org/wiki/Brian_%26_Chuck)
+- [x] [Brightscript](https://sdkdocs.roku.com/display/sdkdoc/BrightScript+Language+Reference)
 - [ ] [Brlcad](https://rosettacode.org/wiki/Hello_world/Text#Brlcad)
 - [x] Bro
 - [ ] [Brook](http://esolangs.org/wiki/Brook)
