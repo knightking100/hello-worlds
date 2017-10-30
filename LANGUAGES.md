@@ -872,6 +872,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Ligature Machine](http://esolangs.org/wiki/Ligature_Machine)
 - [ ] [Light Pattern](http://esolangs.org/wiki/Light_Pattern)
 - [ ] [Lii](http://esolangs.org/wiki/Lii)
+- [x] [Like, Python](http://www.staringispolite.com/likepython/)
 - [x] [Lily](https://rosettacode.org/wiki/Hello_world/Text#Lily)
 - [ ] [LilyPond](https://rosettacode.org/wiki/Hello_world/Text#LilyPond)
 - [x] [Limbo](https://rosettacode.org/wiki/Hello_world/Text#Limbo)
