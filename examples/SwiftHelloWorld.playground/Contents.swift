@@ -1,5 +1,5 @@
 import Foundation
 
-var helloWorld = "Hello world"
+var hellomicin = "Hello micin"
 
-print(helloWorld)
+print(hellomicin)
