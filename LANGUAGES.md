@@ -464,6 +464,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Dependently Typed Binary Lambda Calculus](http://esolangs.org/wiki/Dependently_Typed_Binary_Lambda_Calculus)
 - [x] [Derpcode](http://esolangs.org/wiki/Derpcode)
 - [x] [Derplang](http://esolangs.org/wiki/Derplang)
+- [x] [Desired State Configuration](https://docs.microsoft.com/en-us/powershell/dsc/overview)
 - [ ] [Deviating Percolator](http://esolangs.org/wiki/Deviating_Percolator)
 - [ ] [DeviousYarn](https://rosettacode.org/wiki/Hello_world/Text#DeviousYarn)
 - [ ] [DiBOL](https://en.wikipedia.org/wiki/DIBOL)
