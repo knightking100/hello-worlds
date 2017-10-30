@@ -1018,6 +1018,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Muriel](http://esolangs.org/wiki/Muriel)
 - [ ] [Musical notes](http://esolangs.org/wiki/Musical_notes)
 - [ ] [Musical-X](http://esolangs.org/wiki/Musical-X)
+- [ ] [Musical-X](http://esolangs.org/wiki/Musical-X)
 - [ ] [Muxcomp](http://esolangs.org/wiki/Muxcomp)
 - [ ] [My Unreliable Past](http://esolangs.org/wiki/My_Unreliable_Past)
 - [ ] [Mycelium](http://esolangs.org/wiki/Mycelium)
