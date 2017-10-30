@@ -731,7 +731,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Hoon](http://esolangs.org/wiki/Hoon)
 - [ ] [Hopscotch](http://esolangs.org/wiki/Hopscotch)
 - [ ] [HPL](http://hpl.sourceforge.net/)
-- [ ] [HPPPL](https://rosettacode.org/wiki/Hello_world/Text#HPPPL)
+- [x] [HPPPL](https://rosettacode.org/wiki/Hello_world/Text#HPPPL)
 - [x] [HQ9+](https://rosettacode.org/wiki/Hello_world/Text#HQ9.2B)
 - [ ] [HSPAL](http://esolangs.org/wiki/HSPAL)
 - [ ] [HSQ](http://esolangs.org/wiki/HSQ)
