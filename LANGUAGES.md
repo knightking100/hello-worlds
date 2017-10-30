@@ -892,7 +892,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Logical](http://esolangs.org/wiki/Logical)
 - [ ] [Logicode](http://esolangs.org/wiki/Logicode)
 - [x] [Logo](https://rosettacode.org/wiki/Hello_world/Text#Logo)
-- [ ] [Logtalk](https://rosettacode.org/wiki/Hello_world/Text#Logtalk)
+- [x] [Logtalk](https://rosettacode.org/wiki/Hello_world/Text#Logtalk)
 - [ ] [LOLA](http://esolangs.org/wiki/LOLA)
 - [x] [LOLCODE](http://esolangs.org/wiki/LOLCODE)
 - [ ] [Loose Circular Brainfuck (LCBF)](http://esolangs.org/wiki/Loose_Circular_Brainfuck_(LCBF))
