@@ -678,6 +678,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [GOTO 10](http://esolangs.org/wiki/GOTO_10)
 - [ ] [Goto](http://esolangs.org/wiki/Goto)
 - [ ] [GOTO++](http://esolangs.org/wiki/GOTO%2B%2B)
+- [x] [GPortugol](https://github.com/rafaelgou/gpt)
 - [ ] [GPRX 3000](http://esolangs.org/wiki/GPRX_3000)
 - [ ] [GrainFimple](http://esolangs.org/wiki/GrainFimple)
 - [ ] [GraNoLa/M](http://esolangs.org/wiki/GraNoLa/M)
