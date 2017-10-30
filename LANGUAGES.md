@@ -490,6 +490,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [DROL](http://esolangs.org/wiki/DROL)
 - [ ] [DStack](http://esolangs.org/wiki/DStack)
 - [ ] [Duck Duck Goose](http://esolangs.org/wiki/Duck_Duck_Goose)
+- [x] [Ducky Script](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript)
 - [ ] [Dumbf*ck](http://esolangs.org/wiki/Dumbf*ck)
 - [ ] [DumbScript](http://esolangs.org/wiki/DumbScript)
 - [ ] [DUP](http://esolangs.org/wiki/DUP)
