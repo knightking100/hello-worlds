@@ -1114,7 +1114,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] OpenCL
 - [ ] OpenEdge ABL
 - [ ] [OpenLisp](https://rosettacode.org/wiki/Hello_world/Text#OpenLisp)
-- [ ] [Openscad](https://rosettacode.org/wiki/Hello_world/Text#Openscad)
+- [x] [Openscad](https://rosettacode.org/wiki/Hello_world/Text#Openscad)
 - [ ] OPL
 - [ ] [Optimism](http://esolangs.org/wiki/Optimism)
 - [ ] [Ora](http://esolangs.org/wiki/Ora)
