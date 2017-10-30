@@ -1491,6 +1491,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Symple-X](http://esolangs.org/wiki/Symple-X)
 - [ ] [Symsyn](https://rosettacode.org/wiki/Hello_world/Text#Symsyn)
 - [ ] [SynDev](http://esolangs.org/wiki/SynDev)
+- [x] [System RPL](https://en.wikipedia.org/wiki/RPL_(programming_language))
 - [ ] [Table](http://esolangs.org/wiki/Table)
 - [ ] TACL
 - [ ] [Tag](http://esolangs.org/wiki/Tag)
