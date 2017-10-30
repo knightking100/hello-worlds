@@ -754,6 +754,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [IINC](http://esolangs.org/wiki/IINC)
 - [ ] [ILLGOL](http://esolangs.org/wiki/ILLGOL)
 - [ ] [ImageFuck](http://esolangs.org/wiki/ImageFuck)
+- [x] [Imba](http://imba.io)
 - [ ] [Immi](http://esolangs.org/wiki/Immi)
 - [ ] [Impera](http://esolangs.org/wiki/Impera)
 - [ ] [Implieses](http://esolangs.org/wiki/Implieses)
