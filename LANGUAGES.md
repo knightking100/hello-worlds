@@ -1359,7 +1359,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Ser2](http://esolangs.org/wiki/Ser2)
 - [ ] [Seriously](http://esolangs.org/wiki/Seriously)
 - [x] [Set lang](https://rosettacode.org/wiki/Hello_world/Text#Set_lang)
-- [ ] [Set](http://esolangs.org/wiki/Set)
+- [x] [Set](http://esolangs.org/wiki/Set)
 - [ ] [SETL4](https://rosettacode.org/wiki/Hello_world/Text#SETL4)
 - [ ] [SETL](https://rosettacode.org/wiki/Hello_world/Text#SETL)
 - [ ] [SGMJQFuck](http://esolangs.org/wiki/SGMJQFuck)
