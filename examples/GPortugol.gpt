@@ -1,0 +1,5 @@
+algoritmo helloworld;
+
+início
+  imprima("Hello World! / Olá Mundo!");
+fim
