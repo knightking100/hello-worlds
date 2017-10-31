@@ -1,5 +1,5 @@
 import Foundation
 
-var helloWorld = "Hello world"
+var hello_World = "Hello world"
 
 print(helloWorld)
