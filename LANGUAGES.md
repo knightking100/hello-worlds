@@ -366,7 +366,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] CHILL
 - [ ] [Choon](http://esolangs.org/wiki/Choon)
 - [x] [ChucK](https://rosettacode.org/wiki/Hello_world/Text#ChucK)
-- [ ] [ChuckScript](http://esolangs.org/wiki/ChuckScript)
+- [x] [ChuckScript](http://esolangs.org/wiki/ChuckScript)
 - [ ] [Churro](http://esolangs.org/wiki/Churro)
 - [ ] CIL
 - [ ] [Circuit Diagram](http://esolangs.org/wiki/Circuit_Diagram)
