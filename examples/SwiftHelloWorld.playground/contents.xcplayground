@@ -1,3 +1,4 @@
+// better to use Xml than Html
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <playground version='5.0' target-platform='ios'>
     <timeline fileName='timeline.xctimeline'/>
