@@ -22,7 +22,7 @@ rmmod hello_world
 #define procfs_name "hello_world"
 #define procfs_parent NULL
 #define procfs_perms 0644
-
+//static constructor
 static struct proc_dir_entry *hello_world_file;
 
 static int
