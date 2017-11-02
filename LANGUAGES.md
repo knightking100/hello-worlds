@@ -53,7 +53,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [():;+-#?!](http://esolangs.org/wiki/Symbols)
 - [ ] [()](http://esolangs.org/wiki/())
 - [ ] [[]](http://esolangs.org/wiki/Brackets)
-- [ ] [\]](http://esolangs.org/wiki/Right_bracket)
+- [ ] []](http://esolangs.org/wiki/Right_bracket)
 - [ ] [@tention!](http://esolangs.org/wiki/@tention!)
 - [ ] [@text](http://esolangs.org/wiki/@text)
 - [ ] [*><>](http://esolangs.org/wiki/Starfish)
@@ -199,12 +199,10 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Basic Input/Output Commands](http://esolangs.org/wiki/Basic_Input/Output_Commands)
 - [x] [BASIC](https://rosettacode.org/wiki/Hello_world/Text#BASIC)
 - [x] [Battlestar](https://rosettacode.org/wiki/Hello_world/Text#Battlestar)
-- [x] [NodePL](https://github.com/kkoch986/nodepl)
 - [ ] [BBC BASIC](https://rosettacode.org/wiki/Hello_world/Text#BBC_BASIC)
 - [x] [bc](https://rosettacode.org/wiki/Hello_world/Text#bc)
 - [ ] [BCDFuck](http://esolangs.org/wiki/BCDFuck)
 - [x] [BCPL](https://rosettacode.org/wiki/Hello_world/Text#BCPL)
-- [x] [CPL](http://progopedia.com/language/cpl/)
 - [ ] [BDAMD](http://esolangs.org/wiki/BDAMD)
 - [ ] [Beam](http://esolangs.org/wiki/Beam)
 - [x] BeanShell
@@ -238,6 +236,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [BIO](http://esolangs.org/wiki/BIO)
 - [ ] [Biota](http://esolangs.org/wiki/Biota)
 - [ ] [Bipoint](http://esolangs.org/wiki/Bipoint)
+- [x] BIRL
 - [ ] [BIT](http://esolangs.org/wiki/BIT)
 - [ ] [BitBitJump](http://esolangs.org/wiki/BitBitJump)
 - [ ] [BitChanger](http://esolangs.org/wiki/BitChanger)
@@ -303,6 +302,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Brat](https://rosettacode.org/wiki/Hello_world/Text#Brat)
 - [ ] [BRB](http://esolangs.org/wiki/BRB)
 - [ ] [Brian & Chuck](http://esolangs.org/wiki/Brian_%26_Chuck)
+- [x] [Brightscript](https://sdkdocs.roku.com/display/sdkdoc/BrightScript+Language+Reference)
 - [ ] [Brlcad](https://rosettacode.org/wiki/Hello_world/Text#Brlcad)
 - [x] Bro
 - [ ] [Brook](http://esolangs.org/wiki/Brook)
@@ -421,6 +421,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Cork](http://esolangs.org/wiki/Cork)
 - [ ] [Countdown](http://esolangs.org/wiki/Countdown)
 - [x] Cow
+- [x] [CPL](http://progopedia.com/language/cpl/)
 - [ ] [cQuents](http://esolangs.org/wiki/CQuents)
 - [ ] [Crab](http://esolangs.org/wiki/Crab)
 - [ ] [Crack](https://rosettacode.org/wiki/Hello_world/Text#Crack)
@@ -584,8 +585,8 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [FileCode](http://esolangs.org/wiki/FileCode)
 - [ ] [FiM++](http://esolangs.org/wiki/FiM%2B%2B)
 - [ ] [Finite Groups](http://esolangs.org/wiki/Finite_Groups)
-- [ ] [Fish](https://esolangs.org/wiki/Fish) (Not the Fish Shell)
 - [x] [Fish Shell](https://fishshell.com/)
+- [ ] [Fish](https://esolangs.org/wiki/Fish) (Not the Fish Shell)
 - [ ] [Fishing](http://esolangs.org/wiki/Fishing)
 - [ ] [FISHQ9+](http://esolangs.org/wiki/FISHQ9%2B)
 - [ ] [Fission](http://esolangs.org/wiki/Fission)
@@ -758,6 +759,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [IINC](http://esolangs.org/wiki/IINC)
 - [ ] [ILLGOL](http://esolangs.org/wiki/ILLGOL)
 - [x] [ImageFuck](http://esolangs.org/wiki/ImageFuck)
+- [x] [Imba](http://imba.io)
 - [ ] [Immi](http://esolangs.org/wiki/Immi)
 - [ ] [Impera](http://esolangs.org/wiki/Impera)
 - [ ] [Implieses](http://esolangs.org/wiki/Implieses)
@@ -858,6 +860,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [LAMPA](http://esolangs.org/wiki/LAMPA)
 - [ ] [Lang5](https://rosettacode.org/wiki/Hello_world/Text#Lang5)
 - [ ] [Langar.io](http://esolangs.org/wiki/Langar.io)
+- [x] Laravel
 - [x] [Lasso](https://rosettacode.org/wiki/Hello_world/Text#Lasso)
 - [ ] [Last ReSort](http://esolangs.org/wiki/Last_ReSort)
 - [ ] [Lazy Bird](http://esolangs.org/wiki/Lazy_Bird)
@@ -955,7 +958,6 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Memfuck](http://esolangs.org/wiki/Memfuck)
 - [ ] [memPanic](http://esolangs.org/wiki/MemPanic)
 - [ ] [Meq](http://esolangs.org/wiki/Meq)
-- [x] Laravel
 - [x] [Mercury](https://rosettacode.org/wiki/Hello_world/Text#Mercury)
 - [x] [Metafont](https://rosettacode.org/wiki/Hello_world/Text#Metafont)
 - [ ] [Metropolis](http://esolangs.org/wiki/Metropolis)
@@ -1051,6 +1053,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] Nim / Nimrod
 - [ ] [Nit](https://rosettacode.org/wiki/Hello_world/Text#Nit)
 - [ ] [Nock](http://esolangs.org/wiki/Nock)
+- [x] [NodePL](https://github.com/kkoch986/nodepl)
 - [ ] [Noisett](http://esolangs.org/wiki/Noisett)
 - [ ] [noit o' mnain worb](http://esolangs.org/wiki/Noit_o%27_mnain_worb)
 - [ ] [Nonsense Query Lists](http://esolangs.org/wiki/Nonsense_Query_List)
@@ -1170,6 +1173,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Pieces](http://esolangs.org/wiki/Pieces)
 - [ ] [Piet-Q](http://esolangs.org/wiki/Piet-Q)
 - [x] [Piet](http://esolangs.org/wiki/Piet)
+- [x] [Pikachu](https://en.wikipedia.org/wiki/Esoteric_programming_language#Pikachu)
 - [x] [Pike](https://rosettacode.org/wiki/Hello_world/Text#Pike)
 - [ ] [PILOT](https://rosettacode.org/wiki/Hello_world/Text#PILOT)
 - [ ] [PingPong](http://esolangs.org/wiki/PingPong)
@@ -1495,6 +1499,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Symple-X](http://esolangs.org/wiki/Symple-X)
 - [ ] [Symsyn](https://rosettacode.org/wiki/Hello_world/Text#Symsyn)
 - [ ] [SynDev](http://esolangs.org/wiki/SynDev)
+- [x] [System RPL](https://en.wikipedia.org/wiki/RPL_(programming_language))
 - [ ] [Table](http://esolangs.org/wiki/Table)
 - [ ] TACL
 - [ ] [Tag](http://esolangs.org/wiki/Tag)
@@ -1538,9 +1543,8 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Thutu](http://esolangs.org/wiki/Thutu)
 - [x] TI-39 BASIC
 - [ ] [TI-83 BASIC](https://rosettacode.org/wiki/Hello_world/Text#TI-83_BASIC)
-- [x] TI-Z80 BASIC
 - [x] TI-v200 BASIC
-- [x] BIRL
+- [x] TI-Z80 BASIC
 - [ ] [Tick](http://esolangs.org/wiki/Tick)
 - [ ] [Time Out](http://esolangs.org/wiki/Time_Out)
 - [ ] [timefuck](http://esolangs.org/wiki/Timefuck)
@@ -1717,6 +1721,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Ypsilax](http://esolangs.org/wiki/Ypsilax)
 - [x] Z shell (Zsh)
 - [ ] [Z](http://esolangs.org/wiki/Z)
+- [x] Zebra
 - [ ] [Zetaplex](http://esolangs.org/wiki/Zetaplex)
 - [ ] [Ziim](http://esolangs.org/wiki/Ziim)
 - [ ] [zkl](https://rosettacode.org/wiki/Hello_world/Text#zkl)
@@ -1728,11 +1733,6 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [ZZZ](http://esolangs.org/wiki/ZZZ)
 - [ ] [µCurse](http://esolangs.org/wiki/%CE%9CCurse)
 - [ ] [Юᓂ곧⎔](http://esolangs.org/wiki/%D0%AE%E1%93%82%EA%B3%A7%E2%8E%94)
-- [x] [Imba](http://imba.io)
-- [x] [Brightscript](https://sdkdocs.roku.com/display/sdkdoc/BrightScript+Language+Reference)
-- [x] Zebra
-- [x] [Pikachu](https://en.wikipedia.org/wiki/Esoteric_programming_language#Pikachu)
-- [x] [System RPL](https://en.wikipedia.org/wiki/RPL_(programming_language))
 
 ```js
 function comparer(a, b) {
