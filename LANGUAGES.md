@@ -53,7 +53,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [():;+-#?!](http://esolangs.org/wiki/Symbols)
 - [ ] [()](http://esolangs.org/wiki/())
 - [ ] [[]](http://esolangs.org/wiki/Brackets)
-- [ ] []](http://esolangs.org/wiki/Right_bracket)
+- [ ] [\]](http://esolangs.org/wiki/Right_bracket)
 - [ ] [@tention!](http://esolangs.org/wiki/@tention!)
 - [ ] [@text](http://esolangs.org/wiki/@text)
 - [ ] [*><>](http://esolangs.org/wiki/Starfish)
