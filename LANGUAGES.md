@@ -1734,6 +1734,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Юᓂ곧⎔](http://esolangs.org/wiki/%D0%AE%E1%93%82%EA%B3%A7%E2%8E%94)
 
 ```js
+<!--
 function comparer(a, b) {
   const re = /(\d+)|(\D+)/g;
   a = a.slice(5).trim();
@@ -1758,4 +1759,18 @@ function comparer(a, b) {
 }
 copy(a.split('\n').filter((v, i, s) => s.findIndex(e => e.slice(5) == v.slice(5)) === i).sort(comparer).join('\n'))
 
-copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLowerCase() == v.slice(5).toLowerCase())).sort(comparer).join('\n'));```
+copy(a.split('\n').filter((v, i, s) => i === s.findIndex(e => e.slice(5).toLowerCase() == v.slice(5).toLowerCase())).sort(comparer).join('\n'));
+
+b = b.trim().split('\n');
+a = a.trim().split('\n').map(e => {
+  if (!e.startsWith('- [ ]')) return e;
+  for (var c of b) {
+    if (e.toLowerCase().indexOf('[' + c.toLowerCase() + ']') > -1) {
+      b.splice(b.indexOf(c), 1);
+      return '- [x' + e.substring(4);
+    }
+  }
+  return e;
+});
+-->
+```
