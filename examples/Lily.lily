@@ -1,7 +1,11 @@
-#Controller configuration file used by LilyPad, a plugin for the PCSX2 PlayStation 2 emulator; 
-#contains key bindings and other button mappings for a game controller; 
-#used for storing customized settings for different kinds of game controllers.
-
-# Hello world in Lily
-
-print("Hello World")
+\version "2.18.2"
+global = {
+  \time 4/4
+  \key c \major
+  \tempo 4=100
+}
+\relative c''{ g e e( g2)
+}
+\addlyrics {
+  Hel -- lo,   World!
+}
