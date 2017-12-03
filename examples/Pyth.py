@@ -1,2 +1,0 @@
-# Pyth
-"Hello World!
