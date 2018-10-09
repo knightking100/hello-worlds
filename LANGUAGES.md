@@ -1033,7 +1033,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Nairb](http://esolangs.org/wiki/Nairb)
 - [ ] [Nandarin](http://esolangs.org/wiki/Nandarin)
 - [ ] [Nandypants](http://esolangs.org/wiki/Nandypants)
-- [ ] [NATURAL]()
+- [x] [NATURAL]()
 - [x] [Neat](https://rosettacode.org/wiki/Hello_world/Text#Neat)
 - [ ] [NegaPosi](http://esolangs.org/wiki/NegaPosi)
 - [x] [Neko](https://rosettacode.org/wiki/Hello_world/Text#Neko)
