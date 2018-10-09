@@ -9,9 +9,10 @@
   
 - Remember to reference issue [#1](https://github.com/knightking100/hello-worlds/issues/1)
 - Only one new language per pull request, please.
+- You don't have to update [LANGUAGES.md](https://github.com/knightking100/hello-worlds/blob/master/LANGUAGES.md), but that would save us a lot of time, so please do that if you can!
 
 - Don't add existing Hello World programs to the repo. You can see them in [#1](https://github.com/knightking100/hello-worlds/issues/1)
 
-  - If there's already an entry for the language, and you're adding a significantly different "Hello World", you can add `_2`, `_3`.. etc to the end of the file name.
+  - If there's already an entry for the language, and you're adding a significantly different "Hello World", you can add `_2`, `_3`.. etc to the end of the file name. Please don't add identical programs for a language that's already there, or your PR will be closed and marked as invalid!
 
 ## I will merge your pull request as long as it's valid. It might take about 1-24 hours
