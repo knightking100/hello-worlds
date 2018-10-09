@@ -1,0 +1,12 @@
+define DATA LOCAL
+1 #BUTTON(A1)
+end-define
+WRITE notitle 'Hello, world!'
+display notitle 'Hello, world!'
+PRINT 'Hello, world!'
+PROCESS GUI ACTION MESSAGE-BOX WITH NULL-HANDLE
+  'Hello, world!' ' ' 'IO1'
+  #BUTTON
+  GIVING *ERROR-nr
+INPUT (ad=od) 'Hello, world!'
+END
