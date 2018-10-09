@@ -4,6 +4,7 @@
   - `language_name` can be its aliases. For example `C#` can be `CS` or `CSharp`, `C++` can be `CPP`
   - Please don't use characters that are invalid on Windows or Linux
   - Please, use **first letter** of the file name in uppercase.
+  - Place the file in the right folder inside `examples`. Please please **no new files on the root directory!**
 - The program output can be `Hello World`, `Hello World!`, `hello world`, `Hello, world`, `hello, world`, etc... 
   - It can print to console, output text to screen or to a file, or use whatever form of output your language supports (e.g a function returning a string/array of char/array of bytes/seeded random number generator/Huffman encoded integer that represents hello world)
   
