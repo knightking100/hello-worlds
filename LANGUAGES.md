@@ -37,7 +37,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [2014](https://esolangs.org/wiki/2014)
 - [ ] [2017](https://esolangs.org/wiki/2017)
 - [ ] [2050706](http://esolangs.org/wiki/2050706)
-- [ ] [--C-=C-C--](http://esolangs.org/wiki/--C-%3DC-C--)
+- [x] [--C-=C-C--](http://esolangs.org/wiki/--C-%3DC-C--)
 - [ ] [:≠](http://esolangs.org/wiki/Unassignable)
 - [ ] [!!!](http://esolangs.org/wiki/!!!)
 - [x] [!!!Batch](http://esolangs.org/wiki/!!!Batch)
