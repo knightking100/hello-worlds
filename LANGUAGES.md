@@ -1656,7 +1656,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [W-INTERCAL](http://esolangs.org/wiki/W-INTERCAL)
 - [ ] [Waduzitdo](http://esolangs.org/wiki/Waduzitdo)
 - [ ] [Wait](http://esolangs.org/wiki/Wait)
-- [ ] [Wake](http://esolangs.org/wiki/Wake)
+- [x] [Wake](http://esolangs.org/wiki/Wake)
 - [x] [WARP](http://esolangs.org/wiki/WARP)
 - [x] [Wart](https://rosettacode.org/wiki/Hello_world/Text#Wart)
 - [ ] [WASD](http://esolangs.org/wiki/WASD)
