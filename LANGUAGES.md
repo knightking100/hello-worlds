@@ -1418,6 +1418,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Snowman](http://esolangs.org/wiki/Snowman)
 - [ ] [SNUSP](http://esolangs.org/wiki/SNUSP)
 - [ ] [SockZ](http://esolangs.org/wiki/SockZ)
+- [x] [Solidity](https://en.wikipedia.org/wiki/Solidity)
 - [ ] [Somnypna](http://esolangs.org/wiki/Somnypna)
 - [ ] [SON-OF-UNBABTIZED](http://esolangs.org/wiki/SON-OF-UNBABTIZED)
 - [ ] [Sonata](http://esolangs.org/wiki/Sonata)
