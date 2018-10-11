@@ -1660,7 +1660,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Wake](http://esolangs.org/wiki/Wake)
 - [x] [WARP](http://esolangs.org/wiki/WARP)
 - [x] [Wart](https://rosettacode.org/wiki/Hello_world/Text#Wart)
-- [ ] [WASD](http://esolangs.org/wiki/WASD)
+- [x] [WASD](http://esolangs.org/wiki/WASD)
 - [ ] [WCDA](http://esolangs.org/wiki/WCDA)
 - [ ] [Wct](http://esolangs.org/wiki/Wct)
 - [ ] [Weave](http://esolangs.org/wiki/Weave)
