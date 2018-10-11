@@ -1,0 +1,1 @@
+program = system'dynamic'Tape("Hello world!",system'console,%"writeLine[1]").

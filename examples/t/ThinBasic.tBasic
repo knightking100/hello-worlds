@@ -1,0 +1,1 @@
+uses "Console" Console_WriteLine("Hello World!" + $CRLF)

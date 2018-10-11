@@ -1,0 +1,6 @@
+%%
+% Hello world program for my WIP prolog-type programming language NodePL
+% https://github.com/kkoch986/nodepl
+%%
+
+hello() :- writeln("Hello World").
