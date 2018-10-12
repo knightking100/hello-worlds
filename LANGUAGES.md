@@ -684,7 +684,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [GPRX 3000](http://esolangs.org/wiki/GPRX_3000)
 - [ ] [GrainFimple](http://esolangs.org/wiki/GrainFimple)
 - [ ] [GraNoLa/M](http://esolangs.org/wiki/GraNoLa/M)
-- [ ] [Graphical Brainfuck](http://esolangs.org/wiki/Graphical_Brainfuck)
+- [x] [Graphical Brainfuck](http://esolangs.org/wiki/Graphical_Brainfuck)
 - [ ] [Grass](http://esolangs.org/wiki/Grass)
 - [ ] [Gravity](http://esolangs.org/wiki/Gravity)
 - [ ] [Gray Snail](http://esolangs.org/wiki/Gray_Snail)
