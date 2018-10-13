@@ -911,7 +911,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Lua](https://rosettacode.org/wiki/Hello_world/Text#Lua)
 - [ ] [Luigi](http://esolangs.org/wiki/Luigi)
 - [ ] [Lustre](https://en.wikipedia.org/wiki/Lustre_(programming_language))
-- [ ] [Ly](http://esolangs.org/wiki/Ly)
+- [x] [Ly](http://esolangs.org/wiki/Ly)
 - [x] [M4](https://rosettacode.org/wiki/Hello_world/Text#M4)
 - [ ] [M-code](http://esolangs.org/wiki/M-code)
 - [ ] [M×N-Dimensional Brainfuck](http://esolangs.org/wiki/M%C3%97N-Dimensional_Brainfuck)
