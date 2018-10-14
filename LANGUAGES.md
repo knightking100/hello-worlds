@@ -637,7 +637,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Funciton](http://esolangs.org/wiki/Funciton)
 - [ ] [Fünke](http://esolangs.org/wiki/F%C3%BCnke)
 - [x] [FunL](https://rosettacode.org/wiki/Hello_world/Text#FunL)
-- [ ] [FURscript](http://esolangs.org/wiki/FURscript)
+- [x] [FURscript](http://esolangs.org/wiki/FURscript)
 - [ ] [Fuun DNA](http://esolangs.org/wiki/Fuun_DNA)
 - [ ] [Fuun RNA](http://esolangs.org/wiki/Fuun_RNA)
 - [x] [FUZE BASIC](https://rosettacode.org/wiki/Hello_world/Text#FUZE_BASIC)
