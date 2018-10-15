@@ -711,7 +711,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Hargfak](http://esolangs.org/wiki/Hargfak)
 - [ ] [Harp](http://esolangs.org/wiki/Harp)
 - [x] [Haskell](https://rosettacode.org/wiki/Hello_world/Text#Haskell)
-- [ ] [Hatter](http://esolangs.org/wiki/Hatter)
+- [x] [Hatter](http://esolangs.org/wiki/Hatter)
 - [x] [Haxe](https://rosettacode.org/wiki/Hello_world/Text#Haxe)
 - [ ] [hcbf](http://esolangs.org/wiki/Hcbf)
 - [ ] [Headsecks](http://esolangs.org/wiki/Headsecks)
