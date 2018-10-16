@@ -1650,7 +1650,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [VL](http://esolangs.org/wiki/VL)
 - [ ] [Voclex](http://esolangs.org/wiki/Voclex)
 - [x] [Vowels (2017)](http://esolangs.org/wiki/Vowels_(2017))
-- [ ] [vowels](http://esolangs.org/wiki/Vowels)
+- [x] [Vowels](http://esolangs.org/wiki/Vowels)
 - [ ] [Vrejvax](http://esolangs.org/wiki/Vrejvax)
 - [ ] [VTFF](http://esolangs.org/wiki/VTFF)
 - [ ] [VTL](http://esolangs.org/wiki/VTL)
