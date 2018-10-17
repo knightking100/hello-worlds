@@ -230,7 +230,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [BFM](http://esolangs.org/wiki/BFM)
 - [ ] [Billiard ball machine](http://esolangs.org/wiki/Billiard_ball_machine)
 - [ ] [Binary combinatory logic](http://esolangs.org/wiki/Binary_combinatory_logic)
-- [ ] [Binary lambda calculus](http://esolangs.org/wiki/Binary_lambda_calculus)
+- [x] [Binary lambda calculus](http://esolangs.org/wiki/Binary_lambda_calculus)
 - [x] [Binaryfuck](http://esolangs.org/wiki/Binaryfuck)
 - [ ] [Binodu](http://esolangs.org/wiki/Binodu)
 - [ ] [BIO](http://esolangs.org/wiki/BIO)
