@@ -593,7 +593,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Fit](http://esolangs.org/wiki/Fit)
 - [ ] [Flatline](http://esolangs.org/wiki/Flatline)
 - [ ] [Flip](http://esolangs.org/wiki/Flip)
-- [ ] [FlogScript](http://esolangs.org/wiki/FlogScript)
+- [x] [FlogScript](http://esolangs.org/wiki/FlogScript)
 - [ ] [flow_chart](http://esolangs.org/wiki/Flow_chart)
 - [ ] [Fluffle Puff](http://esolangs.org/wiki/Fluffle_Puff)
 - [ ] [Flump](http://esolangs.org/wiki/Flump)
@@ -1742,13 +1742,13 @@ function comparer(a, b) {
   b = b.slice(5).trim();
   if (a[0] == '[') a = a.substring(1);
   if (b[0] == '[') b = b.substring(1);
-  
+
   const ax = [], bx = [];
   let an, bn, nn;
 
   a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
   b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
-  
+
   while (ax.length && bx.length) {
     an = ax.shift();
     bn = bx.shift();
