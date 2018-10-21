@@ -1556,7 +1556,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Toadskin](http://esolangs.org/wiki/Toadskin)
 - [ ] [TOD](http://esolangs.org/wiki/TOD)
 - [ ] [Toi](http://esolangs.org/wiki/Toi)
-- [ ] [TOM](https://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language))
+- [x] [TOM](https://en.wikipedia.org/wiki/TOM_(object-oriented_programming_language))
 - [ ] [Tome](http://esolangs.org/wiki/Tome)
 - [ ] [Tonoco](http://esolangs.org/wiki/Tonoco)
 - [ ] [Topaz](http://esolangs.org/wiki/Topaz)
@@ -1742,13 +1742,13 @@ function comparer(a, b) {
   b = b.slice(5).trim();
   if (a[0] == '[') a = a.substring(1);
   if (b[0] == '[') b = b.substring(1);
-  
+
   const ax = [], bx = [];
   let an, bn, nn;
 
   a.replace(re, (_, $1, $2) => ax.push([$1 || Infinity, $2 || ""]));
   b.replace(re, (_, $1, $2) => bx.push([$1 || Infinity, $2 || ""]));
-  
+
   while (ax.length && bx.length) {
     an = ax.shift();
     bn = bx.shift();
