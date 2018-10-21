@@ -593,7 +593,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Fit](http://esolangs.org/wiki/Fit)
 - [ ] [Flatline](http://esolangs.org/wiki/Flatline)
 - [ ] [Flip](http://esolangs.org/wiki/Flip)
-- [ ] [FlogScript](http://esolangs.org/wiki/FlogScript)
+- [x] [FlogScript](http://esolangs.org/wiki/FlogScript)
 - [ ] [flow_chart](http://esolangs.org/wiki/Flow_chart)
 - [ ] [Fluffle Puff](http://esolangs.org/wiki/Fluffle_Puff)
 - [ ] [Flump](http://esolangs.org/wiki/Flump)
