@@ -1441,7 +1441,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [SQL](https://rosettacode.org/wiki/Hello_world/Text#SQL)
 - [ ] [SQR](https://docs.oracle.com/cd/E55243_01/pt854pbr0/eng/pt/tsql/concept_TheSQRLanguage-c07b18.html#topofpage)
 - [ ] [SQRT](http://esolangs.org/wiki/SQRT)
-- [ ] [Squeak](http://squeak.org/)
+- [x] [Squeak](http://squeak.org/)
 - [x] [Squirrel]()
 - [ ] [Squishy2K](http://esolangs.org/wiki/Squishy2K)
 - [ ] [SSBPL](http://esolangs.org/wiki/SSBPL)
