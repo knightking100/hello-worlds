@@ -395,7 +395,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Cobra](https://rosettacode.org/wiki/Hello_world/Text#Cobra)
 - [ ] [Cod](http://esolangs.org/wiki/Cod)
 - [ ] [Codan](http://esolangs.org/wiki/Codan)
-- [ ] [CodeFuck](http://esolangs.org/wiki/CodeFuck)
+- [x] [CodeFuck](http://esolangs.org/wiki/CodeFuck)
 - [x] [CoffeeScript](https://rosettacode.org/wiki/Hello_world/Text#CoffeeScript)
 - [ ] [Colambda](http://esolangs.org/wiki/Colambda)
 - [x] [ColdFusion](https://rosettacode.org/wiki/Hello_world/Text#ColdFusion)
