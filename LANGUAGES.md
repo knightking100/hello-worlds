@@ -1490,7 +1490,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Symbolic Brainfuck](http://esolangs.org/wiki/Symbolic_Brainfuck)
 - [ ] [Symesol](http://esolangs.org/wiki/Symesol)
 - [ ] [Symple-X](http://esolangs.org/wiki/Symple-X)
-- [ ] [Symsyn](https://rosettacode.org/wiki/Hello_world/Text#Symsyn)
+- [x] [Symsyn](https://rosettacode.org/wiki/Hello_world/Text#Symsyn)
 - [ ] [SynDev](http://esolangs.org/wiki/SynDev)
 - [ ] [Table](http://esolangs.org/wiki/Table)
 - [ ] TACL
