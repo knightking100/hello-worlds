@@ -787,7 +787,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Iota](http://esolangs.org/wiki/Iota)
 - [ ] [IRC](http://esolangs.org/wiki/IRC)
 - [ ] [Iris](http://esolangs.org/wiki/Iris)
-- [ ] [ISCOM](http://esolangs.org/wiki/ISCOM)
+- [x] [ISCOM](http://esolangs.org/wiki/ISCOM)
 - [ ] [itflabtijtslwi](http://esolangs.org/wiki/Itflabtijtslwi)
 - [x] [IWBASIC](https://rosettacode.org/wiki/Hello_world/Text#IWBASIC)
 - [ ] [J--](http://esolangs.org/wiki/J--)
