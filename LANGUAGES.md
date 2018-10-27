@@ -92,7 +92,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Addleq](http://esolangs.org/wiki/Addleq)
 - [ ] [ADJUST](http://esolangs.org/wiki/ADJUST)
 - [x] [Aeolbonn](http://esolangs.org/wiki/Aeolbonn)
-- [x] [Aeon](http://esolangs.org/wiki/Aeon)
+- [ ] [Aeon](http://esolangs.org/wiki/Aeon)
 - [ ] [AFTL](http://esolangs.org/wiki/AFTL)
 - [x] [Agena](https://rosettacode.org/wiki/Hello_world/Text#Agena)
 - [ ] [Agilent VEE / Keysight VEE](https://en.wikipedia.org/wiki/Keysight_VEE)
