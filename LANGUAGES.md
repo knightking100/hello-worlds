@@ -1315,6 +1315,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [RNA](http://esolangs.org/wiki/RNA)
 - [ ] [Roadrunner](http://esolangs.org/wiki/Roadrunner)
 - [ ] [Roco](http://esolangs.org/wiki/Roco)
+- [x] [Rockstar](https://esolangs.org/wiki/Rockstar)
 - [ ] [ROOP](http://esolangs.org/wiki/ROOP)
 - [ ] [Rotary](http://esolangs.org/wiki/Rotary)
 - [ ] [RPG (OS/400)](https://en.wikipedia.org/wiki/IBM_RPG)
