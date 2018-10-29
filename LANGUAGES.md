@@ -954,7 +954,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [MechaniQue](http://esolangs.org/wiki/MechaniQue)
 - [ ] [MEL](https://en.wikipedia.org/wiki/Maya_Embedded_Language)
 - [ ] [Memfractal](http://esolangs.org/wiki/Memfractal)
-- [ ] [Memfuck](http://esolangs.org/wiki/Memfuck)
+- [x] [Memfuck](http://esolangs.org/wiki/Memfuck)
 - [ ] [memPanic](http://esolangs.org/wiki/MemPanic)
 - [ ] [Meq](http://esolangs.org/wiki/Meq)
 - [x] [Mercury](https://rosettacode.org/wiki/Hello_world/Text#Mercury)
