@@ -523,7 +523,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Elog](http://esolangs.org/wiki/Elog)
 - [x] [Emacs Lisp](https://rosettacode.org/wiki/Hello_world/Text#Emacs_Lisp)
 - [ ] [Emmental](http://esolangs.org/wiki/Emmental)
-- [ ] [Emo](http://esolangs.org/wiki/Emo)
+- [x] [Emo](http://esolangs.org/wiki/Emo)
 - [ ] [Emoji-gramming](http://esolangs.org/wiki/Emoji-gramming)
 - [x] [Emojicode](http://www.emojicode.org/)
 - [ ] [Emotebatch](http://esolangs.org/wiki/Emotebatch)
