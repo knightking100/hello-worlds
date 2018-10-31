@@ -104,7 +104,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Alacrity](http://esolangs.org/wiki/Alacrity)
 - [ ] [ALAGUF](http://esolangs.org/wiki/ALAGUF)
 - [ ] [Alchemy](http://esolangs.org/wiki/Alchemy)
-- [ ] [Ale](http://esolangs.org/wiki/Ale)
+- [x] [Ale](http://esolangs.org/wiki/Ale)
 - [ ] [Alex](http://esolangs.org/wiki/Alex)
 - [x] [Algae](https://rosettacode.org/wiki/Hello_world/Text#Algae)
 - [x] [Algol](https://en.wikipedia.org/wiki/ALGOL)
