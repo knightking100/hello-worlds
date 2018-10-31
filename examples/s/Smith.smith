@@ -1,0 +1,12 @@
+MOV R0, 10
+MOV R2, 0
+SUB R2, 1
+MOV R[R0], "Hello, world!"
+MOV TTY, R[R0]
+SUB R0, R2
+MOV R1, R0
+SUB R1, 23
+NOT R1
+NOT R1
+MUL R1, 8
+COR +1, -7, R1
