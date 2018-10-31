@@ -1409,7 +1409,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [SMIL](http://esolangs.org/wiki/SMIL)
 - [x] [SmileBASIC](https://rosettacode.org/wiki/Hello_world/Text#SmileBASIC)
 - [ ] [Smilefuck](http://esolangs.org/wiki/Smilefuck)
-- [ ] [SMITH](http://esolangs.org/wiki/SMITH)
+- [x] [SMITH](http://esolangs.org/wiki/SMITH)
 - [ ] [SMITH#](http://esolangs.org/wiki/SMITH_sharp)
 - [ ] [SMITHb](http://esolangs.org/wiki/SMITHb)
 - [ ] [Smu](http://esolangs.org/wiki/Smu)
