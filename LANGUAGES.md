@@ -553,7 +553,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Euler Math Toolbox](https://rosettacode.org/wiki/Hello_world/Text#Euler_Math_Toolbox)
 - [x] [Euphoria](www.rapideuphoria.com/)
 - [ ] [Everett](http://esolangs.org/wiki/Everett)
-- [ ] [evil](http://esolangs.org/wiki/Evil)
+- [x] [evil](http://esolangs.org/wiki/Evil)
 - [ ] [eWagon](http://esolangs.org/wiki/EWagon)
 - [ ] [excela](http://esolangs.org/wiki/Excela)
 - [ ] [EXCON](http://esolangs.org/wiki/EXCON)
