@@ -470,7 +470,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Desired State Configuration](https://docs.microsoft.com/en-us/powershell/dsc/overview)
 - [ ] [Deviating Percolator](http://esolangs.org/wiki/Deviating_Percolator)
 - [ ] [DeviousYarn](https://rosettacode.org/wiki/Hello_world/Text#DeviousYarn)
-- [ ] [DiBOL](https://en.wikipedia.org/wiki/DIBOL)
+- [x] [DiBOL](https://en.wikipedia.org/wiki/DIBOL)
 - [ ] [DigFill](http://esolangs.org/wiki/DigFill)
 - [ ] [Dimensifuck](http://esolangs.org/wiki/Dimensifuck)
 - [x] [Dimensions](http://esolangs.org/wiki/Dimensions)
