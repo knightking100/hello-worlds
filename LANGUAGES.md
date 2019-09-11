@@ -705,7 +705,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Hannah](http://esolangs.org/wiki/Hannah)
 - [ ] [Hanoi Love](http://esolangs.org/wiki/Hanoi_Love)
 - [ ] [Hanoiing](http://esolangs.org/wiki/Hanoiing)
-- [ ] [HaPyLi](http://esolangs.org/wiki/HaPyLi)
+- [x] [HaPyLi](http://esolangs.org/wiki/HaPyLi)
 - [x] [Harbour](https://rosettacode.org/wiki/Hello_world/Text#Harbour)
 - [ ] [Hardfuck](http://esolangs.org/wiki/Hardfuck)
 - [ ] [Hargfak](http://esolangs.org/wiki/Hargfak)
