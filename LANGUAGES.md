@@ -433,7 +433,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [ ] [cT](http://vpython.org/contents/cTsource/cToverview.html)
 - [ ] [Ctonia](http://esolangs.org/wiki/Ctonia)
-- [ ] [Cubix](http://esolangs.org/wiki/Cubix)
+- [x] [Cubix](http://esolangs.org/wiki/Cubix)
 - [ ] [Cufrab](http://esolangs.org/wiki/Cufrab)
 - [ ] [Cupid](http://esolangs.org/wiki/Cupid)
 - [ ] [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
