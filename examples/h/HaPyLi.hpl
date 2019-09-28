@@ -1,0 +1,3 @@
+import "stdlib/base.hpl"
+
+def main() = (print-string "Hello, world!")
