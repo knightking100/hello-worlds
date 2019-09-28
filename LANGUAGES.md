@@ -1510,7 +1510,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Tamerlane](http://esolangs.org/wiki/Tamerlane)
 - [ ] [TAPASM](http://esolangs.org/wiki/TAPASM)
 - [ ] [TapeBagel](http://esolangs.org/wiki/TapeBagel)
-- [ ] [Taxi](http://esolangs.org/wiki/Taxi)
+- [x] [Taxi](http://esolangs.org/wiki/Taxi)
 - [ ] [tbf](http://esolangs.org/wiki/Tbf)
 - [x] [Tcl](https://rosettacode.org/wiki/Hello_world/Text#Tcl)
 - [x] [Teco](https://rosettacode.org/wiki/Hello_world/Text#Teco)
