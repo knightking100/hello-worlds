@@ -25,7 +25,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [5-logic](http://esolangs.org/wiki/5-logic)
 - [ ] [5command](http://esolangs.org/wiki/5command)
 - [ ] [6ix](http://esolangs.org/wiki/6ix)
-- [ ] [7](http://esolangs.org/wiki/7)
+- [x] [7](http://esolangs.org/wiki/7)
 - [x] [7Basic](http://esolangs.org/wiki/7Basic)
 - [x] [8th](https://rosettacode.org/wiki/Hello_world/Text#8th)
 - [ ] [23](http://esolangs.org/wiki/23)
