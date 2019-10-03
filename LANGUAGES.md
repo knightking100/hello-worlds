@@ -173,7 +173,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [AutoHotkey](https://rosettacode.org/wiki/Hello_world/Text#AutoHotkey)
 - [x] [AutoIt](https://rosettacode.org/wiki/Hello_world/Text#AutoIt)
 - [x] [AutoLISP](https://rosettacode.org/wiki/Hello_world/Text#AutoLISP)
-- [ ] [Automator](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/AutomatorConcepts/Automator.html)
+- [x] [Automator](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/AutomatorConcepts/Automator.html)
 - [ ] [AutoMouse](http://esolangs.org/wiki/AutoMouse)
 - [ ] [Avenue](ftp://www.kcgov.us/KCCSData/KCGIS/Into2AV/Intro2Avenue/avenue.htm))
 - [x] [AWK](https://rosettacode.org/wiki/Hello_world/Text#AWK)
