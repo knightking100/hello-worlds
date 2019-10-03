@@ -458,7 +458,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [DCL](https://rosettacode.org/wiki/Hello_world/Text#DCL)
 - [ ] [DCPU-16 ASM](https://github.com/lucaspiller/dcpu-specifications)
 - [ ] [DcScript](http://esolangs.org/wiki/DcScript)
-- [ ] [dd/dd](http://esolangs.org/wiki/Dd/dd)
+- [x] [dd/dd](http://esolangs.org/wiki/Dd/dd)
 - [x] [DDNC](https://rosettacode.org/wiki/Hello_world/Text#DDNC)
 - [x] [Deadfish](http://esolangs.org/wiki/Deadfish)
 - [ ] [Déjà Vu](https://rosettacode.org/wiki/Hello_world/Text#D.C3.A9j.C3.A0_Vu)
