@@ -1219,7 +1219,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [PROLAN/M](http://esolangs.org/wiki/PROLAN/M)
 - [x] [Prolog](https://rosettacode.org/wiki/Hello_world/Text#Prolog)
 - [ ] [Proof](http://esolangs.org/wiki/Proof)
-- [ ] [PSQL](https://rosettacode.org/wiki/Hello_world/Text#PSQL)
+- [x] [PSQL](https://rosettacode.org/wiki/Hello_world/Text#PSQL)
 - [x] [Puppet]()
 - [ ] [Pure Data](https://puredata.info/)
 - [x] [Pure](https://rosettacode.org/wiki/Hello_world/Text#Pure)
