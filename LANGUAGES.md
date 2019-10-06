@@ -1518,6 +1518,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Tellurium](http://esolangs.org/wiki/Tellurium)
 - [ ] [TempoVar](http://esolangs.org/wiki/TempoVar)
 - [x] [Terra](https://rosettacode.org/wiki/Hello_world/Text#Terra)
+- [x] [Terraform](https://en.wikipedia.org/wiki/Terraform_(software))
 - [ ] [Terse](http://esolangs.org/wiki/Terse)
 - [x] [TestML](https://rosettacode.org/wiki/Hello_world/Text#TestML)
 - [ ] [TEWELSWAC](http://esolangs.org/wiki/TEWELSWAC)
