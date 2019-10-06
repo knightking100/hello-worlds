@@ -6,10 +6,10 @@ variable "file_name" {
 }
 
 resource "local_file" "hello_world" {
-    content     = "Hello World!"
-    filename = "${path.module}/${var.file_name}.txt"
+  content  = "Hello World!"
+  filename = "${path.module}/${var.file_name}.txt"
 
-    provisioner "local-exec" {
+  provisioner "local-exec" {
     command = "cat ${path.module}/${var.file_name}.txt"
   }
 }
