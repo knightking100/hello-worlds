@@ -193,7 +193,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [BAM128](http://esolangs.org/wiki/BAM128)
 - [ ] [BANCStar](http://esolangs.org/wiki/BANCStar)
 - [ ] [Bantas](http://esolangs.org/wiki/Bantas)
-- [ ] [Barely](http://esolangs.org/wiki/Barely)
+- [x] [Barely](http://esolangs.org/wiki/Barely)
 - [x] [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - [x] [BASIC256](https://rosettacode.org/wiki/Hello_world/Text#BASIC256)
 - [ ] [Basic Input/Output Commands](http://esolangs.org/wiki/Basic_Input/Output_Commands)
