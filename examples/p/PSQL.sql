@@ -1,0 +1,7 @@
+ EXECUTE BLOCK
+   RETURNS(S VARCHAR(40))
+ AS
+ BEGIN
+   S = 'Hello world!';
+   SUSPEND;
+ END
