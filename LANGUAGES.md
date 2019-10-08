@@ -1043,7 +1043,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [NetFuck](http://esolangs.org/wiki/NetFuck)
 - [x] [NetRexx](https://rosettacode.org/wiki/Hello_world/Text#NetRexx)
 - [ ] [Network Headache](http://esolangs.org/wiki/Network_Headache)
-- [ ] [Neurosis](http://esolangs.org/wiki/Neurosis)
+- [x] [Neurosis](http://esolangs.org/wiki/Neurosis)
 - [ ] [Nevermore](http://esolangs.org/wiki/Nevermore)
 - [x] [newLISP](https://rosettacode.org/wiki/Hello_world/Text#newLISP)
 - [ ] [Nhohnhehr](http://esolangs.org/wiki/Nhohnhehr)
