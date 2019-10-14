@@ -997,7 +997,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [ML](https://en.wikipedia.org/wiki/ML_(programming_language))
 - [ ] [ML/I](https://rosettacode.org/wiki/Hello_world/Text#ML.2FI)
 - [ ] [MMIX](http://esolangs.org/wiki/MMIX)
-- [ ] [Mmmm()](http://esolangs.org/wiki/Mmmm())
+- [x] [Mmmm()](http://esolangs.org/wiki/Mmmm())
 - [ ] [MNNBFSL](http://esolangs.org/wiki/MNNBFSL)
 - [ ] [Mobius](http://esolangs.org/wiki/Mobius)
 - [ ] [ModanShogi](http://esolangs.org/wiki/ModanShogi)
