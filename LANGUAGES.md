@@ -1207,7 +1207,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [PostScript](https://rosettacode.org/wiki/Hello_world/Text#PostScript)
 - [x] [Potion](https://rosettacode.org/wiki/Hello_world/Text#Potion)
 - [ ] [POV-Ray](http://www.povray.org/documentation/view/3.6.0/224/)
-- [ ] [PowerBasic](https://www.powerbasic.com/)
+- [x] [PowerBasic](https://www.powerbasic.com/)
 - [ ] [Powerlist](http://esolangs.org/wiki/Powerlist)
 - [ ] [PowerScript](https://en.wikipedia.org/wiki/PowerBuilder)
 - [x] [PowerShell](https://rosettacode.org/wiki/Hello_world/Text#PowerShell)
