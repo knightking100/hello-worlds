@@ -2,7 +2,7 @@ List of languages. Pick one you like and open a PR. Make sure you've read [CONTR
 
 You can also request a new language to be added to the list, just leave a comment here.
 
-- [ ] [0(nop^)](http://esolangs.org/wiki/0(nop%5E))
+- [x] [0(nop^)](http://esolangs.org/wiki/0(nop%5E)
 - [ ] [0x29A](http://esolangs.org/wiki/0x29A)
 - [ ] [0x29C](http://esolangs.org/wiki/0x29C)
 - [ ] [01_](http://esolangs.org/wiki/01)
