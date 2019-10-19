@@ -122,7 +122,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [AmigaE](https://rosettacode.org/wiki/Hello_world/Text#AmigaE)
 - [ ] [Amycus Severus](http://esolangs.org/wiki/Amycus_Severus)
 - [ ] [Amycus](http://esolangs.org/wiki/Amycus)
-- [ ] [And](http://esolangs.org/wiki/And)
+- [x] [And](http://esolangs.org/wiki/And)
 - [ ] [Andrei Machine 9000](http://esolangs.org/wiki/Andrei_Machine_9000)
 - [ ] [Anemone](http://esolangs.org/wiki/Anemone)
 - [x] [Angelscript](http://www.angelcode.com/angelscript/)
