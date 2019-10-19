@@ -578,7 +578,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Fantom](https://rosettacode.org/wiki/Hello_world/Text#Fantom)
 - [x] [Felix](http://felix-lang.org/)
 - [x] [ferite](https://rosettacode.org/wiki/Hello_world/Text#ferite)
-- [ ] [ferNANDo](http://esolangs.org/wiki/FerNANDo)
+- [x] [ferNANDo](http://esolangs.org/wiki/FerNANDo)
 - [x] [Fetlang](http://esolangs.org/wiki/Fetlang)
 - [x] [Fexl](https://rosettacode.org/wiki/Hello_world/Text#Fexl)
 - [ ] [FFM/FFB](http://esolangs.org/wiki/FFM/FFB)
