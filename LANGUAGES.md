@@ -359,7 +359,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Chaingate](http://esolangs.org/wiki/Chaingate)
 - [ ] [Challenger](http://esolangs.org/wiki/Challenger)
 - [ ] [Chance](http://esolangs.org/wiki/Chance)
-- [ ] [Charcoal](http://esolangs.org/wiki/Charcoal)
+- [x] [Charcoal](http://esolangs.org/wiki/Charcoal)
 - [x] [ChaScript](http://sjishan.github.io/chascript/code.html)
 - [ ] [Checkout](http://esolangs.org/wiki/Checkout)
 - [x] [Chef](http://esolangs.org/wiki/Chef)
