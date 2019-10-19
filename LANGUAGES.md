@@ -96,7 +96,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [AFTL](http://esolangs.org/wiki/AFTL)
 - [x] [Agena](https://rosettacode.org/wiki/Hello_world/Text#Agena)
 - [ ] [Agilent VEE / Keysight VEE](https://en.wikipedia.org/wiki/Keysight_VEE)
-- [ ] [Agony](http://esolangs.org/wiki/Agony)
+- [x] [Agony](http://esolangs.org/wiki/Agony)
 - [x] [Aheui](http://esolangs.org/wiki/Aheui)
 - [x] [Aime](https://rosettacode.org/wiki/Hello_world/Text#Aime)
 - [ ] [AIV](http://esolangs.org/wiki/AIV)
