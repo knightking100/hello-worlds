@@ -590,7 +590,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Fish](https://esolangs.org/wiki/Fish) (Not the Fish Shell)
 - [ ] [Fishing](http://esolangs.org/wiki/Fishing)
 - [ ] [FISHQ9+](http://esolangs.org/wiki/FISHQ9%2B)
-- [ ] [Fission](http://esolangs.org/wiki/Fission)
+- [x] [Fission](http://esolangs.org/wiki/Fission)
 - [ ] [Fit](http://esolangs.org/wiki/Fit)
 - [ ] [Flatline](http://esolangs.org/wiki/Flatline)
 - [ ] [Flip](http://esolangs.org/wiki/Flip)
