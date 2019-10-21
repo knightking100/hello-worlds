@@ -834,7 +834,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Keya](http://esolangs.org/wiki/Keya)
 - [x] [KimL](http://esolangs.org/wiki/KimL)
 - [ ] [Kinetosis](http://esolangs.org/wiki/Kinetosis)
-- [ ] [Kipple](http://esolangs.org/wiki/Kipple)
+- [x] [Kipple](http://esolangs.org/wiki/Kipple)
 - [x] [Kitanai](http://esolangs.org/wiki/Kitanai)
 - [x] [Kite](https://rosettacode.org/wiki/Hello_world/Text#Kite)
 - [x] [Kitten](https://rosettacode.org/wiki/Hello_world/Text#Kitten)
