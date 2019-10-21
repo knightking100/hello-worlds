@@ -268,7 +268,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Bracket Hax](http://esolangs.org/wiki/Bracket_Hax)
 - [ ] [Brackit](http://esolangs.org/wiki/Brackit)
 - [x] [Bracmat](https://rosettacode.org/wiki/Hello_world/Text#Bracmat)
-- [ ] [Brain-Flak](http://esolangs.org/wiki/Brain-Flak)
+- [x] [Brain-Flak](http://esolangs.org/wiki/Brain-Flak)
 - [x] [Brain](http://esolangs.org/wiki/Brain)
 - [ ] [brainbool](http://esolangs.org/wiki/Brainbool)
 - [ ] [BrainClub](http://esolangs.org/wiki/BrainClub)
