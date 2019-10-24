@@ -1,2 +1,4 @@
 print Hello, World.;
+~ATH(THIS){
+}
 THIS.DIE();
