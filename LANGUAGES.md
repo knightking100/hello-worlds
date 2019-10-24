@@ -67,7 +67,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [~-~!](http://esolangs.org/wiki/~-~!)
 - [ ] [~](http://esolangs.org/wiki/~)
 - [ ] [~#](http://esolangs.org/wiki/~-Hash)
-- [ ] [~ATH](http://esolangs.org/wiki/~ATH)
+- [x] [~ATH](http://esolangs.org/wiki/~ATH)
 - [x] [~English](http://esolangs.org/wiki/~English)
 - [ ] [$tonePits](http://esolangs.org/wiki/$tonePits)
 - [ ] [A0A0](http://esolangs.org/wiki/A0A0)
