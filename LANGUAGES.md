@@ -1177,7 +1177,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [Pikachu](https://en.wikipedia.org/wiki/Esoteric_programming_language#Pikachu)
 - [x] [Pike](https://rosettacode.org/wiki/Hello_world/Text#Pike)
 - [x] [PILOT](https://rosettacode.org/wiki/Hello_world/Text#PILOT)
-- [ ] [PingPong](http://esolangs.org/wiki/PingPong)
+- [x] [PingPong](http://esolangs.org/wiki/PingPong)
 - [ ] [Pinocchio](http://esolangs.org/wiki/Pinocchio)
 - [x] [PIR](https://rosettacode.org/wiki/Hello_world/Text#PIR)
 - [ ] [Pirandello](http://esolangs.org/wiki/Pirandello)
