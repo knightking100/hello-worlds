@@ -499,7 +499,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Dylan.NET](https://rosettacode.org/wiki/Hello_world/Text#Dylan.NET)
 - [x] [Dylan](https://rosettacode.org/wiki/Hello_world/Text#Dylan)
 - [ ] [DZZZZ](http://esolangs.org/wiki/DZZZZ)
-- [ ] [E](https://rosettacode.org/wiki/Hello_world/Text#E)
+- [x] [E](https://en.wikipedia.org/wiki/E_(programming_language))
 - [ ] [Easy](http://esolangs.org/wiki/Easy)
 - [ ] [eC](https://rosettacode.org/wiki/Hello_world/Text#eC)
 - [ ] [EchoLisp](https://rosettacode.org/wiki/Hello_world/Text#EchoLisp)
