@@ -217,7 +217,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Benul](http://esolangs.org/wiki/Benul)
 - [x] [BestFriends.js](http://esolangs.org/wiki/BestFriends.js)
 - [ ] [beta-Juliet](http://esolangs.org/wiki/Beta-Juliet_and_Portia)
-- [ ] [BETA](https://en.wikipedia.org/wiki/BETA_(programming_language))
+- [x] [BETA](https://en.wikipedia.org/wiki/BETA_(programming_language))
 - [ ] [Betterave](http://esolangs.org/wiki/Betterave)
 - [ ] [Beturing](http://esolangs.org/wiki/Beturing)
 - [ ] [BF Joust](http://esolangs.org/wiki/BF_Joust)
