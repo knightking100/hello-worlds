@@ -482,7 +482,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [DM](https://rosettacode.org/wiki/Hello_world/Text#DM)
 - [x] [DNA#](http://esolangs.org/wiki/DNA-Sharp)
 - [ ] [DOBELA](http://esolangs.org/wiki/DOBELA)
-- [ ] [DOG](http://esolangs.org/wiki/DOG)
+- [x] [DOG](http://esolangs.org/wiki/DOG)
 - [x] [Dogescript](http://esolangs.org/wiki/Dogescript)
 - [x] [DOGO](http://esolangs.org/wiki/DOGO)
 - [ ] [Doorspace](http://esolangs.org/wiki/Doorspace)
