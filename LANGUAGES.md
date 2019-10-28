@@ -1694,7 +1694,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [X10]()
 - [ ] [x-D](http://esolangs.org/wiki/X-D)
 - [ ] [X.so](http://esolangs.org/wiki/X.so)
-- [ ] [X++](http://esolangs.org/wiki/X%2B%2B)
+- [x] [X++](http://esolangs.org/wiki/X%2B%2B)
 - [ ] [xBase](https://en.wikipedia.org/wiki/XBase)
 - [ ] [XBase++](https://en.wikipedia.org/wiki/XBase%2B%2B)
 - [ ] [XBF](http://esolangs.org/wiki/XBF)
