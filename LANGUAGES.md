@@ -1013,7 +1013,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Mornington Crescent](http://esolangs.org/wiki/Mornington_Crescent)
 - [ ] [Mostawesomeprogramminglanguage](http://esolangs.org/wiki/Mostawesomeprogramminglanguage)
 - [ ] [Moto](http://www.projectmoto.org/)
-- [ ] [Mouse](http://esolangs.org/wiki/Mouse)
+- [x] [Mouse](http://esolangs.org/wiki/Mouse)
 - [x] [MS-DOS Batch]()
 - [ ] [MSG](http://esolangs.org/wiki/MSG)
 - [ ] [MSM](http://esolangs.org/wiki/MSM)
