@@ -1,0 +1,6 @@
+static void HelloWorld(Args _args)
+{
+	;
+
+	info('Hello World');
+}
