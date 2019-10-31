@@ -131,7 +131,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Another Pi Language](http://esolangs.org/wiki/Another_Pi_Language)
 - [x] [Ansible](https://www.ansible.com/)
 - [x] [Ant Script](http://ant.apache.org/manual/tutorial-HelloWorldWithAnt.html)
-- [ ] [Ante](http://esolangs.org/wiki/Ante)
+- [x] [Ante](http://esolangs.org/wiki/Ante)
 - [x] [AntLang](https://rosettacode.org/wiki/Hello_world/Text#AntLang)
 - [ ] [AnyPL](http://esolangs.org/wiki/AnyPL)
 - [ ] [Anyways](https://rosettacode.org/wiki/Hello_world/Text#Anyways)
