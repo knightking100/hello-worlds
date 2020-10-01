@@ -1268,6 +1268,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [RCEM](http://esolangs.org/wiki/RCEM)
 - [ ] [ReactionCan](http://esolangs.org/wiki/ReactionCan)
 - [x] [ReactJS]()
+- [x] [ReactJS (Functional)]()
 - [ ] [Real Fast Nora's Hair Salon 3: Shear Disaster Download](http://esolangs.org/wiki/Real_Fast_Nora%27s_Hair_Salon_3:_Shear_Disaster_Download)
 - [ ] [REALBasic](https://archive.org/details/tucows_314803_REALbasic)
 - [ ] [Reaper](http://esolangs.org/wiki/Reaper)
