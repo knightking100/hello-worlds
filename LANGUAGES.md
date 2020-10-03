@@ -620,7 +620,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Fortuna](http://esolangs.org/wiki/Fortuna)
 - [ ] [FOSCode / FOSC](https://esolangs.org/wiki/FOSCode)
 - [ ] [Fourfuck](http://esolangs.org/wiki/Fourfuck)
-- [ ] [Fourier](http://esolangs.org/wiki/Fourier)
+- [x] [Fourier](http://esolangs.org/wiki/Fourier)
 - [ ] [Fpulse](http://esolangs.org/wiki/Fpulse)
 - [ ] [Fractran](http://esolangs.org/wiki/Fractran)
 - [ ] [Fractran++](http://esolangs.org/wiki/Fractran%2B%2B)
