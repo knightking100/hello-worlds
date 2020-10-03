@@ -166,7 +166,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [ATS](https://rosettacode.org/wiki/Hello_world/Text#ATS)
 - [ ] [AttoASM](http://esolangs.org/wiki/AttoASM)
 - [ ] [ATZ](http://esolangs.org/wiki/ATZ)
-- [ ] [Aubergine](http://esolangs.org/wiki/Aubergine)
+- [x] [Aubergine](http://esolangs.org/wiki/Aubergine)
 - [ ] [Augeas](https://augeas.net/docs/language.html)
 - [ ] [Auo](http://esolangs.org/wiki/Auo)
 - [ ] [Aura](http://esolangs.org/wiki/Aura)
