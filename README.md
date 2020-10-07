@@ -1,4 +1,4 @@
-# hello-worlds
+# HELLO-WORLD
 This repository is for [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 Collection of over 300 Hello World programs, and counting!
 
