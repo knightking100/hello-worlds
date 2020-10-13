@@ -11,7 +11,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [1L](http://esolangs.org/wiki/1L)
 - [ ] [1mpr0mp2](http://esolangs.org/wiki/1mpr0mp2)
 - [ ] [2-ill](http://esolangs.org/wiki/2-ill)
-- [ ] [2B](http://esolangs.org/wiki/2B)
+- [x] [2B](http://esolangs.org/wiki/2B)
 - [ ] [2D-Reverse](http://esolangs.org/wiki/2D-Reverse)
 - [ ] [2DP](http://esolangs.org/wiki/2DP)
 - [ ] [2iota](http://esolangs.org/wiki/2iota)
