@@ -1708,7 +1708,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [XLISP](https://rosettacode.org/wiki/Hello_world/Text#XLISP)
 - [x] [XPL0](https://rosettacode.org/wiki/Hello_world/Text#XPL0)
 - [ ] [XPL](https://en.wikipedia.org/wiki/XPL)
-- [ ] [XQuery](https://en.wikipedia.org/wiki/XQuery)
+- [x] [XQuery](https://en.wikipedia.org/wiki/XQuery)
 - [x] [XRF](http://esolangs.org/wiki/XRF)
 - [ ] [XS](http://esolangs.org/wiki/XS)
 - [x] [XSLT](https://rosettacode.org/wiki/Hello_world/Text#XSLT)
