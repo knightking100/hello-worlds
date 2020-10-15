@@ -895,7 +895,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [ListLang](http://esolangs.org/wiki/ListLang)
 - [ ] [Little](https://rosettacode.org/wiki/Hello_world/Text#Little)
 - [x] [LiveCode](https://rosettacode.org/wiki/Hello_world/Text#LiveCode)
-- [ ] [LLL](http://esolangs.org/wiki/LLL)
+- [x] [LLL](http://esolangs.org/wiki/LLL)
 - [x] [LLVM](https://rosettacode.org/wiki/Hello_world/Text#LLVM)
 - [ ] [LNUSP](http://esolangs.org/wiki/LNUSP)
 - [ ] [Lo'reran](http://esolangs.org/wiki/Lo%27reran)
