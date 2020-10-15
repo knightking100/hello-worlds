@@ -334,7 +334,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [x] [C++/CLI](https://rosettacode.org/wiki/Hello_world/Text#C.2B.2B.2FCLI)
 - [ ] [Cabra](http://esolangs.org/wiki/Cabra)
 - [ ] [Calculator](http://esolangs.org/wiki/Calculator)
-- [ ] [Calculon](http://esolangs.org/wiki/Calculon)
+- [x] [Calculon](http://esolangs.org/wiki/Calculon)
 - [ ] [Calcutape](http://esolangs.org/wiki/Calcutape)
 - [x] [CalScript](http://esolangs.org/wiki/CalScript)
 - [x] [Caml](https://caml.inria.fr/)
