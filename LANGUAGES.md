@@ -465,6 +465,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [Déjà Vu](https://rosettacode.org/wiki/Hello_world/Text#D.C3.A9j.C3.A0_Vu)
 - [x] [Delphi](https://en.wikipedia.org/wiki/Delphi_(programming_language))/[Object Pascal](https://en.wikipedia.org/wiki/Object_Pascal)
 - [ ] [Deltaplex](http://esolangs.org/wiki/Deltaplex)
+- [x] [Deno](https://deno.land/)
 - [ ] [Dependently Typed Binary Lambda Calculus](http://esolangs.org/wiki/Dependently_Typed_Binary_Lambda_Calculus)
 - [x] [Derpcode](http://esolangs.org/wiki/Derpcode)
 - [x] [Derplang](http://esolangs.org/wiki/Derplang)
