@@ -1,0 +1,23 @@
+DO ,1 <- #18
+
+DO ,1 SUB #1 <- #20
+DO ,1 SUB #2 <- #31
+DO ,1 SUB #3 <- #1
+DO ,1 SUB #4 <- #19
+DO ,1 SUB #5 <- #19
+DO ,1 SUB #6 <- #24
+DO ,1 SUB #7 <- #27
+DO ,1 SUB #8 <- #12
+DO ,1 SUB #9 <- #4
+DO ,1 SUB #10 <- #31
+DO ,1 SUB #11 <- #18
+DO ,1 SUB #12 <- #31
+DO ,1 SUB #13 <- #24
+DO ,1 SUB #14 <- #10
+DO ,1 SUB #15 <- #19
+DO ,1 SUB #16 <- #9
+DO ,1 SUB #17 <- #27
+DO ,1 SUB #18 <- #13
+
+PLEASE READ OUT ,1
+PLEASE GIVE UP
