@@ -15,7 +15,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [2D-Reverse](http://esolangs.org/wiki/2D-Reverse)
 - [ ] [2DP](http://esolangs.org/wiki/2DP)
 - [ ] [2iota](http://esolangs.org/wiki/2iota)
-- [ ] [2L](http://esolangs.org/wiki/2L)
+- [x] [2L](http://esolangs.org/wiki/2L)
 - [ ] [3code](http://esolangs.org/wiki/3code)
 - [ ] [3D](http://esolangs.org/wiki/3D)
 - [ ] [3switchBF](http://esolangs.org/wiki/3switchBF)
