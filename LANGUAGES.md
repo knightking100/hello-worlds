@@ -378,7 +378,7 @@ You can also request a new language to be added to the list, just leave a commen
 - [ ] [CL (OS/400)](https://www.ibm.com/support/knowledgecenter/en/SSAE4W_7.1.0/com.ibm.etools.iseries.pgmgd.doc/evfclmst124.htm)
 - [x] [Clarion](https://en.wikipedia.org/wiki/Clarion_(programming_language))
 - [x] [Clay](https://rosettacode.org/wiki/Hello_world/Text#Clay)
-- [ ] [CLC-INTERCAL](http://esolangs.org/wiki/CLC-INTERCAL)
+- [x] [CLC-INTERCAL](http://esolangs.org/wiki/CLC-INTERCAL)
 - [x] [Clean](https://rosettacode.org/wiki/Hello_world/Text#Clean)
 - [ ] [ClearBF](http://esolangs.org/wiki/ClearBF)
 - [ ] [Clem](http://esolangs.org/wiki/Clem)
