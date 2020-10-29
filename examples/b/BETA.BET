@@ -1,0 +1,5 @@
+{ *** Hello ***}
+(#
+ do
+ 'Hello World!'-&gt;putLine
+#)
